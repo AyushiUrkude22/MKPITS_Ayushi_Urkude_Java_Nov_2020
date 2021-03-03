@@ -205,13 +205,11 @@ accept the values from the user  in the above example
 #### Program 63)Mkpits6.java
 create a class employee with blank and parameterized constructor
 
-#### Program 49)loop1.java
+#### Program 64)MultitaskingEx1.java
+Java Program of performing single task by multiple threads.
 
-#### Program 49)loop1.java
-
-
-
-
+#### Program 65)MultitaskingEx2.java
+Java Program of performing single task by multiple threads.
 
 
 
