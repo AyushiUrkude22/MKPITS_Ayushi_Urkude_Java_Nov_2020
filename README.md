@@ -211,27 +211,209 @@ Java Program of performing single task by multiple threads.
 #### Program 65)MultitaskingEx2.java
 Java Program of performing single task by multiple threads.
 
+#### Program 66)MultitaskingEx3.java
+Java Program of performing two tasks by two threads.
+
+#### Program 67)MultitaskingEx4.java
+Java Program of performing two tasks by two threads using annonymous class that extends Thread class.
+
+#### Program 68)MultitaskingEx5.java
+Java Program of performing two tasks by two threads
+
+#### Program 69NestedInterfaceEx1).java
+Java program Example of nested interface which is declared within the interface.
+
+#### Program 70)NestedInterfaceEx2.java
+Java program Example of nested interface which is declared within the class.
+
+#### Program 71)NestedInterfaceEx3.java
+Java program Example of nested interface which is declared within the class.
+
+#### Program 72)OverloadingEx1.java
+Java program example for Method Overloading: changing no. of arguments.
+
+#### Program 73)OverloadingEx2.java
+Java program example for Method Overloading: changing data type of arguments.
+
+#### Program 74)OverloadingEx3.java
+Java program example for overloading java main() method.
+
+#### Program 75)OverloadingEx4.java
+Java program Example of Method Overloading with Type Promotion if matching found
+
+#### Program 76)OverloadingwithTypePromotion.java
+Java program example of Method Overloading with Type Promotion.
+
+#### Program 77)PatternEx1.java
+Java pattern program. Right Triangle Star Pattern
+
+#### Program 78PatternEx2).java
+Java Pattern program. Diamond Shape Pattern Program in Java
+
+#### Program 79)PatternEx3.java
+Java Pattern program. Downward Triangle Star Pattern.
+
+#### Program 80)PatternEx4.java
+Java Pattern program. Mirrored Right Triangle Star Program.
+
+#### Program 81)PatternEx5.java
+Java Pattern program. Pyramid Program.
+
+#### Program 82)PatternEx6.java
+Java Pattern program. Left Triangle Star Pattern
+
+#### Program 83)PatternEx7.java
+Java pattern program. Reversed Pyramid Star Pattern
+
+#### Program 84)PatternEx8.java
+Java Pattern program. Right down Mirror Star Pattern
+
+#### Program 85)PatternEx9.java
+Java Pattern program. Right Pascal’s Triangle
+
+#### Program 86)PatternEx10.java
+Java Pattern program. Left  Triangle Pascal’s
+
+#### Program 87)PatternEx11.java
+Java Pattern program. Sandglass Star Pattern
+Enter the number of rows: 5
 
 
+#### Program 88)PatternEx12.java
+Java Pattern program. Alphabet A Pattern
 
+#### Program 89)PatternEx13.java
+Java Pattern program. Triangle Star pattern
 
+#### Program 90)PatternEx14.java
+Java Pattern program. Down triangle.
 
+#### Program 91)PatternEx15.java
+Java Pattern program. Diamond Star Pattern.
 
+#### Program 92)B_InstanceInitializerEx3.java
+Java Program of instance initializer block that is invoked after super()
 
+#### Program 93)PolymorphismEx1.java
+Java program to demonstrate Runtime polymorphism using Bank class.
 
+#### Program 94)PolymorphismEx2.java
+//Java program to demonstrate Runtime polymorphism using Shape class.
 
+#### Program 95)PolymorphismEx3.java
+//Java Runtime Polymorphism Example: Animal
 
+#### Program 96)RuntimeClassEx1.java
+//Java program to demonstrate Runtime exec() method.
 
+#### Program 97)RuntimeClassEx3.java
+//Java program to restart system in Java
 
+#### Program 98)RuntimeClassEx4.java
+//Java program to demonstrate Runtime availableProcessors() method.
 
+#### Program 99)RuntimeClassEx5.java
+Java program to demonstrate Runtime freeMemory() and totalMemory() method.
 
+#### Program 100)RuntimePolymorphismEx1.java
+//Java program to demonstrate Runtime polymorphism.
 
+#### Program 101)SearchElement.java
+Java program to search an element in an array. Example of unlabeled break.
 
+#### Program 102)ShutdownHookEx1.java
+Java program to demonstrate Shutdown Hook.
 
+#### Program 103)ShutdownHookEx2.java
+Java program to demonstrate Shutdown Hook by annonymous class.
 
+#### Program 104)SingleInheritancemain.java
+Simple Java program example for Single Inheritance.
 
+#### Program 105)SplendorUpcastingEx1.java
+Java program to demonstrate upcasting.
 
+#### Program 106)StaticNestedClassEx1.java
+Java program Example of static nested class with instance method.
 
+#### Program 107)StaticNestedClassEx2.java
+Java program Example of static nested class with static method.
+
+#### Program 108)StringBuilderEx1.java
+Java program Example to demonstrate StringBuilder append() method.
+
+#### Program 109)StringBuilderEx2.java
+Java program Example to demonstrate StringBuilder append() method.
+
+#### Program 110)StringBuilderEx3.java
+Java program Example to demonstrate StringBuilder insert() method.
+
+#### Program 111)StringBuilderEx4.java
+Java program Example to demonstrate StringBuilder replace() method
+
+#### Program 112)StringBuilderEx5.java
+Java program Example to demonstrate StringBuilder delete() method.
+
+#### Program 113)StringBuilderEx6.java
+Java program Example to demonstrate StringBuilder reverse() method.
+
+#### Program 114)StringBuilderEx7.java
+Java program Example to demonstrate StringBuilder capacity() method.
+
+#### Program 115)StringBuilderEx8.java
+Java program Example to demonstrate StringBuilder ensureCapacity() method.
+
+#### Program 116)SuperEx1.java
+Java program example for implementing super keyword.
+
+#### Program 117)SuperEx2.java
+Java program example for implementing super keyword.
+
+#### Program 118)SuperEx3.java
+Java program example for implementing super keyword with method.
+
+#### Program 119)SuperEx4.java
+Java program example for implementing super keyword for invoking parent class constructor.(Explicitly)
+
+#### Program 120)SuperEx5.java
+Java program example for implementing super keyword for invoking parent class constructor (explicitly)
+
+#### Program 121)SuperEx6.java
+Java program Example of super keyword where super() is provided by the compiler implicitly.
+
+#### Program 122)SuperEx7.java
+Java program example for implementing super keyword for invoking parent class constructor (explicitly)
+
+#### Program 123)SynchronizationEx1.java
+Java program to demonstrate the need for synchronization.
+
+#### Program 124)SynchronizationEx2.java
+Java program example of synchronized method.
+
+#### Program 125)SynchronizationEx3.java
+Java Program Example of synchronized method by using annonymous class.
+
+#### Program 126)SynchronizedBlockEx1.java
+Java Program Example of synchronized block.
+
+#### Program 127)SynchronizedBlockEx2.java
+Java Program Example of synchronized block by using annonymous class.
+
+#### Program 128)TestAnonymousArray.java
+Java Program to demonstrate the way of passing an anonymous array to method.
+
+#### Program 129)TestArrayException.java
+Java Program to demonstrate the case of
+ArrayIndexOutOfBoundsException in a Java Array.
+
+#### Program 130)TestArrayExceptionEx.java
+Java Program to demonstrate how to handle
+
+#### Program 131)TestCloneArray.java
+Java Program to clone the array
+
+#### Program 132)ThreadCallRunEx6.java
+Java program to run a thread by directly calling the run method.
 
 
 

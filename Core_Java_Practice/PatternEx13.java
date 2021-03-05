@@ -1,4 +1,3 @@
-import java.util.Scanner;
 /* Java Pattern program. Triangle Star pattern
     *
    * *
@@ -6,7 +5,7 @@ import java.util.Scanner;
  *     *
 *********
 */
-
+import java.util.Scanner;
 public class PatternEx13
 {
      public static void main(String[] args)
