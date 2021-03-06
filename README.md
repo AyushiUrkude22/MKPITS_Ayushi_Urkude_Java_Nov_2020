@@ -415,9 +415,133 @@ Java Program to clone the array
 #### Program 132)ThreadCallRunEx6.java
 Java program to run a thread by directly calling the run method.
 
+#### Program 133)acceptvalue.java
+Java program to accept byte, short, long, boolean, float, double, char, string value from the user
+and then display it.
 
+#### Program 134)age9th11.java
+Java program that takes an age(for example 20) as input and
+prints something as "You look older than 20"
 
+#### Program 135)alphabet9th17.java
+Java program to check whether an alphabet is a vowel or consonant
 
+#### Program 136)arrayInput.java
+Java program to create an array of integers, accept values from the user in the array,
+and print each value to standard output.
 
+#### Program 137)arrayOfInt.java
+Java program to create an array of integers, put some values in the array, and print each value
+to standard output.
 
+#### Program 138)avg9th9.java
+Java program that takes four numbers as input to calculate and print average
+
+#### Program 139)bodatatype.java
+Program to declare boolean datatype variable
+
+#### Program 140)book.java
+Java program to create a class book having fields bookname,author and price
+and a blank constructor and constructor with 3 parameters.
+
+#### Program 141)book4main.java
+Java program to create a class book having fields bookname,author and price and a blank constructor.
+
+#### Program 142)book5main.java
+Java program to create a class book having fields bookname,author and price
+and a blank constructor and constructor with 3 parameters.
+
+#### Program 143)book7main.java
+Java program to create a class book having fields bookid,bookname,price and author and getdata
+ 
+#### Program 144)bookmain9overload.java
+Java program for example of book class having constructor and method overloading
+
+#### Program 145)bydatatype.java
+Program to declare byte datatype variable
+
+#### Program 146)cal10main.java
+Java program example of method overloading with different no. of parameters
+
+#### Program 147)cal11main.java
+Java program example of method overloading with different types of parameters
+
+#### Program 148)calculate.java
+Java program to calculate total , per and grade using if else if.
+
+#### Program 149)calculate9th7.java
+java program to print on screen the output of adding, subtracting, multiplying and dividing of
+two numbers which will be entered by the user.
+
+#### Program 150)calculatormain.java
+Java program to create a class calculator with methods addition, subtraction,
+multiplication, division, modulus.
+
+#### Program 151)characcheck9th16.java
+Java program to check whether a character is an alphabet, digit or special
+
+#### Program 152)chdatatype.java
+Program to declare char datatype variable
+
+#### Program 153)circlemain.java
+Java program to create circle class for calculating area.
+
+#### Program 154)countp.java
+Java program that steps through a String, counting the occurences of the letter "p".
+
+#### Program 155)cust8main.java
+Java program to create a class customer having fields custid,custname,address and emailid
+and getdata method with 4 parameters and showdata method
+
+#### Program 156)cust10main.java
+Java program to create a class customer having fields custid,custname,address and emailid
+and getdata method and showdata method without parameters.
+
+#### Program 157)daynum9th21.java
+Java program to read any day number in integer and display day name in word.
+
+#### Program 158)daysDisplay.java
+Java program to accept mon and display the days in that month using switch.
+
+#### Program 159)dbdatatype.java
+Program to declare double datatype variable
+
+#### Program 160)RuntimeClassEx3.java
+Java program to restart system in Java
+
+#### Program 161)ThreadCallRunEx7.java
+Java program to run a thread by directly calling the run method.
+
+#### Program 162)ThreadCurrentThreadMethodEx11.java
+Java program to demonstrate currentThread() method.
+
+#### Program 163)ThreadEx1.java
+Java program to create a thread by extending thread class
+
+#### Program 163)ThreadEx2.java
+Java program to create thread by implementing runnable interface.
+
+#### Program 164)ThreadEx3.java
+Java program to create 2 threads.
+
+#### Program 165)ThreadJoinMethodEx8.java
+Java program to use join method for thread.
+
+#### Program 166)ThreadJoinMethodEx9.java
+Java program to use join method for thread.
+
+#### Program 167)ThreadMethodEx10.java
+Java program to demonstrate getName(), setName() and getId() methods in Thread class
+
+#### Program 168)ThreadPriorityEx1.java
+Java program Example of priority of a Thread.
+
+#### Program 169)ThreadPriorityEx2.java
+Java program Example of priority of a Thread.
+
+#### Program 170)ThreadSleepEx4.java
+Java program to sleep a thread.
+
+#### Program 171)ThreadTwiceEx5.java
+Java program to start the same thread twice.
 
