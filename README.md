@@ -802,3 +802,55 @@ Example to handle another unchecked exception.
 #### Program 256)TryCatchExample10.java
 Example to handle checked exception.
 
+#### Program 257)localInner1$Local.java
+
+#### Program 258)localInner1.java
+Java local inner class example
+
+#### Program 259)localInner2.java
+Example of local inner class with local variable
+
+#### Program 260)TestAnnonymousInner1.java
+Java anonymous inner class example using interface
+
+#### Program 261)TestAnonymousArray.java
+Java Program to demonstrate the way of passing an anonymous array to method.
+
+#### Program 262)TestAnonymousInner.java
+Java anonymous inner class example using class
+
+#### Program 263)TestReturnArrayP.java
+Java Program to return an array from the method
+
+#### Program 264)Testarray1.java
+Java Program to illustrate how to declare, instantiate, initialize and traverse the Java array.
+
+#### Program 265)Testarray3.java
+Java Program to illustrate the use of multidimensional array
+
+#### Program 266)Testarray4.java
+Java Program to get the class name of array in Java
+
+#### Program 267)Testarray4.java
+Java Program to get the class name of array in Java
+
+#### Program 268)TestarrayA.java
+Java Program to demonstrate the way of passing an array to method.
+
+#### Program 269)TestarrayD.java
+Java Program to illustrate the use of declaration, instantiatio and initialization of Java array in a single line
+
+#### Program 270)TestArrayException.java
+Java Program to demonstrate the case of ArrayIndexOutOfBoundsException in a Java Array.
+
+#### Program 256).java
+
+#### Program 256).java
+
+#### Program 256).java
+
+#### Program 256).java
+
+#### Program 256).java
+
+#### Program 256).java
