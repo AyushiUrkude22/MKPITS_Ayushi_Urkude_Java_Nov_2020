@@ -843,14 +843,20 @@ Java Program to illustrate the use of declaration, instantiatio and initializati
 #### Program 270)TestArrayException.java
 Java Program to demonstrate the case of ArrayIndexOutOfBoundsException in a Java Array.
 
-#### Program 256).java
+#### Program 271)StringexA.java
+boolean equals(Object another) checks the equality of string with the given object.
 
-#### Program 256).java
+#### Program 272)Stringex1.java
+String concat(String str) concatenates the specified string.
 
-#### Program 256).java
+#### Program 273)Operation.java
+boolean contains(CharSequence s) returns true or false after matching the sequence
 
-#### Program 256).java
+#### Program 274)loopB.java
+wap to accept a number and print table of that number
 
-#### Program 256).java
+#### Program 275)loopA.java
+wap to print no. from 1 to 10 using while loop
 
-#### Program 256).java
+#### Program 276)forloopA.java
+wap to print no. from 1 to 10 using for loop
