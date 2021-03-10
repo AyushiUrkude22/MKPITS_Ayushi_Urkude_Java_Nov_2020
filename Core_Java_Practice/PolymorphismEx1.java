@@ -1,4 +1,4 @@
-Java program to demonstrate Runtime polymorphism using Bank class.
+//Java program to demonstrate Runtime polymorphism using Bank class.
 
 class Bank
 {

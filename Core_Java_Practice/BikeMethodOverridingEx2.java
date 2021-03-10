@@ -1,6 +1,6 @@
 //Java Program to illustrate the use of Java Method Overriding
 //Creating a parent class.
-class Vehicle
+class Vehicle1
 {
       //defining a method
       void run()

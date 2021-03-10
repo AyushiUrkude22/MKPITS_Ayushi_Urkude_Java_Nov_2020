@@ -4,7 +4,7 @@
 //create a child class current inherited from account class . (Example of hierarchical Inheritance.)
 
 import java.util.*;
-class Account
+class Account1
 {
 	int actno;
 	float balance=1000;
@@ -24,7 +24,7 @@ class Account
 	}
 }
 /////////////////////////
-class Saving extends Account
+class Saving1 extends Account
 {
 	int interest = 200;
 	//overriding the account class deposit  method
@@ -34,7 +34,7 @@ class Saving extends Account
 	}
 }
 ///////
-class Current extends Account
+class Current1 extends AccountA
 {
 }
 ///////////////////////////////////////

@@ -1,5 +1,5 @@
-//Example, we handle the generated exception (Arithmetic Exception) with a different type of
-exception class (ArrayIndexOutOfBoundsException).
+/*Example, we handle the generated exception (Arithmetic Exception) with a different type of
+exception class (ArrayIndexOutOfBoundsException).*/
 
 public class TryCatchExample8 {
 

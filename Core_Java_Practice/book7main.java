@@ -1,7 +1,7 @@
 //7) Java program to create a class book having fields bookid,bookname,price and author and getdata
 //method with 4 parameters and showdata method
 import java.util.*;
-class book
+class book2
 {
 	//Attributes
 	private int bookid;

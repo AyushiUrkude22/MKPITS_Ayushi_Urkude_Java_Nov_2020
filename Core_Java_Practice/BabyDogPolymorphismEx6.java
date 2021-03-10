@@ -1,5 +1,5 @@
 //Java Runtime Polymorphism with Multilevel Inheritance.
-class Animal
+class Animal1
 {
     void eat()
     {
@@ -7,7 +7,7 @@ class Animal
 	}
 }
 
-class Dog extends Animal
+class Dog1 extends Animal
 {
     void eat()
     {

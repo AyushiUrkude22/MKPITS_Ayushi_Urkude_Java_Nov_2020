@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-abstract class Account
+abstract class AccountA
 {
 	int actno;
 	float balance=1000;
@@ -16,7 +16,7 @@ abstract class Account
 	}
 }
 
-class Saving extends Account
+class Saving extends AccountB
 {
 	int interest = 200;
 	//overriding the account class deposit  method
@@ -30,7 +30,7 @@ class Saving extends Account
 	}
 }
 
-class Current extends Account
+class Current extends AccountC
 {
 	void deposit(float amt)
 	{

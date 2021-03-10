@@ -1,5 +1,6 @@
-// Example  a class employee having attributes empno,empname , designation and salary
-and methods getdata and showdata
+/* Example  a class employee having attributes empno,empname , designation and salary
+
+and methods getdata and showdata */
 
 class employee
 {
@@ -24,7 +25,7 @@ System.out.println("salary = " + salary);
 }
 
 //creating a class mkpits
-class mkpits
+class DisplayEmployeeInfo
 {
 	public static void main(String[] arg)
 	{

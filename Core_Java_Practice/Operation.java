@@ -1,8 +1,8 @@
-//boolean contains(CharSequence s) returns true or false after matching the sequence
-of char value.
+/*boolean contains(CharSequence s) returns true or false after matching the sequence
+of char value. */
 
 import java.util.*;
-class Operation{
+class BooleanContains{
 public static void main(String args[])
 {
 Scanner scan=new Scanner(System.in);

@@ -1,13 +1,13 @@
 //Java program to create a class book having fields bookname,author and price
 //and a blank constructor and constructor with 3 parameters.
 
-class book
+class book1
 {
 	String bookname;
 	String author;
 	float price;
 	//creating a blank constructor
-	public  book()
+	  book1()
 	{
 		bookname="Java Programming";
 		author="Ayushi";
@@ -16,14 +16,14 @@ class book
 	}
 
 	//creating a parameterized constructor
-	public  book(String bn,String au,float pr)
+	public  book1(String bn,String au,float pr)
 	{
 		bookname=bn;
 		author=au;
 		price=pr;
 	}
 	//creating a parameterized constructor
-	public  book(String bn,float pr,String au)
+	public  book1(String bn,float pr,String au)
 	{
 		bookname=bn;
 		author=au;

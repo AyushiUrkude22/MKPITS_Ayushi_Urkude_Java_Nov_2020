@@ -8,7 +8,7 @@ class Operation
 	}
 }
 //creating a class Circle
-class Circle
+class Circle1
 {
 	Operation op;
 	double pi=3.14;

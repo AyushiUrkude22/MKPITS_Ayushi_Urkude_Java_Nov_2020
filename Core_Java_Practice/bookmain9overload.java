@@ -1,11 +1,11 @@
 //Java program for example of book class having constructor and method overloading
-class book
+class book3
 {
 	String bookname;
 	String author;
 	float price;
 	//creating a constructor
-	public book()
+	 book3()
 	{
 		bookname="html";
 		author="Palak";
