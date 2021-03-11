@@ -1,19 +1,19 @@
 //Java program to create a class employee having fields empname,designation and salary and
 //a blank constructor and constructor with 3 parameters.(Example of constructor overloading)
 
-class employee
+class EmployeeA
 {
 	String empname,designation;
 	float salary;
 	//creating a blank constructor
-	public employee()
+	public EmployeeA()
 	{
 		empname="Kalash";
 		designation="Software developer";
 		salary=30000.00f;
 	}
 	//creating parameterized constructor
-	public employee(String ename,String edesig, float sal)
+	public EmployeeA(String ename,String edesig, float sal)
 	{
 		empname=ename;
 		designation=edesig;

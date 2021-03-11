@@ -4,7 +4,7 @@
 //parttimeemployee having instance variable workinghours derived from Employee class.
 
 import java.util.*;
-class Person
+class Personj
 {
 	String name;
 	void getpersondata (String name)

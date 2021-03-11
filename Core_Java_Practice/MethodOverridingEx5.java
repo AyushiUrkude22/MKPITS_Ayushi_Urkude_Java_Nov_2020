@@ -1,4 +1,6 @@
-class Bank
+//Java Program to demonstrate the real scenario of Java Method Overriding
+//where three classes are overriding the method of a parent class.(Example: Bank class)
+class BankN
 {
 	static int roi=2;
     int getRateOfInterest()
@@ -10,11 +12,9 @@ class Bank
 		System.out.println("roi from static method : " + roi);
 	}
 }
-//Java Program to demonstrate the real scenario of Java Method Overriding
-//where three classes are overriding the method of a parent class.(Example: Bank class)
 
 //Creating child classes.
-class SBI extends Bank
+class SBIBank extends BankN
 {
 	int getRateOfInterest()
 	{
@@ -23,7 +23,7 @@ class SBI extends Bank
 	}
 }
 
-class ICICI extends Bank
+class ICICIBank extends BankN
 {
     int getRateOfInterest()
     {
@@ -31,7 +31,7 @@ class ICICI extends Bank
     }
 }
 
-class AXIS extends Bank
+class AXISBank extends BankN
 {
     int getRateOfInterest()
     {

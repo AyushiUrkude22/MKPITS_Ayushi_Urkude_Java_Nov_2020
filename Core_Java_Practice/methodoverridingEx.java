@@ -1,7 +1,7 @@
 //Java program example of method overriding and overloading
 
 import java.util.*;
-class Person
+class PersonA
 {
 	String name;
 	void getdata (String name)
@@ -14,7 +14,7 @@ class Person
     }
 }
 //////////////////////////////
-class Employee extends Person
+class EmployeeP extends Person
 {
 	float salary;
 	//method overloading

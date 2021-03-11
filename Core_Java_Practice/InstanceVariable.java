@@ -1,11 +1,11 @@
 //Java program example of using this keyword to refer current class book's instance variable
 //bookname
-class book
+class BooksInstanceVariable
 {
 	//creating instance variable
 	String bookname;
 	//creating a constructor with parameters
-	public book(String bookname)
+	public BooksInstanceVariable   (String bookname)
 	{
 		this.bookname=bookname;
 	}
@@ -16,7 +16,7 @@ class book
 	}
 }
 //creating a class
-class example1this
+class InstanceVariable
 {
 	public static void main(String[] args)
 	{

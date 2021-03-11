@@ -1,5 +1,5 @@
 //Java program to calculate total , per and grade using if else if.
-class calculate
+class calculateTotalPerGrade
 {
 	public static void main(String[] args)
 	{

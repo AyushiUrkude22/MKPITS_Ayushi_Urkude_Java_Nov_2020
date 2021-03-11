@@ -1,22 +1,22 @@
 // Java program to create circle class for calculating area.
 
-class Circle
+class CircleForCalculatingAres
 {
 	//private instance variables
 	private double radius;
 	private String color;
 
-	Circle()
+	CircleForCalculatingAres()
 	{
 		radius = 1.0;
 		color = "red";
 	}
-	Circle(double radius)
+	CircleForCalculatingAres(double radius)
 	{
 		this.radius = radius;
 		color = "red";
 	}
-	Circle(double radius, String color)
+	CircleForCalculatingAres(double radius, String color)
 	{
 		this.radius = radius;
 		this.color = color;

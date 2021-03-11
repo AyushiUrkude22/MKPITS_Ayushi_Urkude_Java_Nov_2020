@@ -21,7 +21,7 @@ class Account
 	}
 }
 
-class Saving extends Account
+class SavingA extends Account
 {
 	int interest = 200;
 	//overriding the account class deposit  method
@@ -31,7 +31,7 @@ class Saving extends Account
 	}
 }
 
-class Current extends Account
+class CurrentA extends Account
 {
 
 }

@@ -1,6 +1,6 @@
 //Java program to invoke current class method using this keyword.
 
-class A
+class A1
 {
     void m()
     {

@@ -1,7 +1,7 @@
 //Java program Example of Java final method.
 //final method is inherited but you cannot override it.
 
-class Bike
+class Bike4
 {
       final void run()
       {
@@ -9,10 +9,10 @@ class Bike
 	  }
 }
 
-class HondafinalEx5 extends Bike
+class HondafinalEx extends Bike4
 {
        public static void main(String args[])
        {
-       		 new HondafinalEx5().run();
+       		 new HondafinalEx().run();
        }
 }

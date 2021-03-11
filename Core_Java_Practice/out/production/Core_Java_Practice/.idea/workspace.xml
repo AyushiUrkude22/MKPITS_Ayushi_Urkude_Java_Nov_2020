@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba7cd188-15e6-4d6f-8aea-9c49eac12f07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Core_Java_Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/com/mkpits/java/filehandling/fileoutputstream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/mkpits/java/filehandling/fileoutputstream2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AggregationEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AggregationEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx10.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx11.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx12.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx13.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx14.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx15.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx8.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternEx9.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AggregationEx1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AggregationEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Operation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perdivi9th14.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/perdivi9th14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B_InstanceInitializerEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/B_InstanceInitializerEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CovariantReturnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/CovariantReturnType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DogDowncastingEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/DogDowncastingEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DogDowncastingEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DogDowncastingP1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DogDynamicBindingEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/DogDynamicBindingP2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoginstanceofEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DoginstanceofA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HierarchicalInheritancemain.java" beforeDir="false" afterPath="$PROJECT_DIR$/HierarchicalInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HondaAbstractClassEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondaAbstractClassEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HondaPolymorphismEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondaPolymorphismEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HondafinalEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondafinalEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HondafinalEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondafinalEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HondafinalEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondafinalEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelligentOverridingEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntelligentOverridingEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MemberInnerClassEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/MemberInnerClassEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverridingEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/MethodOverridingEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverridingEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/MethodOverridingEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circlemain.java" beforeDir="false" afterPath="$PROJECT_DIR$/circlemain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cust8main.java" beforeDir="false" afterPath="$PROJECT_DIR$/custAmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/empmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/empmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1this.java" beforeDir="false" afterPath="$PROJECT_DIR$/InstanceVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2this.java" beforeDir="false" afterPath="$PROJECT_DIR$/DefaultConstructorFromParameterizedonstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3this.java" beforeDir="false" afterPath="$PROJECT_DIR$/DefaultConstructorFromParameterizedonstructor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4this.java" beforeDir="false" afterPath="$PROJECT_DIR$/example4this.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5this.java" beforeDir="false" afterPath="$PROJECT_DIR$/example5this.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instanceofEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/instanceofEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methodoverridingEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/methodoverridingEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1pVRWITHn47ZDxeTDfAQwy3YdfT" />
+  <component name="ProjectId" id="1pHdnmVh0kccve02jinXw98Dk4H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,24 +53,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\java program\MKPITS_Ayushi_Urkude_Java_Nov_2020\Core_Java_Practice\.idea" />
+      <recent name="C:\java program\MKPITS_Ayushi_Urkude_Java_Nov_2020\Core_Java_Practice\src\com\mkpits\java\aggregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayDimension">
-    <configuration name="ArrayDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayDimension" />
+  <component name="RunManager" selected="Application.FileOutputStreamExample">
+    <configuration name="AggregationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AggregationEx2" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightTriangleStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RightTriangleStarPattern" />
+    <configuration name="FileOutputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileOutputStreamExample" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,19 +80,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayDimension" />
-        <item itemvalue="Application.RightTriangleStarPattern" />
+        <item itemvalue="Application.FileOutputStreamExample" />
+        <item itemvalue="Application.AggregationEx2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba7cd188-15e6-4d6f-8aea-9c49eac12f07" name="Default Changelist" comment="" />
-      <created>1615266300822</created>
+      <changelist id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="" />
+      <created>1614844126574</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615266300822</updated>
+      <updated>1614844126574</updated>
     </task>
     <servers />
   </component>
@@ -97,5 +106,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/acceptvalue.java</url>
+          <line>5</line>
+          <properties class="acceptvalue" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

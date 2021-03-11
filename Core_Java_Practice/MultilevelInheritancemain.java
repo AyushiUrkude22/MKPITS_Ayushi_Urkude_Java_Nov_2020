@@ -1,6 +1,6 @@
 //Simple Java program example for Multilevel Inheritance.
 
-class Animal
+class Animaldogs
 {
     void eat()
     {
@@ -8,7 +8,7 @@ class Animal
 	}
 }
 
-class Dog extends Animal
+class Dogc extends Animal
 {
     void bark()
     {

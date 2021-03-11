@@ -1,15 +1,15 @@
 //Java program to call parameterized constructor from default constructor using this keyword.
 
-class A
+class Abc
 {
 	int x;
-    A()
+    Abc()
     {
 		this(10);
 		x=20;
 		System.out.println("hello default constructor x = " + x); //20
 	}
-    A(int x)
+    Abc(int x)
     {
 		System.out.println("Hello parameterized constructor x= " + x); //10
     }

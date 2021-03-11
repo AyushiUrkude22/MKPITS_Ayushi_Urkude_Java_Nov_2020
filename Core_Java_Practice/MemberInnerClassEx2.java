@@ -1,6 +1,6 @@
 //Java program example for Member inner class.
 
-class student
+class studentA
 {
 	private int rno=54;
 	class address

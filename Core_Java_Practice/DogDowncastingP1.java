@@ -1,16 +1,16 @@
 //Java program Example for Downcasting without the use of java instanceof operator.
-class Animal { }
+class InstanceOfOperator { }
 
-class DogDowncastingEx2 extends Animal
+class DogDowncastingP1 extends InstanceOfOperator
 {
       static void method(Animal a)
       {
-           DogDowncastingEx2 d=(DogDowncastingEx2)a;//downcasting
+           DogDowncastingP1 d=(DogDowncastingP1)a;//downcasting
            System.out.println("ok downcasting performed");
       }
       public static void main (String [] args)
       {
-      	  Animal a=new DogDowncastingEx2();
-      	  DogDowncastingEx2.method(a);
+      	  Animal a=new DogDowncastingP1();
+      	  DogDowncastingP1.method(a);
       }
 }

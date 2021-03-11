@@ -1,15 +1,15 @@
 //Java Program of instance initializer block that is invoked after super()
-class A
+class Ayushi
 {
-    A()
+    Ayushi ()
     {
     	System.out.println("parent class constructor invoked");
     }
 }
 
-class B_InstanceInitializerEx3 extends A
+class B_InstanceInitializer extends Ayushi
 {
-    B_InstanceInitializerEx3()
+    B_InstanceInitializer()
     {
     	super();
     	System.out.println("child class constructor invoked");
@@ -21,7 +21,7 @@ class B_InstanceInitializerEx3 extends A
 
     public static void main(String args[])
     {
-    	B_InstanceInitializerEx3 b=new B_InstanceInitializerEx3();
+    	B_InstanceInitializer b=new B_InstanceInitializer();
     }
 }
 

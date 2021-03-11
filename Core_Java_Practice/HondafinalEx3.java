@@ -1,4 +1,6 @@
-class Bike
+//Java program Example of Java final method.
+
+class Bike2
 {
       final void run()
       {
@@ -6,7 +8,7 @@ class Bike
 	  }
 }
 
-class HondafinalEx3 extends Bike
+class HondaAbstract extends Bike
 {
        void run()
        {
@@ -14,7 +16,7 @@ class HondafinalEx3 extends Bike
 	   }
        public static void main(String args[])
        {
-       		HondafinalEx3 honda= new HondafinalEx3();
+           HondaAbstract honda= new HondaAbstract();
        		honda.run(); //Compile time error.
        }
 }

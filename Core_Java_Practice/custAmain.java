@@ -1,7 +1,7 @@
 //Java program to create a class customer having fields custid,custname,address and emailid
 //and getdata method with 4 parameters and showdata method
 import java.util.*;
-class customer
+class customerA
 {
 	private int custid;
 	private String custname;
@@ -23,7 +23,7 @@ class customer
 	}
 }
 
-class cust8main
+class custAmain
 {
 	public static void main(String[] args)
 	{

@@ -1,16 +1,16 @@
 //Java program Example of Runtime Polymorphism with Data Member.
 
-class Bike
+class Bike5
 {
 	int speedlimit=110;
 }
 
-class HondaPolymorphismEx4 extends Bike
+class HondaPolymorphism extends Bike5
 {
     int speedlimit=150;
     public static void main(String args[])
     {
-    	Bike obj=new HondaPolymorphismEx4();
+    	Bike obj=new HondaPolymorphism();
       	System.out.println(obj.speedlimit);//90
     }
 }

@@ -1,6 +1,6 @@
 //Java Program to illustrate the use of Java Method Overriding
 
-class Vehicle
+class VehicleA
 {
 	void run()
     {
@@ -8,7 +8,7 @@ class Vehicle
     }
 }
 
-class Bike extends Vehicle
+class Bike6 extends VehicleA
 {
 	void run()
 	{
@@ -16,7 +16,7 @@ class Bike extends Vehicle
 	}
 }
 
-class Car extends Vehicle
+class Car extends VehicleA
 {
 	void run()
 	{

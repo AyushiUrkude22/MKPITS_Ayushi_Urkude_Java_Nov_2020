@@ -1,6 +1,6 @@
 //accept the values from the user  in the above example
 import java.util.*;
-class employee
+class employeed
 {
 int empno;
 String empname;
@@ -41,7 +41,7 @@ class Mkpits4
 		String ed=s1.next();
 		System.out.println("enter emp salary ");
 		float sa=s1.nextFloat();
-		emp.getdata(en,ename,ed,sa);
+		emp.getdata(en, ed,sa);
 		emp.showdata();
 
 employee emp1=new employee();
@@ -53,7 +53,7 @@ employee emp1=new employee();
 		 ed=s1.next();
 		System.out.println("enter emp salary ");
 		 sa=s1.nextFloat();
-		emp1.getdata(en,ename,ed,sa);
+		emp1.getdata(en, ed,sa);
 		emp1.showdata();
 
 

@@ -2,7 +2,7 @@
 
 interface Printable{}
 
-class A implements Printable
+class A5 implements Printable
 {
     public void a()
     {

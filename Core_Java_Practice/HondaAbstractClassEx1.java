@@ -3,12 +3,12 @@
 //that contains only one abstract method run.
 //Its implementation is provided by the Honda class.
 
-abstract class Bike
+abstract class Bike1
 {
 	abstract void run();
 }
 
-class HondaAbstractClassEx1 extends Bike
+class HondaAbstractClassEx1 extends Bike1
 {
     void run()
     {

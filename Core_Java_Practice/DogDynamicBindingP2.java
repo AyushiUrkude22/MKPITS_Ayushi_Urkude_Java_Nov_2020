@@ -2,7 +2,7 @@
 //When type of the object is determined at run-time,
 //it is known as dynamic binding.
 
-class Animal
+class AnimalDogs
 {
     void eat()
     {
@@ -10,7 +10,7 @@ class Animal
 	}
 }
 
-class DogDynamicBindingEx1 extends Animal
+class DogDynamicBindingP2 extends AnimalDogs
 {
     void eat()
     {
@@ -18,7 +18,7 @@ class DogDynamicBindingEx1 extends Animal
 	}
     public static void main(String args[])
     {
-		Animal a=new DogDynamicBindingEx1();
+		Animal a=new DogDynamicBindingP2();
         a.eat();
     }
 }

@@ -1,13 +1,13 @@
 //create a class employee with blank and parameterized constructor
 import java.util.*;
-class employee
+class Employeeayu
 {
 int empno;
 String empname;
 String designation;
 float salary;
 //creating a constructor with no parameters
- public employee()
+ public void employee()
 {
 	empno=007;
 	empname="bond";
@@ -15,7 +15,7 @@ float salary;
 	salary=4444.4f;
 }
 //creating a parameterized constructor
-public employee(int en,String ena, String des, float sal)
+public void employee(int en, String ena, String des, float sal)
 {
 	empno=en;
 	empname=ena;

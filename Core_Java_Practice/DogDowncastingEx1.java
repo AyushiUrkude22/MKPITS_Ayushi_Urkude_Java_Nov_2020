@@ -7,7 +7,7 @@
 //Compiles successfully but ClassCastException is thrown at runtime
 //But if we use instanceof operator, downcasting is possible.
 
-class Animal { }
+class AnimalDog { }
 class DogDowncastingEx1 extends Animal
 {
 	static void method(Animal a)

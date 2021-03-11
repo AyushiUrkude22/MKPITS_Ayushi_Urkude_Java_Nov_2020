@@ -4,7 +4,7 @@
 //parttimeemployee having instance variable workinghours derived from Employee class.
 
 import java.util.*;
-class Person
+class Personex
 {
 	String name;
 	void getpersondata(String name)
@@ -17,10 +17,15 @@ class Person
 	}
 }
 //////////////////////////////
-class Employee extends Person
+class Employeeh extends Person
 {
 	float salary;
-    void getemployeedata(float salary)
+
+	void Employee(int id, String name) {
+		super(id, name);
+	}
+
+	void getemployeedata(float salary)
 	{
 		this.salary=salary;
 	}

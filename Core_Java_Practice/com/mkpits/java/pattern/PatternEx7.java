@@ -7,7 +7,7 @@ package com.mkpits.java.pattern;/* Java pattern program. Reversed Pyramid Star P
 */
 
 import java.util.Scanner;
-public class ReversedPyramidStarPattern
+class ReversedPyramidStarPattern
 {
     public static void main(String[] args)
 	{

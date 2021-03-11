@@ -1,6 +1,6 @@
 //Simple Java program example for Hierarchical Inheritance.
 
-class Animal
+class Animals
 {
     void eat()
     {
@@ -8,7 +8,7 @@ class Animal
     }
 }
 
-class Dog extends Animal
+class Dogs extends Animals
 {
     void bark()
     {
@@ -16,7 +16,7 @@ class Dog extends Animal
     }
 }
 
-class Cat extends Animal
+class Cat extends Animals
 {
     void meow()
     {
@@ -24,9 +24,9 @@ class Cat extends Animal
     }
 }
 
-class HierarchicalInheritancemain
+class HierarchicalInheritance
 {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
     	Cat c=new Cat();
     	c.meow();
