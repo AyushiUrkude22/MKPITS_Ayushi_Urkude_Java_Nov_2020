@@ -1,6 +1,6 @@
 //Java program to demonstrate upcasting.
 
-class Bike
+class BikeA
 {
 	void run()
 	{
@@ -8,7 +8,7 @@ class Bike
 	}
 }
 
-class SplendorUpcastingEx1 extends Bike
+class SplendorUpcastingEx1 extends BikeA
 {
 	void run()
 	{

@@ -1,6 +1,6 @@
 //Simple Java program example for Single Inheritance.
 
-class Animal
+class Animal10
 {
     void eat()
     {
@@ -8,7 +8,7 @@ class Animal
 	}
 }
 
-class Dog extends Animal
+class Dogb extends Animal10
 {
     void bark()
     {

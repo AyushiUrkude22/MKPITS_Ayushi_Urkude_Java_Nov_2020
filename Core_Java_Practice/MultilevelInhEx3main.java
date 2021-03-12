@@ -17,7 +17,7 @@ class Personj
 	}
 }
 //////////////////////////////
-class Employee extends Person
+class Employeed extends Person
 {
 	float salary;
     void getemployeedata (String name,float salary)
@@ -32,7 +32,7 @@ class Employee extends Person
 	}
     }
 //////////////////////////////////
-class parttimeemployee extends Employee
+class parttimeemployeed extends Employeed
 {
 	int workinghours;
 	void getparttimeemployeedata (String name,float salary,int workinghours)

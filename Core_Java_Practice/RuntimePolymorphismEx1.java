@@ -2,7 +2,7 @@
 //Runtime polymorphism or Dynamic Method Dispatch is a process in which
 //a call to an overridden method is resolved at runtime rather than compile-time.
 
-class Bank
+class Bank7
 {
 	int getRateOfInterest()
 	{
@@ -11,7 +11,7 @@ class Bank
 }
 
 //Creating child classes.
-class SBI extends Bank
+class SBI4 extends Bank7
 {
 	int getRateOfInterest()
 	{
@@ -19,7 +19,7 @@ class SBI extends Bank
 	}
 }
 
-class ICICI extends Bank
+class ICICI4 extends Bank7
 {
     int getRateOfInterest()
     {
@@ -27,7 +27,7 @@ class ICICI extends Bank
     }
 }
 
-class AXIS extends Bank
+class AXIS4 extends Bank7
 {
     int getRateOfInterest()
     {

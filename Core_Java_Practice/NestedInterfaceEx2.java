@@ -1,6 +1,6 @@
 //Java program Example of nested interface which is declared within the class.
 
-class A
+class Abcd
 {
       interface Message
       {
@@ -8,7 +8,7 @@ class A
       }
 }
 
-class NestedInterfaceEx2 implements A.Message
+class NestedInterfaceEx2 implements Abcd
 {
      public void msg()
      {

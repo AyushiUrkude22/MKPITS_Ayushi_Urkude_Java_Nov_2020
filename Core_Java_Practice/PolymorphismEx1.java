@@ -1,6 +1,6 @@
 //Java program to demonstrate Runtime polymorphism using Bank class.
 
-class Bank
+class Bank9
 {
     float getRateOfInterest()
     {
@@ -8,7 +8,7 @@ class Bank
     }
 }
 
-class SBI extends Bank
+class SBI2 extends Bank9
 {
     float getRateOfInterest()
     {
@@ -16,7 +16,7 @@ class SBI extends Bank
     }
 }
 
-class ICICI extends Bank
+class ICICI2 extends Bank9
 {
     float getRateOfInterest()
     {
@@ -24,7 +24,7 @@ class ICICI extends Bank
     }
 }
 
-class AXIS extends Bank
+class AXIS2 extends Bank9
 {
     float getRateOfInterest()
     {

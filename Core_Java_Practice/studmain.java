@@ -2,7 +2,7 @@
 //the user.
 
 import java.util.*;
-class student
+class StudentD
 {
 	int rno;
 	String name;

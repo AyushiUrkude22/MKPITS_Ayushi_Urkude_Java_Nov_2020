@@ -1,12 +1,12 @@
 //Java program example for implementing super keyword.
 //super is used to refer immediate parent class instance variable.
 
-class Animal
+class AnimalK
 {
 	String color="white";
 }
 
-class Dog extends Animal
+class DogK extends AnimalK
 {
 	String color="black";
 	void printColor()
@@ -15,7 +15,7 @@ class Dog extends Animal
 	}
 }
 
-class BabyDog extends Dog
+class BabyDogK extends DogK
 {
 	String color="brown";
 	void printColor1()
@@ -26,11 +26,11 @@ class BabyDog extends Dog
 	}
 }
 
-class SuperEx2
+class ImplementingSuperKeyword
 {
 	public static void main(String args[])
 	{
-	    BabyDog d=new BabyDog();
+	    BabyDog d=new BabyDogK();
 	    d.printColor1();
     }
 }

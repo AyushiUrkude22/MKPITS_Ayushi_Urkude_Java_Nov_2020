@@ -1,6 +1,6 @@
 //Java program to create a class student having fields rno and name
 
-class student
+class StudentC
 {
 	int rno;
 	String name;

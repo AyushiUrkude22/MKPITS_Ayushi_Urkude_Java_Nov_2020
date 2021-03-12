@@ -1,20 +1,20 @@
 //Java Runtime Polymorphism Example: Animal
 
-class Animal
+class Animaleat
 {
     void eat()
     {
 		System.out.println("eating...");
     }
 }
-class Dog extends Animal
+class Dog9 extends Animaleat
 {
     void eat()
     {
 		System.out.println("eating bread...");
 	}
 }
-class Cat extends Animal
+class Cat9 extends Animaleat
 {
     void eat()
     {

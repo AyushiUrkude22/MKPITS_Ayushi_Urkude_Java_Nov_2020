@@ -1,6 +1,6 @@
 //Java program to create a static method display() and show1().
 
-class sample
+class sampleA
 {
 	int j=1;
 	static int i=1;

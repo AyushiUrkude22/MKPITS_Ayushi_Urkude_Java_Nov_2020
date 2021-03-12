@@ -2,7 +2,7 @@
 //the values from the user
 
 import java.util.*;
-class employee
+class EmployeeB
 {
 	int empno;
 	String empname;

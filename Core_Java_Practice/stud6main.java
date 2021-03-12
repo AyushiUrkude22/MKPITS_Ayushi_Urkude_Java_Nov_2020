@@ -2,7 +2,7 @@
 //with 2 parameters and showdata method
 
 import java.util.*;
-class student
+class StudentA
 {
 //properties or attributes
 private int rno;

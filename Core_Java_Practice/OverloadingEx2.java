@@ -1,6 +1,6 @@
 //Java program example for Method Overloading: changing data type of arguments.
 
-class Adder
+class Adder8
 {
     static int add(int a, int b)
     {

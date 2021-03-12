@@ -1,11 +1,11 @@
 //Java program to demonstrate singlelevel inheritance.
 
-class Employee
+class Employeem
 {
      float salary=40000;
 }
 
-class Programmer extends Employee
+class Programmer extends Employeem
 {
      int bonus=10000;
      public static void main(String args[])

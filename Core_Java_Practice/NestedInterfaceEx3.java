@@ -1,6 +1,6 @@
 //Java program Example of nested interface which is declared within the class.
 
-class student
+class student5
 {
 	interface instudent
 	{

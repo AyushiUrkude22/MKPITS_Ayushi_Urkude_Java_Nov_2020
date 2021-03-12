@@ -1,20 +1,20 @@
 //Java program to demonstrate Runtime polymorphism using Shape class.
 
-class Shape
+class Shapes
 {
     void draw()
     {
 		System.out.println("drawing...");
     }
 }
-class Rectangle extends Shape
+class Rectangles extends Shapes
 {
     void draw()
     {
 		System.out.println("drawing rectangle...");
     }
 }
-class Circle extends Shape
+class Circles extends Shapes
 {
     void draw()
     {
