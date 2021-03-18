@@ -2,44 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/mkpits/java/filehandling/fileoutputstream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/mkpits/java/filehandling/fileoutputstream2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/DisplayTheElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ElementsToStoreNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ForLoof2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ForLoop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/NestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/StoreIntoTheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/SumTheElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/constructor/BlankConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/oops/AcceptTheValuesFromTheUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/oops/ClassEmployeeHavingAttributes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B_InstanceInitializerEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/B_InstanceInitializerEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CovariantReturnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/CovariantReturnType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DogDowncastingEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/DogDowncastingEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DogDowncastingEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DogDowncastingP1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DogDynamicBindingEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/DogDynamicBindingP2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoginstanceofEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DoginstanceofA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HierarchicalInheritancemain.java" beforeDir="false" afterPath="$PROJECT_DIR$/HierarchicalInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HondaAbstractClassEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondaAbstractClassEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HondaPolymorphismEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondaPolymorphismEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HondafinalEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondafinalEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Accountmain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AggregationEx1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HondafinalEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondafinalEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HondafinalEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondafinalEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelligentOverridingEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntelligentOverridingEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MemberInnerClassEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/MemberInnerClassEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodOverridingEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/MethodOverridingEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodOverridingEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/MethodOverridingEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circlemain.java" beforeDir="false" afterPath="$PROJECT_DIR$/circlemain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/pattern/PatternEx7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cust8main.java" beforeDir="false" afterPath="$PROJECT_DIR$/custAmain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/empmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/empmain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example1this.java" beforeDir="false" afterPath="$PROJECT_DIR$/InstanceVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2this.java" beforeDir="false" afterPath="$PROJECT_DIR$/DefaultConstructorFromParameterizedonstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example3this.java" beforeDir="false" afterPath="$PROJECT_DIR$/DefaultConstructorFromParameterizedonstructor2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4this.java" beforeDir="false" afterPath="$PROJECT_DIR$/example4this.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5this.java" beforeDir="false" afterPath="$PROJECT_DIR$/example5this.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instanceofEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/instanceofEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methodoverridingEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/methodoverridingEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SynchronizationEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizationEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SynchronizationEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizationEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SynchronizedBlockEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizedBlockEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SynchronizedBlockEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizedBlockEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/arrayInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/arrayInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/aggregation/AggregationB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -53,35 +54,91 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/org/mkpits/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\java program\MKPITS_Ayushi_Urkude_Java_Nov_2020\Core_Java_Practice\src\com\mkpits\java\aggregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileOutputStreamExample">
-    <configuration name="AggregationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AggregationEx2" />
+  <component name="RunManager" selected="Application.BlankConstructor">
+    <configuration name="AcceptTheValuesFromTheUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.oops.AcceptTheValuesFromTheUser" />
       <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mkpits.java.oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileOutputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileOutputStreamExample" />
+    <configuration name="BlankConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.constructor.BlankConstructor" />
       <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mkpits.java.constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassEmployeeHavingAttributes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.oops.ClassEmployeeHavingAttributes" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mkpits.java.oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoof2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.array2.ForLoof2" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mkpits.java.array2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.array2.ForLoop1" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mkpits.java.array2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileOutputStreamExample" />
-        <item itemvalue="Application.AggregationEx2" />
+        <item itemvalue="Application.BlankConstructor" />
+        <item itemvalue="Application.AcceptTheValuesFromTheUser" />
+        <item itemvalue="Application.ClassEmployeeHavingAttributes" />
+        <item itemvalue="Application.ForLoop1" />
+        <item itemvalue="Application.ForLoof2" />
       </list>
     </recent_temporary>
   </component>

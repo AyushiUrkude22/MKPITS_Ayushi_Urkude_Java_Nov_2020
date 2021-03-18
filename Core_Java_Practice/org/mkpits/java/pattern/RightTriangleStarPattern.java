@@ -1,4 +1,5 @@
-package org.mkpits.java.pattern;/*Java pattern program. Right Triangle Star Pattern
+package org.mkpits.java.pattern;
+/*Write a program to Right Triangle Star Pattern
 *
 * *
 * * *

@@ -1,7 +1,7 @@
 //Java Program Example of synchronized block.
 
-class Table {
-	void printTable(int n) {
+class TableL {
+	void printTableL(int n) {
        synchronized(this) {//synchronized block
        	  for(int i=1;i<=5;i++) {
           	System.out.println(n + " * " + i + " = " + n*i);
@@ -15,23 +15,23 @@ class Table {
     }//end of the method
 }
 
-class MyThread1 extends Thread {
+class MyThread13 extends Thread {
     Table t;
-    MyThread1(Table t) {
+    MyThread13(TableL t) {
     	this.t=t;
     }
     public void run() {
-    	t.printTable(5);
+    	t.printTableL(5);
     }
 }
 
-class MyThread2 extends Thread {
+class MyThread14 extends Thread {
     Table t;
-    MyThread2(Table t) {
+    MyThread14(TableL t) {
     	this.t=t;
     }
     public void run() {
-    	t.printTable(100);
+    	t.printTableL(100);
     }
 }
 

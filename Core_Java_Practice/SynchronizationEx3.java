@@ -2,7 +2,7 @@
 //In this program, we have created the two threads by annonymous class,
 //so less coding is required.
 
-class Table {
+class TableO {
 	synchronized void printTable(int n) {//synchronized method
        for(int i=1;i<=5;i++) {
 		   System.out.println(n + " * " + i + " = " + n*i);
@@ -17,7 +17,8 @@ class Table {
 
 public class SynchronizationEx3 {
     public static void main(String args[]) {
-    	final Table obj = new Table();//only one object
+    	final TableO obj = new TableO();//only one object
+
 
     	Thread t1=new Thread(){
     		public void run(){

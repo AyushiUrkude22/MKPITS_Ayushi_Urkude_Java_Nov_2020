@@ -3,8 +3,8 @@
 //it automatically acquires the lock for that object and
 //releases it when the thread completes its task.
 
-class Table {
-	synchronized void printTable(int n) {//synchronized method
+class Table2 {
+	synchronized void printTable2(int n) {//synchronized method
        for(int i=1;i<=5;i++) {
          System.out.println(n + " * " + i + " = " + n*i);
          try {
@@ -16,9 +16,9 @@ class Table {
    }
 }
 
-class MyThread1 extends Thread {
-    Table t;
-    MyThread1(Table t) {
+class MyThread11 extends Thread {
+    Table2 t;
+    MyThread11(Table2 t) {
     	this.t=t;
     }
     public void run() {
@@ -26,9 +26,9 @@ class MyThread1 extends Thread {
     }
 }
 
-class MyThread2 extends Thread {
-    Table t;
-    MyThread2(Table t) {
+class MyThread12 extends Thread {
+    Table2 t;
+    MyThread12(Table2 t) {
     	this.t=t;
     }
     public void run() {
@@ -38,7 +38,7 @@ class MyThread2 extends Thread {
 
 public class SynchronizationEx2 {
     public static void main(String args[]) {
-    	Table obj = new Table();//only one object
+    	Table2 obj = new Table2();//only one object
     	MyThread1 t1=new MyThread1(obj);
     	MyThread2 t2=new MyThread2(obj);
     	t1.start();

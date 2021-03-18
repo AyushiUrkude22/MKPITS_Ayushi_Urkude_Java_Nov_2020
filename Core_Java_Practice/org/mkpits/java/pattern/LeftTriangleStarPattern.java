@@ -1,4 +1,5 @@
-package org.mkpits.java.pattern;/* Java Pattern program. Left Triangle Star Pattern
+package org.mkpits.java.pattern;
+/* Write a program to Left Triangle Star Pattern
            *
          * *
        * * *
@@ -7,8 +8,7 @@ package org.mkpits.java.pattern;/* Java Pattern program. Left Triangle Star Patt
 */
 
 import java.util.*;
-public class LeftTriangleStarPattern
-{
+class LeftTriangleStarPattern {
     public static void printStars(int n)
     {
         int i, j;

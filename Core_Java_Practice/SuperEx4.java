@@ -1,17 +1,17 @@
 //Java program example for implementing super keyword for invoking parent class constructor.(Explicitly)
 //super is used to invoke parent class constructor.
 
-class Animal
+class AnimalX
 {
-    Animal()
+    AnimalX()
     {
 		System.out.println("eating...");
     }
 }
 
-class Dog extends Animal
+class DogX extends AnimalX
 {
-    Dog()
+    DogX()
     {
 		super();
 		System.out.println("eating bread...");
@@ -26,7 +26,7 @@ class SuperEx4
 {
     public static void main(String args[])
     {
-    	Dog d=new Dog();
+    	DogX d=new DogX();
     	d.bark();
     }
 }

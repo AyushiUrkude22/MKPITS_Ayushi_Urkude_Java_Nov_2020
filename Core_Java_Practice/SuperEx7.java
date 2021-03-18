@@ -1,18 +1,18 @@
 //Java program example for implementing super keyword for invoking parent class constructor (explicitly)
 //super is used to invoke parent class constructor.
 
-class Person
+class PersonK
 {
     int id;
     String name;
-    Person(int id,String name)
+    PersonK(int id,String name)
 	{
     	this.id=id;
     	this.name=name;
     }
 }
 
-class Emp extends Person
+class Emp extends PersonK
 {
     float salary;
     Emp(int id,String name,float salary)

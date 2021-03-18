@@ -1,7 +1,7 @@
 //Java Program Example of synchronized block by using annonymous class.
 
-class Table {
-	void printTable(int n) {
+class TableN {
+	void printTableN(int n) {
        synchronized(this) {//synchronized block
           for(int i=1;i<=5;i++) {
           	 System.out.println(n + " * " + i + " = " + n*i);
@@ -17,7 +17,7 @@ class Table {
 
 public class SynchronizedBlockEx2 {
     public static void main(String args[]) {
-    	final Table obj = new Table();//only one object
+    	final TableN obj = new TableN();//only one object
 
     	Thread t1=new Thread() {
     		public void run() {

@@ -2,7 +2,7 @@
 
 final class Bike3{}
 
-class HondafinalE extends Bike3	//Compile time error.
+class HondafinalE extends Bike	//Compile time error.
 {
       void run()
       {
