@@ -2,50 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/DisplayTheElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ElementsToStoreNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ForLoof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ForLoop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/NestedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/StoreIntoTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/SumTheElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/constructor/BlankConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/constructor/ParameterizedConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/oops/AcceptTheValuesFromTheUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/oops/ClassEmployeeHavingAttributes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/DoNotUseThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overloading/ChangingDataTypeOfArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overloading/ChangingNumberOfArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overloading/NotPossibleByChangingTheReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overloading/OverloadingCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overloading/OverloadingWithTypePromotionIfMatchingFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overloading/OverloadingWithTypePromotionInCaseOfAmbiguity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overloading/TestOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overriding/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overriding/BankRealScenario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overriding/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overriding/VehicleIllustrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overriding/VehicleMethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/CreateClassAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/CreateClassAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/CreateClassCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/CreateClassCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/ObjectContainsItsOwnInformations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/OperationClassInTheCircleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/inheritance/ChildClassCurrentInheritedFromAccountClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/inheritance/DogClassInheritsTheAnimalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/inheritance/HierarchicalInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/inheritance/MultilevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/inheritance/RelationshipBetweenTheTwoClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/RuntimePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/CallingParameterizedConstructorFromDefaultConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/InvokeCurrentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/InvokeCurrentClassConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/KeywordIsNotRequired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/PassArgumentInTheMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/ProvingThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/RealUsageOfThisConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/ReturnCurrentClassInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/ThisKeyWord1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/UseThisKeyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accountmain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AggregationEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HondafinalEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondafinalEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SynchronizationEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizationEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SynchronizationEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizationEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SynchronizedBlockEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizedBlockEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SynchronizedBlockEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizedBlockEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/arrayInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/arrayInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/LeftTriangleStarPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/LeftTriangleStarPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx10.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/LeftTrianglePascals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx11.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/SandglassStarPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx12.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/AlphabetAPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx13.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/TriangleStarPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx14.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/Downtriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx15.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/DiamondShapePattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/DownwardTriangleStarPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/MirroredRightTriangleStarProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/PyramidPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/ReversedPyramidStarPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx8.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/RightDownMirrorStarPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/PatternEx9.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/RightPascalsTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/pattern/RightTriangleStarPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/pattern/RightTriangleStarPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractClassEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractionEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeMethodOverridingEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book5main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book7main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/DoNotUseThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/DoNotUseThisKeyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/aggregation/AggregationB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AbstractClassEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AbstractionEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AggregationEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Animal1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AnnonymousInnerClassEx2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AnnonymousInnerClassEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AnonymousInnerClassEx1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AnonymousInnerClassEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/BabyDogPolymorphismEx5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/BabyDogPolymorphismEx6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/BikeInstanceIntializerEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/BikeInstanceIntializerEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/BikeMethodOverridingEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/BikeMethodOverridingEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Dog1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Eatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Honda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Vehicle1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/acceptvalue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/age9th11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/alphabet9th17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/avg9th9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/bodatatype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/book1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/book4main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +125,13 @@
       <recent name="C:\java program\MKPITS_Ayushi_Urkude_Java_Nov_2020\Core_Java_Practice\src\com\mkpits\java\aggregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DiamondStarPattern">
-    <configuration name="AlphabetAPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.pattern.AlphabetAPattern" />
+  <component name="RunManager" selected="Application.RuntimePolymorphism">
+    <configuration name="RuntimePolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.polymorphism.RuntimePolymorphism" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.pattern.*" />
+          <option name="PATTERN" value="org.mkpits.java.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiamondStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.pattern.DiamondStarPattern" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Overriding.Test" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.pattern.*" />
+          <option name="PATTERN" value="org.mkpits.java.Overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Down" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.pattern.Down" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Overriding.Test1" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.pattern.*" />
+          <option name="PATTERN" value="org.mkpits.java.Overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Downtriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.pattern.Downtriangle" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Overriding.Test2" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.pattern.*" />
+          <option name="PATTERN" value="org.mkpits.java.Overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.pattern.TriangleStarPattern" />
+    <configuration name="honda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Overriding.honda" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.pattern.*" />
+          <option name="PATTERN" value="org.mkpits.java.Overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DiamondStarPattern" />
-        <item itemvalue="Application.Downtriangle" />
-        <item itemvalue="Application.Down" />
-        <item itemvalue="Application.TriangleStarPattern" />
-        <item itemvalue="Application.AlphabetAPattern" />
+        <item itemvalue="Application.RuntimePolymorphism" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.honda" />
       </list>
     </recent_temporary>
   </component>

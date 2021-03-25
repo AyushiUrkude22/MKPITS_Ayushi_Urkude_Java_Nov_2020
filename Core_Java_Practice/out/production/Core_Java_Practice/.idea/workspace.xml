@@ -2,33 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/DisplayTheElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ElementsToStoreNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ForLoof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/ForLoop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/NestedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/StoreIntoTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array2/SumTheElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/constructor/BlankConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/oops/AcceptTheValuesFromTheUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/oops/ClassEmployeeHavingAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overloading/ChangingDataTypeOfArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overloading/ChangingNumberOfArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Overloading/NotPossibleByChangingTheReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/CreateClassAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/CreateClassAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/CreateClassCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/CreateClassCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/ObjectContainsItsOwnInformations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/aggregation/OperationClassInTheCircleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/inheritance/ChildClassCurrentInheritedFromAccountClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/inheritance/DogClassInheritsTheAnimalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/inheritance/HierarchicalInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/inheritance/MultilevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/inheritance/RelationshipBetweenTheTwoClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/CallingParameterizedConstructorFromDefaultConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/InvokeCurrentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/InvokeCurrentClassConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/KeywordIsNotRequired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/PassArgumentInTheMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/ProvingThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/RealUsageOfThisConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/ReturnCurrentClassInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/ThisKeyWord1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/UseThisKeyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accountmain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AggregationEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HondafinalEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondafinalEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperEx7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SynchronizationEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizationEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SynchronizationEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizationEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SynchronizedBlockEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizedBlockEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SynchronizedBlockEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SynchronizedBlockEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/arrayInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/arrayInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book5main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book7main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/DoNotUseThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/DoNotUseThisKeyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/aggregation/AggregationB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/book1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1pHdnmVh0kccve02jinXw98Dk4H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,13 +77,13 @@
       <recent name="C:\java program\MKPITS_Ayushi_Urkude_Java_Nov_2020\Core_Java_Practice\src\com\mkpits\java\aggregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BlankConstructor">
-    <configuration name="AcceptTheValuesFromTheUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.oops.AcceptTheValuesFromTheUser" />
+  <component name="RunManager" selected="Application.NotPossibleByChangingTheReturnType">
+    <configuration name="ChangingDataTypeOfArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Overloading.ChangingDataTypeOfArguments" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.oops.*" />
+          <option name="PATTERN" value="org.mkpits.java.Overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BlankConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.constructor.BlankConstructor" />
+    <configuration name="ChangingNumberOfArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Overloading.ChangingNumberOfArguments" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.constructor.*" />
+          <option name="PATTERN" value="org.mkpits.java.Overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassEmployeeHavingAttributes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.oops.ClassEmployeeHavingAttributes" />
+    <configuration name="CreateClassAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.aggregation.CreateClassAddress" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.oops.*" />
+          <option name="PATTERN" value="org.mkpits.java.aggregation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoof2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.array2.ForLoof2" />
+    <configuration name="CreateClassCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.aggregation.CreateClassCalculator" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.array2.*" />
+          <option name="PATTERN" value="org.mkpits.java.aggregation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.array2.ForLoop1" />
+    <configuration name="NotPossibleByChangingTheReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Overloading.NotPossibleByChangingTheReturnType" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.array2.*" />
+          <option name="PATTERN" value="org.mkpits.java.Overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BlankConstructor" />
-        <item itemvalue="Application.AcceptTheValuesFromTheUser" />
-        <item itemvalue="Application.ClassEmployeeHavingAttributes" />
-        <item itemvalue="Application.ForLoop1" />
-        <item itemvalue="Application.ForLoof2" />
+        <item itemvalue="Application.NotPossibleByChangingTheReturnType" />
+        <item itemvalue="Application.ChangingDataTypeOfArguments" />
+        <item itemvalue="Application.ChangingNumberOfArguments" />
+        <item itemvalue="Application.CreateClassCalculator" />
+        <item itemvalue="Application.CreateClassAddress" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +186,11 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/mkpits/java/pattern/PyramidPattern.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
