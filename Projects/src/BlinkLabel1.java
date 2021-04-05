@@ -22,7 +22,7 @@ class BlinkLabel1<b10> extends JLabel {
 
     public BlinkLabel1(String text) {
         super(text);
-        ImageIcon imgThisImg = new ImageIcon("C:\\Users\\Administrator\\IdeaProjects\\AwtExample\\src\\com\\mkpits\\java\\awtexample\\up.png");
+        ImageIcon imgThisImg = new ImageIcon("C:\\java program\\MKPITS_Ayushi_Urkude_Java_Nov_2020\\Projects\\src\\up.png");
         super.setIcon(imgThisImg);
         timer = new Timer(BLINKING_RATE, new TimerListener(this));
         timer.setInitialDelay(0);
