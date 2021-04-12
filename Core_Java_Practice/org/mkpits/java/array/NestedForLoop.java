@@ -1,4 +1,4 @@
-package org.mkpits.java.array2;
+package org.mkpits.java.array;
 /*Write a program to print output
 1 2 3
 1 2 3
@@ -8,7 +8,6 @@ cols =3
 outer loop for rows
 and inner loop for columns*/
 
-import java.util.*;
 class NestedForLoop {
     public static void main(String[] arg)
     {

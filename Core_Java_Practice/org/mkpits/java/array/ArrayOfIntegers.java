@@ -1,4 +1,4 @@
-package org.mkpits.java.array2;
+package org.mkpits.java.array;
 /*Java program to create an array of integers, accept values from the user in the array,
 and print each value to standard output*/
 

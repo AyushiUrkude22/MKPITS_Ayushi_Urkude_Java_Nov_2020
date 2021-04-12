@@ -1,4 +1,4 @@
-package org.mkpits.java.array2;
+package org.mkpits.java.array;
 //Write a program to create an array of 5 elements to store 5 numbers.
 
 class ElementsToStoreNumbers {

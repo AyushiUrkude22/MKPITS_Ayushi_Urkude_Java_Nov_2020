@@ -1,4 +1,4 @@
-package org.mkpits.java.array2;
+package org.mkpits.java.array;
 /* Java program example for overloading java main() method.
 You can have any number of main methods in a class by method overloading
 But JVM calls main() method which receives string array as arguments only */

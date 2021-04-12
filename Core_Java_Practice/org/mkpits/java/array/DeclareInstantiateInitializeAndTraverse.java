@@ -1,4 +1,4 @@
-package org.mkpits.java.array2;
+package org.mkpits.java.array;
 //Java Program to illustrate how to declare, instantiate, initialize and traverse the Java array.
 
 class DeclareInstantiateInitializeAndTraverse{

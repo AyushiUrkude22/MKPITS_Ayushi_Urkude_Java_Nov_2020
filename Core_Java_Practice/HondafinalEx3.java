@@ -1,6 +1,6 @@
 //Java program Example of Java final method.
 
-class Bike2
+class Bike7
 {
       final void run()
       {
@@ -8,7 +8,7 @@ class Bike2
 	  }
 }
 
-class HondaAbstract extends Bike
+class HondaAbstract extends Bike7
 {
        void run()
        {

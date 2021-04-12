@@ -1,4 +1,4 @@
-package org.mkpits.java.array2;
+package org.mkpits.java.array;
 // Write a program to create an array of 5 element and accept values from the user to store into the array.
 
 import java.util.*;

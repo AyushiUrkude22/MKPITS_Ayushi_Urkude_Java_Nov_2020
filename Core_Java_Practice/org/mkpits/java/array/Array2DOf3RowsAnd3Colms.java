@@ -1,4 +1,4 @@
-package org.mkpits.java.array2;
+package org.mkpits.java.array;
 // Java program to create a 2d array of 3 rows and 3 colms.
 
 import java.util.Scanner;

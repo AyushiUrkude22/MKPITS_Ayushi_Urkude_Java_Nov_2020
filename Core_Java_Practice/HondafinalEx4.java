@@ -1,8 +1,7 @@
 //Java program Example of Java final class.
 
-final class Bike3{}
-
-class HondafinalE extends Bike	//Compile time error.
+final class BikeH{}
+class Hondafinale extends BikeH//Compile time error.
 {
       void run()
       {
@@ -11,7 +10,7 @@ class HondafinalE extends Bike	//Compile time error.
 
       public static void main(String args[])
       {
-      		HondafinalE honda= new HondafinalE();
+      		Hondafinal honda= new Hondafinal();
       		honda.run();
       }
 }

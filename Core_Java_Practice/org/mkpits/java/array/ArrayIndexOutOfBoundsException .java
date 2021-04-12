@@ -1,4 +1,4 @@
-package org.mkpits.java.array2;
+package org.mkpits.java.array;
 //Java Program to demonstrate how to handle Array Index Out Of Bounds Exception in a Java Array.
 
 class ArrayIndexOutOfBoundsException {

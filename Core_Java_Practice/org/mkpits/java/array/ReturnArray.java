@@ -1,4 +1,4 @@
-package org.mkpits.java.array2;
+package org.mkpits.java.array;
 //Java Program to return an array from the method.
 
 class ReturnArray{

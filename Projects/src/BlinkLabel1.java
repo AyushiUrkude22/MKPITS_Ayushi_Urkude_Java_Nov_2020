@@ -13,14 +13,13 @@ import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.Timer;
 
-class BlinkLabel1<b10> extends JLabel {
+class ElevatorPro extends JLabel {
     private static final long serialVersionUID = 1L;
     private static final int BLINKING_RATE = 1000; // in ms
     private boolean blinkingOn = false;
     static long count = 0;
     private boolean blinkingOff = false;
-
-    public BlinkLabel1(String text) {
+    public ElevatorPro(String text) {
         super(text);
         ImageIcon imgThisImg = new ImageIcon("C:\\java program\\MKPITS_Ayushi_Urkude_Java_Nov_2020\\Projects\\src\\up.png");
         super.setIcon(imgThisImg);
@@ -29,7 +28,6 @@ class BlinkLabel1<b10> extends JLabel {
         timer.start();
 
     }
-
     public void setBlinking(boolean flag) {
         this.blinkingOn = flag;
         this.blinkingOff = flag;
@@ -41,16 +39,16 @@ class BlinkLabel1<b10> extends JLabel {
 
     public static JLabel j1;
     public static Timer timer;
-    public static JButton b6, b2, b5, b4, b10, b1, b3, b11;
+    public static JButton b6, b2, b5, b4, b10, b1, b3, b11,b9;
     public static int tc;
 
     private class TimerListener implements ActionListener {
-        private BlinkLabel1 bl;
+        private ElevatorPro bl;
         private Color bg;
         private Color fg;
         private boolean isForeground = true;
 
-        public TimerListener(BlinkLabel1 bl) {
+        public TimerListener(ElevatorPro bl) {
             this.bl = bl;
             fg = bl.getForeground();
             bg = bl.getBackground();
@@ -58,13 +56,9 @@ class BlinkLabel1<b10> extends JLabel {
 
         public void actionPerformed(ActionEvent e) {
             int cnt = 1;
-
-//j1.setText("tc " + tc);
-//cnt=tc *10000;
             if (bl.blinkingOn) {
                 if (isForeground) {
                     bl.setForeground(fg);
-
                     for (long ccnt = 0; ccnt <= cnt; ccnt = ccnt + 1000) {
                         count = count + 1000;
                         switch (tc) {
@@ -82,7 +76,6 @@ class BlinkLabel1<b10> extends JLabel {
                                 } else if (count > 50000) {
                                     // j1.setText( "count " + count);
                                     timer.stop();
-
                                 }
                                 break;
                             case 5:
@@ -94,11 +87,8 @@ class BlinkLabel1<b10> extends JLabel {
                                     j1.setText("4 Floor");
                                 } else if (count == 40000) {
                                     j1.setText("5 Floor");
-
                                 } else if (count > 40000) {
-                                    // j1.setText( "count " + count);
                                     timer.stop();
-
                                 }
                                 break;
                             case 4:
@@ -111,7 +101,6 @@ class BlinkLabel1<b10> extends JLabel {
                                 } else if (count > 30000) {
                                     // j1.setText( "count " + count);
                                     timer.stop();
-
                                 }
                                 break;
                             case 3:
@@ -119,46 +108,41 @@ class BlinkLabel1<b10> extends JLabel {
                                     j1.setText("2 Floor");
                                 } else if (count == 20000) {
                                     j1.setText("3 Floor");
-                                } else if (count > 20000) {
+                                }  else if (count > 20000) {
                                     // j1.setText( "count " + count);
                                     timer.stop();
-
                                 }
                                 break;
                             case 2:
                                 if (count == 10000) {
                                     j1.setText("2 Floor");
-                                } else if (count > 10000) {
+                                }  else if (count > 10000) {
                                     // j1.setText( "count " + count);
                                     timer.stop();
-
                                 }
                                 break;
                         }
-
                     }
-                } else {
+                }
+                else {
                     bl.setForeground(bg);
                 }
                 isForeground = !isForeground;
-            } else {
-                // here we want to make sure that the label is visible
-                // if the blinking is off.
-                if (isForeground) {
+               }
+                     else {
+                     if (isForeground) {
                     bl.setForeground(fg);
                     isForeground = false;
                 }
             }
         }
-
     }
-
     // --- for testing
     private static void Elavatorex() {
         JFrame frame = new JFrame("Elevator");
         JPanel jp = new JPanel();
-        jp.setBounds(15, 25, 225, 400);
-        jp.setBackground(Color.lightGray);
+        jp.setBounds(10, 20, 220, 400);
+        jp.setBackground(Color.gray);
         jp.setLayout(null);
 
         JPanel jp21 = new JPanel();
@@ -172,20 +156,18 @@ class BlinkLabel1<b10> extends JLabel {
 
         JPanel jp212 = new JPanel();
         jp212.setBounds(10, 100, 180, 80);
-        //      jp212.setBackground(Color.pink);
         jp212.setLayout(null);
 
-        final BlinkLabel1 bl = new BlinkLabel1("UP");
+        final ElevatorPro bl = new ElevatorPro("UP");
 
         bl.setBounds(70, 120, 150, 100);
-        bl.setBackground(Color.white);
-//jp212.add(bl);
-//jp.add(jp212);
+        bl.setBackground(Color.black);
+
         jp.add(bl);
 
         JPanel jp2 = new JPanel();
         jp2.setBounds(10, 220, 180, 80);
-        jp2.setBackground(Color.green);
+        jp2.setBackground(Color.pink);
         jp2.setLayout(null);
 
         final JLabel bf = new JLabel("Fan Off");
@@ -193,9 +175,6 @@ class BlinkLabel1<b10> extends JLabel {
 
         jp2.add(bf);
         jp.add(jp2);
-
-        // frame.getContentPane().setLayout(new java.awt.FlowLayout());
-        //frame.getContentPane().add(bl);
 
         JPanel jpp = new JPanel();
         jpp.setBounds(300, 20, 200, 400);
@@ -208,6 +187,7 @@ class BlinkLabel1<b10> extends JLabel {
                 new ActionListener() {
                     public void actionPerformed(ActionEvent ae) {
                         tc = 1;
+                        timer.start();
                         bl.blinkingOn = !bl.blinkingOn;
                     }
                 });
@@ -221,6 +201,7 @@ class BlinkLabel1<b10> extends JLabel {
                 new ActionListener() {
                     public void actionPerformed(ActionEvent ae) {
                         tc = 2;
+                        timer.start();
                         bl.blinkingOn = !bl.blinkingOn;
                     }
                 });
@@ -234,6 +215,7 @@ class BlinkLabel1<b10> extends JLabel {
                 new ActionListener() {
                     public void actionPerformed(ActionEvent ae) {
                         tc = 3;
+                        timer.start();
                         bl.blinkingOn = !bl.blinkingOn;
                     }
                 });
@@ -246,6 +228,7 @@ class BlinkLabel1<b10> extends JLabel {
                 new ActionListener() {
                     public void actionPerformed(ActionEvent ae) {
                         tc = 4;
+                        timer.start();
                         bl.blinkingOn = !bl.blinkingOn;
                     }
                 });
@@ -258,6 +241,7 @@ class BlinkLabel1<b10> extends JLabel {
                 new ActionListener() {
                     public void actionPerformed(ActionEvent ae) {
                         tc = 5;
+                        timer.start();
                         bl.blinkingOn = !bl.blinkingOn;
                     }
                 });
@@ -276,7 +260,7 @@ class BlinkLabel1<b10> extends JLabel {
         b6.setBounds(111, 190, 100, 50);
         jpp.add(b6);
 
-        /*  Button for fan flour */
+        /*  Button for fan */
         b11 = new JButton("Fan");
         b11.addActionListener(
                 new ActionListener() {
@@ -292,22 +276,36 @@ class BlinkLabel1<b10> extends JLabel {
                 });
         b11.setBounds(1, 260, 100, 50);
         jpp.add(b11);
+
+        frame.add(jp);
+        frame.add(jpp);
+
+        b9 = new JButton("light");
+        b9.addActionListener(
+                new ActionListener() {
+                    public void actionPerformed(ActionEvent ae) {
+                        String f = bf.getText();
+                        if (f.equals("light off")) {
+                            bf.setText("light on");
+                        } else {
+                            bf.setText("light off");
+                        }
+                        // bl.blinkingOn = !bl.blinkingOn;
+                    }
+                });
+        b9.setBounds(1, 330, 100, 50);
+        jpp.add(b9);
         //jp.add(b);
         frame.add(jp);
         frame.add(jpp);
-        // frame.getContentPane().add(b);
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(null);
         frame.setSize(700, 600);
-        //frame.pack();
-        // frame.setLocationRelativeTo(null);
 
         frame.setVisible(true);
 
-
-
-        /*  Button for door flour */
+        /*  Button for door  */
         b10 = new JButton("Door");
         b10.addActionListener(
                 new ActionListener() {
@@ -318,10 +316,9 @@ class BlinkLabel1<b10> extends JLabel {
                             bl.blinkingOff = !bl.blinkingOff;
                         } else {
                             bf.setText("Door Close");
-                            //bl.blinkingOn = bl.blinkingOff;
-                            //bl.blinkingOn = !bl.blinkingOn;
+
                         }
-                        // bl.blinkingOn = !bl.blinkingOn;
+
                     }
                 });
         b10.setBounds(111, 260, 100, 50);
@@ -335,5 +332,5 @@ class BlinkLabel1<b10> extends JLabel {
             }
         });
     }
-// ---
+    // ---
 }

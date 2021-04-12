@@ -1,10 +1,9 @@
-package org.mkpits.java.array2;
+package org.mkpits.java.array;
 /*Write a program to print output
 1
 1 2
 1 2 3*/
 
-import java.util.*;
 public class ForLoop2 {
     public static void main(String[] arg)
     {
