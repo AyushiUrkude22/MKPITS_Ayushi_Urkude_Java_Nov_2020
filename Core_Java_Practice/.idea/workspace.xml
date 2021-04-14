@@ -2,111 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro$10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro$TimerListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/ElevatorPro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro$10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro$TimerListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/out/production/Projects/com/mkpits/java/BlinkLabel1/ElevatorPro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/src/com/mkpits/java/BlinkLabel1/Ab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTListActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTMenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTPanel1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTPopupMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTScrollbar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTScrollbarAdjustmentListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTToolkit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTToolkitChangeTitleBarIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AWTToolkitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/Adapterdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/AwtListenerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/CheckboxGroupEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/FrameWith2Panels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/Mkdiag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/MouseWithoutAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/ScrollbarExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/keyadapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/keyevent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/AbstractAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/AbstractBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/AbstractBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/RealScenarioAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/InstanceBlockA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/InstanceInitializerBlockBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/InstanceInitializerBlockThatInvokedAfterSuperA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/InvokedBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/ImplementsanInterfaceButOneInterfaceExtendsAnotherInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/InterfaceBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/InterfacePrintable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/InterfaceShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/Java8DefaultMethodInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/Java8StaticMethodInInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/MultipleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/MultipleInheritanceJavaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/interfaceDrawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/StaticBindingandDynamicBinding/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/StaticBindingandDynamicBinding/DynamicBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/StaticBindingandDynamicBinding/ReferencesDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/StaticBindingandDynamicBinding/StaticBindingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/CompilerImplicitlyAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/InvokeParentClassConstructorAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/InvokeParentClassMethodAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/ParentClassChildClassHaveSameFieldsAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/SuperKeywordPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/BikeF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/FinalClassBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/FinalMethodBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/FinalMethodInheritedBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/InitializeBlankFinalVariableBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/StaticBlankFinalVariableA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HondafinalEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondafinalEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HondafinalEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HondafinalEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/Array2DOf3RowsAnd3Colms.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/Array2DOf3RowsAnd3Colms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/ArrayInASingleLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/ArrayInASingleLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/ArrayIndexOutOfBoundsException .java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/ArrayIndexOutOfBoundsException .java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/ArrayOfIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/ArrayOfIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/ArrayOfIntegers1.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/ArrayOfIntegers1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/CloneTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/CloneTheArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/DeclareInstantiateInitializeAndTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/DeclareInstantiateInitializeAndTraverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/DemonstrateWayOfPassingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/DemonstrateWayOfPassingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/DisplayTheElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/DisplayTheElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/ElementsToStoreNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/ElementsToStoreNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/ForLoop1.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/ForLoop1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/ForLoop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/ForLoop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/GarbageCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/GarbageCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/GetTheClassNameOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/GetTheClassNameOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/IllustrateseOfMultidimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/IllustrateseOfMultidimensionalArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/NestedForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/NestedForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/NumAndStoreValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/NumAndStoreValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/ReturnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/ReturnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/StoreIntoTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/StoreIntoTheArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/SumTheElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/SumTheElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/TestOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/TestOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/FinalVariableSpeedlimitBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/FinalVariableSpeedlimitBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDog2ExtendsDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDog2ExtendsDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDogExtendsDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDogExtendsDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/polymorphism/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/polymorphism/MethodOverridingButThereWasNoUpcasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/MethodOverridingButThereWasNoUpcasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/polymorphism/SubclassMethodInvoked.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/SubclassMethodInvoked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/polymorphism/TestPolymorphism2.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/TestPolymorphism2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/polymorphism/TestPolymorphism3.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/TestPolymorphism3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/out/production/Projects/BlinkLabel1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/out/production/Projects/BlinkLabel1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/out/production/Projects/BlinkLabel1$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/out/production/Projects/BlinkLabel1$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/out/production/Projects/BlinkLabel1$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/out/production/Projects/BlinkLabel1$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/out/production/Projects/BlinkLabel1$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/out/production/Projects/BlinkLabel1$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/out/production/Projects/BlinkLabel1$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/out/production/Projects/BlinkLabel1$TimerListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/out/production/Projects/BlinkLabel1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/src/BlinkLabel1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/src/BlinkLabel1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/out/production/practiceclass/com/mkpits/java/AWT/BlinkLabel1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/out/production/practiceclass/com/mkpits/java/AWT/BlinkLabel1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/out/production/practiceclass/com/mkpits/java/AWT/BlinkLabel1$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/out/production/practiceclass/com/mkpits/java/AWT/BlinkLabel1$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/out/production/practiceclass/com/mkpits/java/AWT/BlinkLabel1$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/out/production/practiceclass/com/mkpits/java/AWT/BlinkLabel1$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/out/production/practiceclass/com/mkpits/java/AWT/BlinkLabel1$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/out/production/practiceclass/com/mkpits/java/AWT/BlinkLabel1$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/out/production/practiceclass/com/mkpits/java/AWT/BlinkLabel1$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/out/production/practiceclass/com/mkpits/java/AWT/BlinkLabel1$TimerListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/out/production/practiceclass/com/mkpits/java/AWT/BlinkLabel1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceclass/src/com/mkpits/java/AWT/BlinkLabel.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +73,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -153,14 +88,17 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\java program\MKPITS_Ayushi_Urkude_Java_Nov_2020\Core_Java_Practice\src\com\mkpits\java\aggregation" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.mkpits.java.Interface" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Hondafinale">
-    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.First" />
+  <component name="RunManager" selected="Application.TestInterfaceStatic">
+    <configuration name="A7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Interface.A7" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.*" />
+          <option name="PATTERN" value="org.mkpits.java.Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,41 +106,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HondaAbstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HondaAbstract" />
+    <configuration name="TestInterface3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Interface.TestInterface3" />
       <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mkpits.java.Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HondafinalE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HondafinalE" />
+    <configuration name="TestInterface4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Interface.TestInterface4" />
       <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mkpits.java.Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hondafinale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hondafinale" />
+    <configuration name="TestInterfaceDefault" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Interface.TestInterfaceDefault" />
       <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mkpits.java.Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadEx1" />
+    <configuration name="TestInterfaceStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Interface.TestInterfaceStatic" />
       <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mkpits.java.Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hondafinale" />
-        <item itemvalue="Application.HondaAbstract" />
-        <item itemvalue="Application.HondafinalE" />
-        <item itemvalue="Application.ThreadEx1" />
-        <item itemvalue="Application.First" />
+        <item itemvalue="Application.TestInterfaceStatic" />
+        <item itemvalue="Application.TestInterfaceDefault" />
+        <item itemvalue="Application.TestInterface4" />
+        <item itemvalue="Application.TestInterface3" />
+        <item itemvalue="Application.A7" />
       </list>
     </recent_temporary>
   </component>
