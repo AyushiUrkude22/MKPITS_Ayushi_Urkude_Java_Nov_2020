@@ -1,5 +1,6 @@
-//Java program to create a class customer having fields custid,custname,address and emailid
-//and getdata method with 4 parameters and showdata method
+/*Java program to create a class customer having fields custid,custname,address and emailid
+and getdata method with 4 parameters and showdata method */
+
 import java.util.*;
 class customerA
 {

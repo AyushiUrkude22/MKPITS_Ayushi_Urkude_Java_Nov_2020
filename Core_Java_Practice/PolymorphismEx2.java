@@ -1,27 +1,30 @@
 //Java program to demonstrate Runtime polymorphism using Shape class.
 
-class Shapes
+class Shapes1
 {
     void draw()
     {
 		System.out.println("drawing...");
     }
 }
-class Rectangles extends Shapes
+class Rectangles1 extends Shapes1
 {
     void draw()
     {
 		System.out.println("drawing rectangle...");
     }
 }
-class Circles extends Shapes
+class Circles1 extends Shapes1
 {
     void draw()
     {
 		System.out.println("drawing circle...");
     }
+
+    public String getArea() {
+    }
 }
-class Triangle extends Shape
+class Triangle1 extends Shapes1
 {
     void draw()
     {
@@ -33,12 +36,12 @@ class PolymorphismEx2
 {
     public static void main(String args[])
     {
-    	Shape s;
-    	s=new Rectangle();
+    	Shapes1 s;
+    	s=new Rectangles1();
     	s.draw();
-    	s=new Circle();
+    	s=new Circles1();
     	s.draw();
-    	s=new Triangle();
+    	s=new Triangle1();
     	s.draw();
     }
 }

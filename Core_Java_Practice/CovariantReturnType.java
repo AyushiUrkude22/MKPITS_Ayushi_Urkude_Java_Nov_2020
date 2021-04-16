@@ -1,13 +1,14 @@
-//Java program example for Covariant Return Type.
-//(used to override method using return type)
-class OverrideMethod
+/*Java program example for Covariant Return Type.
+(used to override method using return type) */
+
+class A1
 {
-    A get()
+    A1 get()
     {
 		return this;
     }
 }
-class CovariantReturnType extends OverrideMethod
+class CovariantReturnType extends A1
 {
     CovariantReturnType get()
     {

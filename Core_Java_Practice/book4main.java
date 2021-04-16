@@ -18,6 +18,9 @@ class book
 		System.out.println("Author = " + author);
 		System.out.println("Price = " + price);
 	}
+
+    public void getbook(String oracle, String pankaj, float v) {
+    }
 }
 class book4main
 {

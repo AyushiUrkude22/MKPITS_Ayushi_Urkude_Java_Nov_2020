@@ -2,45 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/AbstractAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/AbstractBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/AbstractBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/AbstractShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AbstractMethod/RealScenarioAbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/InstanceBlockA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/InstanceInitializerBlockBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/InstanceInitializerBlockThatInvokedAfterSuperA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/InstanceInitializerBlock/InvokedBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/ImplementsanInterfaceButOneInterfaceExtendsAnotherInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/InterfaceBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/InterfacePrintable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/InterfaceShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/Java8DefaultMethodInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/Java8StaticMethodInInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/MultipleInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/MultipleInheritanceJavaInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/interfaceDrawable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/StaticBindingandDynamicBinding/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/StaticBindingandDynamicBinding/DynamicBinding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/StaticBindingandDynamicBinding/ReferencesDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/StaticBindingandDynamicBinding/StaticBindingDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/CompilerImplicitlyAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/InvokeParentClassConstructorAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/InvokeParentClassMethodAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/ParentClassChildClassHaveSameFieldsAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/SuperKeyword/SuperKeywordPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/BikeF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/FinalClassBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/FinalMethodBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/FinalMethodInheritedBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/InitializeBlankFinalVariableBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finalkeyword/StaticBlankFinalVariableA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AccessModifiers/AccessA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AccessModifiers/ClassConstructorPrivate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/AccessModifiers/PrivateAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaPackage/PackageSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/BooleanContainsOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/BooleanEmptyStringex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/BooleanEqualsStringex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/MethodDescriptionOperation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/Operation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/StringClassMethodOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/StringEqualsIgnoreCaseStringex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/StringReplaceStringex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/Stringex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/Stringex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/SubstringOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/ObjectCloning/Cloneable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/ObjectCloning/Cloneable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/AdditionOfTwoMatricesArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/ForEachLoopArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/JavaArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/MatrixMultiplicationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/MultidimensionalJavaArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/NameOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/PassingAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/SingleLineArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/TestAnonymousArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/TestArrayCopyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/TestArrayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/TestJaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/TestReturnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/Testarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/array/Testarray1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/callbyvalueinjava/CallByValueInJavaOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/callbyvalueinjava/Operation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/instanceoperator/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/instanceoperator/Animal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/instanceoperator/DowncastingAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/instanceoperator/InstanceOperatorSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/instanceoperator/NullValueDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/instanceoperator/RealPrintable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CovariantReturnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/CovariantReturnType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HondafinalEx4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book4main.java" beforeDir="false" afterPath="$PROJECT_DIR$/book4main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmain9overload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/circlemain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custAmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/custAmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5this.java" beforeDir="false" afterPath="$PROJECT_DIR$/example5this.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +104,13 @@
       <recent name="org.mkpits.java.Interface" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestInterfaceStatic">
-    <configuration name="A7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Interface.A7" />
+  <component name="RunManager" selected="Application.StringEqualsIgnoreCaseStringex">
+    <configuration name="BooleanEmptyStringex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.JavaString.BooleanEmptyStringex" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.Interface.*" />
+          <option name="PATTERN" value="org.mkpits.java.JavaString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInterface3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Interface.TestInterface3" />
+    <configuration name="StringEqualsIgnoreCaseStringex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.JavaString.StringEqualsIgnoreCaseStringex" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.Interface.*" />
+          <option name="PATTERN" value="org.mkpits.java.JavaString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInterface4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Interface.TestInterface4" />
+    <configuration name="StringReplaceStringex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.JavaString.StringReplaceStringex" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.Interface.*" />
+          <option name="PATTERN" value="org.mkpits.java.JavaString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInterfaceDefault" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Interface.TestInterfaceDefault" />
+    <configuration name="Stringex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.JavaString.Stringex" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.Interface.*" />
+          <option name="PATTERN" value="org.mkpits.java.JavaString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInterfaceStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Interface.TestInterfaceStatic" />
+    <configuration name="Stringex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.JavaString.Stringex1" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.Interface.*" />
+          <option name="PATTERN" value="org.mkpits.java.JavaString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestInterfaceStatic" />
-        <item itemvalue="Application.TestInterfaceDefault" />
-        <item itemvalue="Application.TestInterface4" />
-        <item itemvalue="Application.TestInterface3" />
-        <item itemvalue="Application.A7" />
+        <item itemvalue="Application.StringEqualsIgnoreCaseStringex" />
+        <item itemvalue="Application.Stringex1" />
+        <item itemvalue="Application.Stringex" />
+        <item itemvalue="Application.StringReplaceStringex" />
+        <item itemvalue="Application.BooleanEmptyStringex" />
       </list>
     </recent_temporary>
   </component>
