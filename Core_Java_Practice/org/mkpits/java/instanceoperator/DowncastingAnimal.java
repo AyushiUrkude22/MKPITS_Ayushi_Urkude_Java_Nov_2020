@@ -4,7 +4,7 @@ package org.mkpits.java.instanceoperator;
 class DowncastingAnimal { }
 
 class Dog2 extends DowncastingAnimal {
-    static void method(Animal a) {
+    static void method(DowncastingAnimal a) {
         if(a instanceof Dog2){
             Dog2 d=(Dog2)a;//downcasting
             System.out.println("ok downcasting performed");

@@ -1,6 +1,8 @@
 package org.mkpits.java.constructor;
 //Write a program to create a class employee with blank and parameterized constructor.
 
+import java.util.Scanner;
+
 class employee1
 {
     int empno;

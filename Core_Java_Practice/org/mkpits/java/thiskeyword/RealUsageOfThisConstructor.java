@@ -24,8 +24,8 @@ class StudentA {
 class RealUsageOfThisConstructor{
     public static void main(String args[])
     {
-        Student s1=new Student(111,"palak","java");
-        Student s2=new Student(112,"kalash","java",6000f);
+        StudentA s1=new StudentA(111,"palak","java", 6000f);
+        StudentA s2=new StudentA(112,"kalash","java",6000f);
         s1.display();
         s2.display();
     }

@@ -5,6 +5,9 @@ second add method performs addition of three numbers*/
 class Adder{
     static int add(int a,int b) {return a+b;}
     static int add(int a,int b,int c) {return a+b+c;}
+
+    public static void add(double v, double v1) {
+    }
 }
 
 class ChangingNumberOfArguments{

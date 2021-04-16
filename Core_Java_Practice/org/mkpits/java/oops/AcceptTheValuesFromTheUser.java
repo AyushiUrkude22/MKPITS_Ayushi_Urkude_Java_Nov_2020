@@ -1,6 +1,8 @@
 package org.mkpits.java.oops;
 //Write a program to accept the values from the user.
 
+import java.util.Scanner;
+
 class  employee1 {
     int empno;
     String empname;

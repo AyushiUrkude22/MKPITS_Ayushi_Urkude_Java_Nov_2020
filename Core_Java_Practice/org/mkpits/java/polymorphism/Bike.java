@@ -11,9 +11,9 @@ class BikeA{
 class Honda3 extends BikeA {
     int speedlimit = 150;
 
-    public static void main(String args[]) {
-        Bike obj = new Honda3();
-        System.out.println(obj.speedlimit);//90
+    public static void main(String[] args) {
+        BikeA obj = new BikeA();
+        System.out.println(((Honda3) obj).speedlimit);//90
 
     }
 }

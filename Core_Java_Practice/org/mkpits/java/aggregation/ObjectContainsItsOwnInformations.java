@@ -3,6 +3,7 @@ package org.mkpits.java.aggregation;
 as city, state, country etc. In such case relationship is Employee HAS-A address */
 
 class Address {
+    public String pincode;
     String city,state,country;
 
     public Address(String city, String state, String country) {
@@ -11,6 +12,9 @@ class Address {
         this.country = country;
     }
 
+    public Address() {
+
+    }
 }
 
 

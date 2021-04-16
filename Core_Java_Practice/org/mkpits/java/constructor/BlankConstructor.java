@@ -16,6 +16,11 @@ class employee
         designation="detective";
         salary=4444.4f;
     }
+
+    public employee(int en, String ename, String ed, float sa) {
+
+    }
+
     void showdata()
     {
         System.out.println("------------------------------------- ");

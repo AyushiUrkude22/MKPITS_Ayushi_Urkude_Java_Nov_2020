@@ -17,8 +17,8 @@ class  Student2{
 class KeywordIsNotRequired{
     public static void main(String args[])
     {
-        Student s1=new Student(111,"Ayushi",5000f);
-        Student s2=new Student(112,"Akshay",6000f);
+        Student s1=new Student(111,"Ayushi",5000f, 6000f);
+        Student s2=new Student(112,"Akshay",6000f, 6000f);
         s1.display();
         s2.display();
 

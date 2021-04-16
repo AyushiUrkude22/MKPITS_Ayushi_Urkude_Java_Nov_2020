@@ -3,6 +3,8 @@ package org.mkpits.java.controlflowstatement;
 
 class StringSwitch {
 
+    private static StringSwitch StringSwitchDemo;
+
     public static int getMonthNumber(String month)
     {
 
@@ -66,7 +68,7 @@ class StringSwitch {
         String month = "August";
 
         int returnedMonthNumber =
-                StringSwitchDemo.getMonthNumber(month);
+                StringSwitchDemo .getMonthNumber(month);
 
         if (returnedMonthNumber == 0)
         {

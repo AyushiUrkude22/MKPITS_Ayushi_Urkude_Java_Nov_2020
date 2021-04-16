@@ -2,6 +2,9 @@ package org.mkpits.java.Interface;
 // Java program Interface declaration: by first user.
 
 interface Drawable{
+    static void cube() {
+    }
+
     void draw();
 }
 //Implementation: by second user

@@ -40,7 +40,7 @@ class CreateClassAddress
 
         adr.city="nagpur";
         adr.state="maharashtra";
-        adr.pincode=444414;
+        adr.pincode="444414";
         emp.getdata(22,"ayushi",adr);
         emp.showdata();
 

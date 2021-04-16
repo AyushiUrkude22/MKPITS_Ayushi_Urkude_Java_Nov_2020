@@ -3,7 +3,7 @@ package org.mkpits.java.AccessModifiers;
 class. For example */
 
 class Abc{
-    private Abc(){}//private constructor
+    Abc(){}//private constructor
     void msg(){System.out.println("Hello java");}
 }
 class Simple2{

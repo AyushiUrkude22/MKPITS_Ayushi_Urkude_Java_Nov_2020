@@ -7,7 +7,7 @@ class OverloadingCalculation
     void sum(int a,int b,int c) {System.out.println(a+b+c);}
 
     public static void main(String args[]){
-        OverloadingCalculation1 obj=new OverloadingCalculation1();
+        OverloadingCalculation obj=new OverloadingCalculation();
         obj.sum(30,30);//now second int literal will be promoted to long
         obj.sum(30,30,30);
 

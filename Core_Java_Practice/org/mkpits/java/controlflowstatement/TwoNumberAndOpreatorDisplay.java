@@ -28,8 +28,6 @@ class TwoNumberAndOpreatorDisplay {
             case '/':
                 res=n1/n2;
                 break;
-                System.out.println("invalid operator entered");
-                break;
         }
             System.out.println("res="+res);
     }
