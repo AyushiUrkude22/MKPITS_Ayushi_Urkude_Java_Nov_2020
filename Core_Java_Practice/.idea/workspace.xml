@@ -2,27 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/throwskeyword/ExceptionM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/throwskeyword/ExceptionM1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/throwskeyword/ExceptionOccursM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/throwskeyword/FinalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/throwskeyword/FinalizeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/throwskeyword/FinallyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/throwskeyword/MultipleCatchBlock1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/mkpits/java/throwskeyword/Testthrows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/ExceptionHandlingwithMethodOverriding/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/ExceptionHandlingwithMethodOverriding/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/Interface/interfaceDrawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/InterfaceDrawable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/JavaString/BooleanContainsOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/BooleanContainsOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/ObjectCloning/Cloneable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/ObjectCloning/Cloneable1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/Overriding/VehicleIllustrate.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/Overriding/VehicleIllustrate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/GarbageCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/GarbageCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/Testarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/Testarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/bufferedinputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/BufferedInputStreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/bufferedoutputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/BufferedOutputStreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/fielinputstream2.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/DataStreamExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/fileinputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/DataStreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/fileoutputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/FileOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/fileoutputstream2.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/FileOutputStreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/sequenceinputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/InputStreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/sequenceinputstream1.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/SequenceInputStream1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDog2ExtendsDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDog2ExtendsDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDogExtendsDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDogExtendsDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/KeywordIsNotRequired.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/KeywordIsNotRequired.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/trycatchblock/TryCatchExample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/trycatchblock/TryCatchExample4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/mkpits/java/trycatchblock/TryCatchExample6.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/trycatchblock/TryCatchExample6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AXIS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AXIS2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/AXIS4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Bank7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Bank9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/BooleanContains.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Employeem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/ICICI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/ICICI2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/ICICI4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/MethodOverridingEx4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/MultitaskingEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/MultitaskingEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/MultitaskingEx4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/MultitaskingEx4$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/MultitaskingEx4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/MultitaskingEx5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/MultitaskingEx5$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/MultitaskingEx5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/NestedInterfaceEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/OverloadingEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/OverloadingEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/OverloadingEx4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/PolymorphismEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Programmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/RuntimeClassEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/RuntimeClassEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/RuntimeClassEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/RuntimeClassEx4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/RuntimeClassEx5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/RuntimePolymorphismEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/SBI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/SBI2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/SBI4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/SearchElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Showable$Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Showable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/ShutdownHookEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/ShutdownHookEx2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/ShutdownHookEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Simple1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Simple2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Simple5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Welcome10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Welcome3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Welcome4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Welcome6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Welcome7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Welcome8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/Welcome9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/lgdatatype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/localInner1$1Local.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/localInner1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/loopA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/monthdays9th24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/multi9th6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/multitable9th8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/operations9th4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/ExceptionHandlingwithMethodOverriding/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/ExceptionHandlingwithMethodOverriding/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/ExceptionHandlingwithMethodOverriding/TestExceptionChild3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/ExceptionHandlingwithMethodOverriding/TestExceptionChild3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Interface/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Interface/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Interface/Drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Interface/Drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Interface/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Interface/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Interface/TestInterface1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Interface/TestInterface1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/ObjectCloning/emp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/ObjectCloning/emp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Overriding/Bike2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Overriding/Bike2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Overriding/VehicleIllustrate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/Overriding/VehicleIllustrate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/array/Testarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/array/Testarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/BufferedInputStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/BufferedInputStreamExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/BufferedOutputStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/BufferedOutputStreamExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/DataStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/DataStreamExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/DataStreamExample2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/DataStreamExample2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/FileOutputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/FileOutputStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/FileOutputStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/FileOutputStreamExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/Input2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/Input2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/InputStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/filehandling/InputStreamExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/Animal1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/Animal1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/Animal2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/Animal2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/BabyDog1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/BabyDog1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/BabyDog2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/BabyDog2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/Dog1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/Dog1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/Dog2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/polymorphism/Dog2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/thiskeyword/KeywordIsNotRequired.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/thiskeyword/KeywordIsNotRequired.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/thiskeyword/Student2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/thiskeyword/Student2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/trycatchblock/TryCatchExample4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/trycatchblock/TryCatchExample4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/trycatchblock/TryCatchExample6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/org/mkpits/java/trycatchblock/TryCatchExample6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/profitloss9th18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/search2Darr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/shdatatype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/stgdatatype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/sum9th2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/vowel.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +160,13 @@
       <recent name="org.mkpits.java.Interface" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestFinallyBlock2">
-    <configuration name="TestExceptionPropagation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Exceptionpropagation.TestExceptionPropagation1" />
+  <component name="RunManager" selected="Application.MultipleCatchBlock1">
+    <configuration name="FinalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.throwskeyword.FinalExample" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.Exceptionpropagation.*" />
+          <option name="PATTERN" value="org.mkpits.java.throwskeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestExceptionPropagation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.Exceptionpropagation.TestExceptionPropagation2" />
+    <configuration name="FinallyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.throwskeyword.FinallyExample" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.Exceptionpropagation.*" />
+          <option name="PATTERN" value="org.mkpits.java.throwskeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFinallyBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.finallyblock.TestFinallyBlock" />
+    <configuration name="MultipleCatchBlock1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.throwskeyword.MultipleCatchBlock1" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.finallyblock.*" />
+          <option name="PATTERN" value="org.mkpits.java.throwskeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFinallyBlock1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.finallyblock.TestFinallyBlock1" />
+    <configuration name="Testthrows4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.throwskeyword.Testthrows4" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.finallyblock.*" />
+          <option name="PATTERN" value="org.mkpits.java.throwskeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFinallyBlock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.finallyblock.TestFinallyBlock2" />
+    <configuration name="abc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.throwskeyword.abc" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.finallyblock.*" />
+          <option name="PATTERN" value="org.mkpits.java.throwskeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestFinallyBlock2" />
-        <item itemvalue="Application.TestFinallyBlock1" />
-        <item itemvalue="Application.TestFinallyBlock" />
-        <item itemvalue="Application.TestExceptionPropagation2" />
-        <item itemvalue="Application.TestExceptionPropagation1" />
+        <item itemvalue="Application.MultipleCatchBlock1" />
+        <item itemvalue="Application.abc" />
+        <item itemvalue="Application.FinallyExample" />
+        <item itemvalue="Application.FinalExample" />
+        <item itemvalue="Application.Testthrows4" />
       </list>
     </recent_temporary>
   </component>
