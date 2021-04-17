@@ -1,5 +1,5 @@
 package org.mkpits.java.array;
-//Simple Example of garbage collection in java
+//Simple Example of garbage collection in java.
 
 class GarbageCollection{
   public void finalize(){System.out.println("object is garbage collected");}

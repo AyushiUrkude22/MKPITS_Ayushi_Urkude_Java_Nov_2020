@@ -1,7 +1,6 @@
 package org.mkpits.java.polymorphism;
 // Java Runtime Polymorphism with Multilevel Inheritance.
 
-
 class Animal1{
     void eat(){System.out.println("eating");}
 }

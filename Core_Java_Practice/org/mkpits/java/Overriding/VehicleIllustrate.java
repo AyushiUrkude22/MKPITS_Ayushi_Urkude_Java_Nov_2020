@@ -1,7 +1,6 @@
 package org.mkpits.java.Overriding;
 //Java Program to illustrate the use of Java Method Overriding.
 
-
 class VehicleIllustrate{
     //defining a method
     void run(){System.out.println("Vehicle is running");}

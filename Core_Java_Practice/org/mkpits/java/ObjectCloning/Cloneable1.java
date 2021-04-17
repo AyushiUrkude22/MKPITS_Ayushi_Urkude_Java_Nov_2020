@@ -1,7 +1,6 @@
 package org.mkpits.java.ObjectCloning;
 //the simple example of object cloning.
 
-
 class emp implements Cloneable
 {
     int empno;

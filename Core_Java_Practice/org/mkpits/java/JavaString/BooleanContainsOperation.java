@@ -1,5 +1,5 @@
 package org.mkpits.java.JavaString;
-//boolean contains(CharSequence s) returns true or false after matching the sequence of char value.
+//Boolean contains(CharSequence s) returns true or false after matching the sequence of char value.
 
 import java.util.*;
 class BooleanContainsOperation{

@@ -2,151 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Exceptionpropagation/MultipleCatchBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Exceptionpropagation/MultipleCatchBlock1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Exceptionpropagation/TestExceptionPropagation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Exceptionpropagation/TestExceptionPropagation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Exceptionpropagation/TestExceptionPropagation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/Nestedtryblock/NestedTryBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finallyblock/TestFinallyBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finallyblock/TestFinallyBlock1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/mkpits/java/finallyblock/TestFinallyBlock2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AnnonymousInnerClassEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AnonymousInnerClassEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B_InstanceInitializerEx3 extends A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B_InstanceInitializerEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabyDogPolymorphismEx5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabyDogPolymorphismEx6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BikeInstanceIntializerEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BikeInstanceIntializerEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BikeMethodOverridingEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CovariantReturnType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DaemonThreadEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DaemonThreadEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DogDowncastingEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DogStaticBindingEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoginstanceofA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GarbageEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HondafinalEx5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaExceptionExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingleTaskByMultipleThreads.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticNestedClassEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticNestedClassEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderEx4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderEx5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderEx6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderEx7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderEx8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stringex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringexA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperEx7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SynchronizationEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SynchronizationEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAnonymousArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestArrayException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestArrayExceptionEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCloneArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestGarbage1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOverloading4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestReturnArrayP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testarray3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testarray4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestarrayA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestarrayD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadCallRunEx6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadCallRunEx7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadCurrentThreadMethodEx11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadJoinMethodEx8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadJoinMethodEx9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadMethodEx10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadPriorityEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadPriorityEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadSleepEx4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadTwiceEx5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryCatchExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryCatchExample10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryCatchExample2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryCatchExample3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryCatchExample4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryCatchExample5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryCatchExample6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryCatchExample7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryCatchExample8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TryCatchExample9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Welcome1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Welcome2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Welcome5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/acceptvalue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/age9th11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alphabet9th17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avg9th9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bodatatype.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book4main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bydatatype.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cal10main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cal11main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculate9th7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculatormain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/characcheck9th16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chdatatype.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/countp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cust10main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daynum9th21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daysDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbdatatype.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/digit9th22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divide9th3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dowhileloop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/electricbill9th19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employeemain8methodoverload.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/enhanceloop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4this.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5this.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example6this.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fin3main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finalEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forloop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forloopA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ftdatatype.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grade9th20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greater3num.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greaternum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/height9th12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello9th1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/indatatype.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inst1main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/instanceofEx1main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/instanceofEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/largest9th13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/localInnerClassEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/localInnerClassEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loopB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/aggregation/AggregationA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentmain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentmain5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studmain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/switchCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tempcenti9th15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vowelinput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/welcome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/whileloop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/ExceptionHandlingwithMethodOverriding/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/ExceptionHandlingwithMethodOverriding/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/Interface/interfaceDrawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/Interface/InterfaceDrawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/JavaString/BooleanContainsOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/JavaString/BooleanContainsOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/ObjectCloning/Cloneable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/ObjectCloning/Cloneable1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/Overriding/VehicleIllustrate.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/Overriding/VehicleIllustrate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/GarbageCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/GarbageCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/array/Testarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/array/Testarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/bufferedinputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/BufferedInputStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/bufferedoutputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/BufferedOutputStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/fielinputstream2.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/DataStreamExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/fileinputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/DataStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/fileoutputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/FileOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/fileoutputstream2.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/FileOutputStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/sequenceinputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/InputStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/filehandling/sequenceinputstream1.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/filehandling/SequenceInputStream1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDog2ExtendsDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDog2ExtendsDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDogExtendsDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/polymorphism/BabyDogExtendsDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/KeywordIsNotRequired.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/thiskeyword/KeywordIsNotRequired.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/trycatchblock/TryCatchExample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/trycatchblock/TryCatchExample4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/mkpits/java/trycatchblock/TryCatchExample6.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/mkpits/java/trycatchblock/TryCatchExample6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,16 +173,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/org/mkpits/java/pattern/PyramidPattern.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

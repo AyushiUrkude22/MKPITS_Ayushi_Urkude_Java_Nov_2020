@@ -1,9 +1,8 @@
 package org.mkpits.java.trycatchblock;
 // In this example, along with try block, we also enclose exception code in a catch block.
 
-    public class TryCatchExample6 {
-
-        public static void main(String[] args) {
+public class TryCatchExample6 {
+     public static void main(String[] args) {
 
             try
             {

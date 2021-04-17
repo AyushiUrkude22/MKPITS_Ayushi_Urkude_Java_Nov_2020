@@ -1,7 +1,8 @@
-package org.mkpits.java.filehandling;//Example of BufferedOutputStream class.
+package org.mkpits.java.filehandling;
+//Example of BufferedOutputStream class.
+//Java Program to Buffered Output Stream Example.
 
 import java.io.*;
-
 class BufferedOutputStreamExample{
     public static void main(String[] args)throws Exception{
 

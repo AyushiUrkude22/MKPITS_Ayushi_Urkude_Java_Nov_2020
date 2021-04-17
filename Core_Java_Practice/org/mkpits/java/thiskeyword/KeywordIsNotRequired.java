@@ -1,7 +1,6 @@
 package org.mkpits.java.thiskeyword;
 //Write a program to where this keyword is not required.
 
-
 class  Student2{
     int rollno;
     String name;

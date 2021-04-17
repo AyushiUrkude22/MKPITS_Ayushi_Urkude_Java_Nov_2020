@@ -1,4 +1,5 @@
 package org.mkpits.java.filehandling;
+//Java program to Data Stream Example.
 
 import java.io.FileInputStream;
 class DataStreamExample2 {

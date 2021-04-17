@@ -1,4 +1,5 @@
-package org.mkpits.java.filehandling;//Java SequenceInputStream Examplewe are printing the data of two files testin.txt and testout.txt.
+package org.mkpits.java.filehandling;
+//Java SequenceInputStream Examplewe are printing the data of two files testin.txt and testout.txt.
 
 import java.io.*;
     class InputStreamExample {
