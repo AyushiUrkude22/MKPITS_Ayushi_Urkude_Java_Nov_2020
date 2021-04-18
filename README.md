@@ -1044,4 +1044,166 @@ is less than 18, we are throwing the ArithmeticException otherwise print a messa
 #### Program 276)Testthrows.Java
 Let's see the example of java throws clause which describes that checked exceptions can be propagated by throws keyword.
 
+#### Program 277)AnonymousInnerClassPerson.java
+Java anonymous inner class example using class.
+
+#### Program 278)Eatable.java
+Java anonymous inner class example using interface.
+
+#### Program 279)MemberStudent.java
+Java Member inner class example.
+
+#### Program 280)TestMemberOuter1.Java
+Java Member inner class example
+In this example, we are creating msg() method in member inner class that is accessing the private data
+member of outer class.
+
+#### Program 281)NestedA.java
+Example of nested interface which is declared within the class.
+
+#### Program 282)NestedStudent.java
+Java Program of Nested Interface.
+
+#### Program 283)Showable.java
+Example of nested interface which is declared within the interface
+In this example, we are going to learn how to declare the nested interface and how we can access it.
+
+#### Program 284)localInner1.Java
+Java local inner class example.
+
+#### Program 285)localInner2.Java
+Example of local inner class with local variable.
+
+#### Program 286)StaticNestedClassExample1.Java
+Java static nested class example with static method.
+
+#### Program 287)StaticNestedClassExample.Java
+Java static nested class example with instance method.
+
+#### Program 288)Simple Number.Java
+Write a program to Simple number program
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+#### Program 289)PascalTriangle.Java
+Write a program to Pascal’s Triangle Program in Java
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
+
+#### Program 290)DiamondPattern.Java
+Write a program to Diamond Pattern Program in Java
+1
+212
+32123
+4321234
+32123
+212
+1
+
+#### Program 291)DescendingOrderPattern.Java
+Write a program to Descending order Pattern
+Enter the number of rows: 5
+5
+5 4
+5 4 3
+5 4 3 2
+5 4 3 2 1
+
+#### Program 292)NumberOfRow5Pattern.Java
+Write a program to Number Pattern Programs in Java
+Enter the number of rows: 5
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+
+#### Program 293)RightTriangleNumericPattern.Java
+Write a program to Right Triangle Numeric Pattern
+Enter the number of rows: 5
+1
+2 1
+3 2 1
+4 3 2 1
+5 4 3 2 1
+
+#### Program 294)BinaryNumberPattern.Java
+Write a program to Binary Number Pattern
+Enter the number of rows: 5
+10101
+01010
+10101
+01010
+10101
+
+#### Program 295)ZerosOnesPatternPrograms.Java
+Write a program to Zeros/ ones Pattern Programs
+Enter the number of rows: 5
+1
+10
+101
+1010
+10101
+
+#### Program 296)DiamondNumericPattern.Java
+Write a program to Diamond Numeric Pattern
+1 2 3 4 5
+ 2 3 4 5
+  3 4 5
+   4 5
+    5
+   4 5
+  3 4 5
+ 2 3 4 5
+1 2 3 4 5
+
+#### Program 297)RightAlphabeticTriangle.Java
+Write a program to Right Alphabetic triangle
+A
+A B
+A B C
+A B C D
+A B C D E
+A B C D E F
+
+#### Program 298)AlphabetCharacterPatternPrograms.Java
+Write a program to Alphabet/ Character Pattern Programs
+A
+B B
+C C C
+D D D D
+E E E E E
+F F F F F F
+
+#### Program 299)KShapeCharacterPatternProgram.Java
+Write a program to K Shape Character Pattern Program
+A B C D E F
+A B C D E
+A B C D
+A B C
+A B
+A
+A
+A B
+A B C
+A B C D
+A B C D E
+A B C D E F
+
+#### Program 300)TriangleCharacterPatternProgram.Java
+Write a program to Triangle Character Pattern Program in Java
+A
+A B
+A B C
+A B C D
+A B C D E
+A B C D E F
+
+
 
