@@ -1205,5 +1205,149 @@ A B C D
 A B C D E
 A B C D E F
 
+#### Program 301)Runnable.java
+If you are not extending the Thread class,your class object would not be treated as a thread object.So
+you need to explicitely create Thread class object.We are passing the object of your class that
+implements Runnable so that your class run() method may execute.
 
+#### Program 302)Thread.java
+Java Thread Example by extending Thread class.
 
+#### Program 303)ThreadRunnable.java
+Java Thread Example by implementing Runnable interface.
+
+#### Program 304)Thread1.java
+Write a program to thread twice.
+
+#### Program 305)JoinThread.java
+Write a program to Example of join() method.
+
+#### Program 306)JoinThread1.Java
+Example of join(long miliseconds) method
+
+#### Program 307)NamingThread.Java
+Example of naming a thread.
+
+#### Program 308)CurrentThread.Java
+Example of currentThread() method.
+
+#### Program 309)CallRunThread.Java
+Example of Invoking the run() method from main thread, the run() method goes onto the current call stack rather
+than at the beginning of a new call stack.
+
+#### Program 310)Thread.Java
+Example of MainThreadStack Problem if you direct call run() method.
+
+#### Program 311)SleepMethodThread.Java
+Example of sleep method in java.
+
+#### Program 312)DaemonThread.Java
+Write a program to Example of Daemon Thread.
+
+#### Program 313)DaemonThread2.Java
+Write a program to Example of Daemon Thread.
+
+#### Program 314)ThreadGroup.Java
+Write a program to Example of Thread Group.
+
+#### Program 315)ThreadPool.Java
+Example example of java thread pool using ExecutorService and Executors.
+
+#### Program 316)PriorityThread.Java
+Example of priority of a Thread.
+
+#### Program 317)PriorityThread1.Java
+Example of priority of a Thread:
+
+#### Program 318)MultitaskingThread.Java
+If you have to perform single task by many threads, have only one run() method.For example:
+Program of performing single task by multiple threads.
+
+#### Program 319)MultipleThreadsStack.java
+If you have to perform multiple tasks by multiple threads,have multiple run() methods.For example:
+Program of performing two tasks by two threads.
+
+#### Program 320)TestMultitasking4.Java
+Program of performing two tasks by two threads.class.
+
+#### Program 321)TwoTasksByTwoThread.java
+Program of performing two tasks by two threads.
+
+#### Program 322)SynchronizedBlockTable.java
+Program of synchronized block.
+
+#### Program 323)SynchronizedBlockByUsingAnnonymousClass.Java
+Program of synchronized block by using annonymous class
+
+#### Program 324)Runtime.java
+Program of Runtime you can use -s switch to shutdown system, -r switch to restart system and -t switch to specify time delay.
+
+#### Program 325)ShutdownWindowsSystem.Java
+Program of shutdown windows system in Java.
+
+#### Program 326)RestartSystem.java
+Program of restart system in Java.
+
+#### Program 327)RuntimeAvailableProcessors.Java
+Java Runtime availableProcessors().
+
+#### Program 328)MemoryTest.Java
+Java Runtime freeMemory() and totalMemory() method.
+
+#### Program 329)ShutdownHook.java
+Example of Shutdown Hook.
+
+#### Program 330)ShutdownHookByAnnonymousClass.Java
+Example of Shutdown Hook by annonymous class.
+
+#### Program 331)SynchronizationTable.java
+In this example, there is no synchronization, so output is inconsistent. Let's see the example.
+
+#### Program 332)SynchronizedMethodTable.java
+Example of java synchronized method.
+
+#### Program 333)SynchronizedMethodByUsingAnnonymousClass.Java
+Program of synchronized method by using annonymous class.
+
+#### Program 334)TestGarbage1.java
+Example of garbage collection in java.
+
+#### Program 335)FileOutputStreamExample.Java
+Java FileOutputStream Example 1: write byte.
+
+#### Program 336)FileOutputStreamExample1.Java
+Java FileOutputStream example 2: write string.
+
+#### Program 337)BufferedInputStreamExample.Java
+Example to read data of file using BufferedInputStream.
+
+#### Program 338)DataStreamExample.Java
+Java FileInputStream example 1: read single character
+
+#### Program 339)DataStreamExample1.Java
+Java FileInputStream example 2: read all characters.
+
+#### Program 340)BufferedOutputStreamExample.Java
+Example of BufferedOutputStream class.
+
+#### Program 341)TestInterruptingThread.Java
+Example of interrupting a thread that stops working.
+
+#### Program 342)TestInterruptingThread2.Java
+Example of interrupting a thread that doesn't stop working.
+
+#### Program 343)TestInterruptingThread3.Java
+Example of interrupting thread that behaves normally.
+
+#### Program 344)TestInterruptingThread4.Java
+The isInterrupted() method returns the interrupted flag either true or false. The static interrupted() method
+returns the interrupted flag afterthat it sets the flag to false if it is true.
+
+#### Program 345)TestDeadlockExample1.Java
+Example of Deadlock in java.
+
+#### Program 346)InterThreadCommunication.java
+Example of inter thread communication in java.
+
+#### Program 347)FileReaderExample.Java
+Java Example of File Reader.
