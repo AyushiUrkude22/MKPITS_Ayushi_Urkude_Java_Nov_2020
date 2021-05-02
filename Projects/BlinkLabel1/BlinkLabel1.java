@@ -1,4 +1,5 @@
 package com.mkpits.java.BlinkLabel1;
+
 /* The panel has various buttons. Description as below
  Number 1 to 6 depicts the floors of the building
  L - Lights ON/OFF (Pressing this switch should display whether the light is on or off in the mini panel)
