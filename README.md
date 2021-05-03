@@ -1352,8 +1352,38 @@ Example of inter thread communication in java.
 #### Program 347)FileReaderExample.Java
 Java Example of File Reader.
 
-#### Program 348)
+#### Program 348)ArrayDeclareInstantiateInitializeTraverse.Java
+Java Program to illustrate how to declare, instantiate, initialize and traverse the Java array.
 
-#### Program 349)
+#### Program 349)AWTCheckboxGroup.Java
+Java program of AWT Checkbox Group.
 
-#### Program 350)l
+#### Program 350)AWTDialog.Java
+Java Program fo AWT Dialog.
+
+#### Program 351)SortArrayAndSearchElementInside.Java
+Java Program to sort an array and search an element inside it.
+
+#### Program 352)SortArrayAndInsertElementInside.Java
+Java Program to sort an array and insert an element inside it.
+
+#### Program 353)TwoDimensionalArray.Java
+Java Program to determine the upper bound of a two dimensional array .
+
+#### Program 354)ReverseAnArrayList.Java
+Java Program to reverse an array list.
+
+#### Program 355)ArrayOfStringsToTheOutputConsole.Java
+Java Program to write an array of strings to the output console.
+
+#### Program 356)SearchArray.Java
+Java Program to  search the minimum and the maximum element in an array.
+
+#### Program 358)MergeTwoArrays.Java
+Java Program to Merge Two Arrays.
+
+#### Program 359)MergeTwoArrays1.Java
+Java Program to Merge Two Arrays.
+
+#### Program 360)FillArray.Java
+Java Program to  fill (initialize at once) an array.

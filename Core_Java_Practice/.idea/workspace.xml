@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/AWT/AWTCheckboxGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/AWT/AWTDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayDeclareInstantiateInitializeTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayOfStringsToTheOutputConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/FillArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/MergeTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/MergeTwoArrays1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ReverseAnArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/SearchArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/SortArrayAndInsertElementInside.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/SortArrayAndSearchElementInside.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/TwoDimensionalArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/AccessModifiers/AccessA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/accessModifiers/AccessA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/AccessModifiers/ClassConstructorPrivate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/accessModifiers/ClassConstructorPrivate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/Anonymousinnerclass/AnonymousInnerClassPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/anonymousinnerclass/AnonymousInnerClassPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/Anonymousinnerclass/Eatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/anonymousinnerclass/Eatable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/filehandling/BufferedOutputStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/filehandling/BufferedOutputStreamExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/Registerclass$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/Registerclass$2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" afterDir="false" />
