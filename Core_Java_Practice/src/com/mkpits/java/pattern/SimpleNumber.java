@@ -1,4 +1,4 @@
-package org.mkpits.java.pattern;
+package src.com.mkpits.java.pattern;
 /* Write a program to Simple number program
 1
 1 2

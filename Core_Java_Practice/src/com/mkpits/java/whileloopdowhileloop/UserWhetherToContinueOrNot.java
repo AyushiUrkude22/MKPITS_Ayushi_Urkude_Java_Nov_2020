@@ -1,4 +1,4 @@
-package org.mkpits.java.whileloopdowhileloop;
+package src.com.mkpits.java.whileloopdowhileloop;
 //Write a program to ask the user whether to continue or not.
 
 import java.util.*;

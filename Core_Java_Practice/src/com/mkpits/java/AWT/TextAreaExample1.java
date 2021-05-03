@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 /* The object of a TextArea class is a multi line region that displays text. It allows the editing of multiple line
 text. It inherits TextComponent class */
 

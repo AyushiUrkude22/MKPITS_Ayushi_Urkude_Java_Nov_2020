@@ -1,4 +1,4 @@
-package com.mkpits.java.BlinkLabel1;
+package com.mkpits.java;
 
 /* The panel has various buttons. Description as below
  Number 1 to 6 depicts the floors of the building

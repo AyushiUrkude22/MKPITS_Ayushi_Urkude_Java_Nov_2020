@@ -1,4 +1,4 @@
-package org.mkpits.java.pattern;
+package src.com.mkpits.java.pattern;
 /*Write a program to K Shape Character Pattern Program
 A B C D E F
 A B C D E

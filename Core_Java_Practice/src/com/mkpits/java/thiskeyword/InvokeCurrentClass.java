@@ -1,4 +1,4 @@
-package org.mkpits.java.thiskeyword;
+package src.com.mkpits.java.thiskeyword;
 /*Write a program to invoke the method of the current class by using the this keyword. If you don't use the this
 keyword, compiler automatically adds this keyword while invoking the method*/
 

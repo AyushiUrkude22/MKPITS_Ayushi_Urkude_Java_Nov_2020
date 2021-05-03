@@ -1,4 +1,4 @@
-package org.mkpits.java.pattern;
+package src.com.mkpits.java.pattern;
 /*Write a program to Number Pattern Programs in Java
 Enter the number of rows: 5
 1

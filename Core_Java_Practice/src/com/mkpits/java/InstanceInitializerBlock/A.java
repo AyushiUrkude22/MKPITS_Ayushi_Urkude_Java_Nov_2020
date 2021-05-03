@@ -1,4 +1,4 @@
-package org.mkpits.java.InstanceInitializerBlock;
+package src.com.mkpits.java.InstanceInitializerBlock;
 /* parent class constructor invoked
 instance initializer block is invoked
 child class constructor invoked

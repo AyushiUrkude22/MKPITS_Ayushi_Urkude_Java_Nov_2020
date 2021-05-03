@@ -1,4 +1,4 @@
-package org.mkpits.java.GarbageCollection;
+package src.com.mkpits.java.GarbageCollection;
 //Example of garbage collection in java.
 
 class TestGarbage{

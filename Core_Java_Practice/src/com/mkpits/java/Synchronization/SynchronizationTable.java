@@ -1,4 +1,4 @@
-package org.mkpits.java.Synchronization;
+package src.com.mkpits.java.Synchronization;
 //In this example, there is no synchronization, so output is inconsistent. Let's see the example.
 
 class Table{

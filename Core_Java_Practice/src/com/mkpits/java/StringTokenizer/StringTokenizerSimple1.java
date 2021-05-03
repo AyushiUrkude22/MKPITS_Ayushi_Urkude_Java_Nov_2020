@@ -1,4 +1,4 @@
-package org.mkpits.java.StringTokenizer;
+package src.com.mkpits.java.StringTokenizer;
 //Simple example of StringTokenizer class.
 
 import java.util.StringTokenizer;

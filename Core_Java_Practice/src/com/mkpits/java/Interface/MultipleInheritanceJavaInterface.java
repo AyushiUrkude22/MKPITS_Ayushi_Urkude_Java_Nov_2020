@@ -1,4 +1,4 @@
-package org.mkpits.java.Interface;
+package src.com.mkpits.java.Interface;
 // Multiple inheritance in Java by interface.
 
 interface Printable{

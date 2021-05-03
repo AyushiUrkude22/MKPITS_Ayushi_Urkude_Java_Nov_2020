@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 /* The isInterrupted() method returns the interrupted flag either true or false. The static interrupted() method
 returns the interrupted flag afterthat it sets the flag to false if it is true. */
 

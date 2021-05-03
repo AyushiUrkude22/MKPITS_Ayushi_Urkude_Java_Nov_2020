@@ -1,4 +1,4 @@
-package org.mkpits.java.JavaString;
+package src.com.mkpits.java.JavaString;
 //Java String Example.
 
 public class StringExample{

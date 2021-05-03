@@ -1,4 +1,4 @@
-package org.mkpits.java.declarevariable;
+package src.com.mkpits.java.declarevariable;
 //Write a program to declare a variable num and asign a value 8 and then calculate square of the number.
 
 class CalculateSquareOfNumber {

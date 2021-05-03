@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 // Example of naming a thread.
 
 class TestMultiNaming1 extends Thread{

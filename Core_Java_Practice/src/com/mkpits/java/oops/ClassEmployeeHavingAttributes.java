@@ -1,4 +1,4 @@
-package org.mkpits.java.oops;
+package src.com.mkpits.java.oops;
 //Write a program create a class employee having attributes empno,empname , designation and salary and methods getdata and showdata.
 
 class employee

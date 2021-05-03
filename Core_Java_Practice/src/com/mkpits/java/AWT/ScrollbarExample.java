@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 /* Write a program to scrollbar horizontal.
 java awt scrollbar example 1
  Java AWT Scrollbar Example with AdjustmentListener. */

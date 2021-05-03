@@ -1,4 +1,4 @@
-package org.mkpits.java.InstanceInitializerBlock;
+package src.com.mkpits.java.InstanceInitializerBlock;
 //Program of instance initializer block that is invoked after super().
 
 class InstanceInitializerBlockThatInvokedAfterSuperA{

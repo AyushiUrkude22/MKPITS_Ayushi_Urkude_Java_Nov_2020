@@ -1,4 +1,4 @@
-package org.mkpits.java.Nestedtryblock;
+package src.com.mkpits.java.Nestedtryblock;
 //A simple example of java nested try block.
 
 class NestedTryBlock{

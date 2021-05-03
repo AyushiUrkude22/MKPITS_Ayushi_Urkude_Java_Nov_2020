@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 /*The following program, Break With Label is uses nested for loops to search for a value in a two-dimensional
 array. When the value is found, a labeled break terminates the outer for loop (labeled "search")*/
 

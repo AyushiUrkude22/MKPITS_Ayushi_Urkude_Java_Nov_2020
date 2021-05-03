@@ -1,4 +1,4 @@
-package org.mkpits.java.inheritance;
+package src.com.mkpits.java.inheritance;
 //Write a program to Dog and Cat classes inherits the Animal class, so there is hierarchical inheritance.
 
 class Animal2{

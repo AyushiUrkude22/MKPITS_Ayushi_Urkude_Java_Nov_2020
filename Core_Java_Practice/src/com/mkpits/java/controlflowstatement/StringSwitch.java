@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //String Switch displays the number of the month based on the value of the String named month.
 
 class StringSwitch {

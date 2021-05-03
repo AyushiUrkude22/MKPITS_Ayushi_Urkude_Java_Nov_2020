@@ -1,4 +1,4 @@
-package org.mkpits.java.declarevariable;
+package src.com.mkpits.java.declarevariable;
 //Write a program to accept  2 no. and then calculate and display multiplication of 2 no.
 
 import java.util.Scanner;

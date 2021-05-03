@@ -1,4 +1,4 @@
-package org.mkpits.java.trycatchblock;
+package src.com.mkpits.java.trycatchblock;
 /* Here, we can see that if an exception occurs in the try block, the rest of the block code will not execute.
 Here, we handle the exception using the parent class exception. */
 

@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 /* The setBounds(int xaxis, int yaxis, int width, int height) method
 is used in the above example that sets the position of the awt button */
 

@@ -1,4 +1,4 @@
-package org.mkpits.java.finalkeyword;
+package src.com.mkpits.java.finalkeyword;
 //If you make any method as final, you cannot override it.
 
 class FinalMethodBike{

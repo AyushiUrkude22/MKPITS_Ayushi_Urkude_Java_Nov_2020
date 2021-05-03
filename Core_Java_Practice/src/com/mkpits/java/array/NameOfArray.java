@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 //Java Program to get the class name of array in Java.
 
 class NameOfArray{

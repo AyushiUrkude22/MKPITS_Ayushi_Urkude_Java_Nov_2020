@@ -1,4 +1,4 @@
-package org.mkpits.java.StaticBindingandDynamicBinding;
+package src.com.mkpits.java.StaticBindingandDynamicBinding;
 //Java program Example of Static Binding.
 
 class StaticBindingDog{

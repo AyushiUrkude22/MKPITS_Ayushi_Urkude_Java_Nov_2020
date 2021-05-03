@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //The following program Continue With Labeluses the labeled form of continue to skip an iteration in the outer loop.
 
 public class ContinueWithLabel {

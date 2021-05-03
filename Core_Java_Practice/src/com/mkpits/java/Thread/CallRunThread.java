@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 /* Example of Invoking the run() method from main thread, the run() method goes onto the current call stack rather
 than at the beginning of a new call stack. */
 

@@ -1,4 +1,4 @@
-package org.mkpits.java.InstanceInitializerBlock;
+package src.com.mkpits.java.InstanceInitializerBlock;
 //What is invoked first, instance initializer block or constructor.
 
 class InvokedBike{

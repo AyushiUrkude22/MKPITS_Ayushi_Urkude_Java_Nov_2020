@@ -1,4 +1,4 @@
-package org.mkpits.java.Multicatchblock;
+package src.com.mkpits.java.Multicatchblock;
 //A simple example of java multi-catch block.
 
 public class MultipleCatchBlock {

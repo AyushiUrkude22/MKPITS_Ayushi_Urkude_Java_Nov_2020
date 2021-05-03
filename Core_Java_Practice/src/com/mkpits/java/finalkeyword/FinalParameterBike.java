@@ -1,4 +1,4 @@
-package org.mkpits.java.finalkeyword;
+package src.com.mkpits.java.finalkeyword;
 //If you declare any parameter as final, you cannot change the value of it.
 
 class FinalParameterBike{

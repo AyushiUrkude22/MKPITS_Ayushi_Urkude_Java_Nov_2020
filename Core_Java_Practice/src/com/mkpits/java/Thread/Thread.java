@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 //Java Thread Example by extending Thread class.
 
 class Multi extends Thread{

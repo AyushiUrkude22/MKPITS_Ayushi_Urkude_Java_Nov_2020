@@ -1,4 +1,4 @@
-package org.mkpits.java.instanceoperator;
+package src.com.mkpits.java.instanceoperator;
 //The example, where downcasting is possible by instanceof operator.
 
 class DowncastingAnimal { }

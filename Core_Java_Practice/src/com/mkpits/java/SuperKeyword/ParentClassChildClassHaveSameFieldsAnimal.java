@@ -1,4 +1,4 @@
-package org.mkpits.java.SuperKeyword;
+package src.com.mkpits.java.SuperKeyword;
 /* We can use super keyword to access the data member or field of parent class. It is used if parent class
 and child class have same fields */
 

@@ -1,4 +1,4 @@
-package org.mkpits.java.trycatchblock;
+package src.com.mkpits.java.trycatchblock;
 //Let's see an example to handle another unchecked exception.
 
 public class TryCatchExample8 {

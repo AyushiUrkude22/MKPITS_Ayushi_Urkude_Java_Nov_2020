@@ -1,4 +1,4 @@
-package org.mkpits.java.thiskeyword;
+package src.com.mkpits.java.thiskeyword;
 /*The this() constructor call should be used to reuse the constructor from the constructor. It maintains the
 chain between the constructors i.e. it is used for constructor chaining */
 

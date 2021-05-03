@@ -1,8 +1,7 @@
-package org.mkpits.java.ExceptionHandlingwithMethodOverriding;
+package src.com.mkpits.java.ExceptionHandlingwithMethodOverriding;
 //Example in case subclass overridden method declares same exception.
 
-import java.io.*;
-    class Parent{
+class Parent{
         void msg()throws Exception{System.out.println("parent");}
     }
 

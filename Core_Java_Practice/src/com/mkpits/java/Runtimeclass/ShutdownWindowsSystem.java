@@ -1,4 +1,4 @@
-package org.mkpits.java.Runtimeclass;
+package src.com.mkpits.java.Runtimeclass;
 //Program of shutdown windows system in Java.
 
 class ShutdownWindowsSystem {

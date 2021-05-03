@@ -1,4 +1,4 @@
-package org.mkpits.java.InstanceInitializerBlock;
+package src.com.mkpits.java.InstanceInitializerBlock;
 //Java program Example of Instance Block.
 
 class InstanceBlockA{

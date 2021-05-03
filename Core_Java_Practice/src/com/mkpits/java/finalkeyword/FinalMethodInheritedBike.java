@@ -1,4 +1,4 @@
-package org.mkpits.java.finalkeyword;
+package src.com.mkpits.java.finalkeyword;
 //final method is inherited but you cannot override it.
 
 class FinalMethodInheritedBike{

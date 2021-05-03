@@ -1,4 +1,4 @@
-package org.mkpits.java.Interface;
+package src.com.mkpits.java.Interface;
 // Since Java 8, we can have method body in interface. But we need to make it default method. Let's see an example:
 
 interface Drawable1{

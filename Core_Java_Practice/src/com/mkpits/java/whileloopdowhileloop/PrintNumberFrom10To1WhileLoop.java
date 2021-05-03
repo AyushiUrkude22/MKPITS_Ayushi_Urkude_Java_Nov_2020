@@ -1,4 +1,4 @@
-package org.mkpits.java.whileloopdowhileloop;
+package src.com.mkpits.java.whileloopdowhileloop;
 //Write a program to print no. from 10 to 1 using while loop.
 
 import java.util.*;

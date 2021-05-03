@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 //Java AWT TextField Example with ActionListener.
 
 import java.awt.*;

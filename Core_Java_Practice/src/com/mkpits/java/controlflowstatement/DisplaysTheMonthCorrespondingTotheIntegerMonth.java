@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //The program displays the month corresponding to the integer month and the months that follow in the year.
 
 import java.util.*;

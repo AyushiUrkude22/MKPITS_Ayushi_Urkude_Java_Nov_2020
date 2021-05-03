@@ -1,9 +1,9 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 // key listener for keyboard event.
 
 import java.awt.*;
 import java.awt.event.*;
-import java.applet.*;
+
 public class keyevent extends Frame implements KeyListener
 {
     TextField tf;

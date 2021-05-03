@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 // Example of java array, where we are going to declare, instantiate, initialize and traverse an array.
 
 class JavaArray{

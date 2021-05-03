@@ -1,4 +1,4 @@
-package org.mkpits.java.declarevariable;
+package src.com.mkpits.java.declarevariable;
 //Write a program to accept a number from the user and print square of the number.
 
 import java.util.Scanner;

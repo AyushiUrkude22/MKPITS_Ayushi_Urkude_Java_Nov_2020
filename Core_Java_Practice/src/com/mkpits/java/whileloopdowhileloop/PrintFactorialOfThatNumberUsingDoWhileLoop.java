@@ -1,4 +1,4 @@
-package org.mkpits.java.whileloopdowhileloop;
+package src.com.mkpits.java.whileloopdowhileloop;
 //Write a program to accept a no and print factorial of that no. using do while loop.
 
 import java.util.*;

@@ -1,4 +1,4 @@
-package org.mkpits.java.Multicatchblock;
+package src.com.mkpits.java.Multicatchblock;
 /* In this example, try block contains two exceptions. But at a time only one exception occurs and its
 corresponding catch block is invoked. */
 

@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 //Write a program to sum the elements of an array.
 
 import java.util.*;

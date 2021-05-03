@@ -1,4 +1,4 @@
-package org.mkpits.java.polymorphism;
+package src.com.mkpits.java.polymorphism;
 // BabyDog is not overriding the eat() method, so eat() method of Dog class is invoked.
 
 class Animal2{

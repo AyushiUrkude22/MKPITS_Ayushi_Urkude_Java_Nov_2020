@@ -1,4 +1,4 @@
-package org.mkpits.java.Runtimeclass;
+package src.com.mkpits.java.Runtimeclass;
 //Program of restart system in Java.
 
 class Runtime3{

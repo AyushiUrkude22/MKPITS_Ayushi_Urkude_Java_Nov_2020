@@ -1,4 +1,4 @@
-package org.mkpits.java.ExceptionHandling;
+package src.com.mkpits.java.ExceptionHandling;
 //Example of Java Exception Handling where we using a try-catch statement to handle the exception.
 
 class JavaExceptionExample{

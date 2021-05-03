@@ -1,4 +1,4 @@
-package org.mkpits.java.JavaString;
+package src.com.mkpits.java.JavaString;
 //static String equalsIgnoreCase(String another) compares another string. It doesn't check case.
 
 import java.util.*;

@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //Write a program to accept 2 no. and print greate no.
 
 import java.util.*;

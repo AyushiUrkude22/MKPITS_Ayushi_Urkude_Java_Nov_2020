@@ -1,4 +1,4 @@
-package org.mkpits.java.Interface;
+package src.com.mkpits.java.Interface;
 // implements an interface, but one interface extends another interface.
 
 interface Printable2{

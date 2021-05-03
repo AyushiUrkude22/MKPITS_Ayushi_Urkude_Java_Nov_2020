@@ -1,4 +1,4 @@
-package org.mkpits.java.JavaString;
+package src.com.mkpits.java.JavaString;
 //String concat(String str) concatenates the specified string.
 
 import java.util.*;

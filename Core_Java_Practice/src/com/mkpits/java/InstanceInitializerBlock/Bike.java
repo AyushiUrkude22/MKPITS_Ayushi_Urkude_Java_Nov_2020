@@ -1,4 +1,4 @@
-package org.mkpits.java.InstanceInitializerBlock;
+package src.com.mkpits.java.InstanceInitializerBlock;
 //The instance initializer block comes in the order in which they appear.
 
 class Bike

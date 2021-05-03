@@ -1,4 +1,4 @@
-package org.mkpits.java.JavaString;
+package src.com.mkpits.java.JavaString;
 //String replace(CharSequence old, CharSequence new) replaces all occurrences of the specified CharSequence.
 
 import java.util.*;

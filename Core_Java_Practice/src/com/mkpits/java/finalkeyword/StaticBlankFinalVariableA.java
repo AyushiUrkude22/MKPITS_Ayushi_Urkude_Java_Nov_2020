@@ -1,4 +1,4 @@
-package org.mkpits.java.finalkeyword;
+package src.com.mkpits.java.finalkeyword;
 /* A static final variable that is not initialized at the time of declaration is known as static blank final variable.
 It can be initialized only in static block */
 

@@ -1,4 +1,4 @@
-package org.mkpits.java.aggregation;
+package src.com.mkpits.java.aggregation;
 /*Write a program to create a class Address having field city, state , pincode
 create a class Employee having field empno, empname and address of type Address class */
 

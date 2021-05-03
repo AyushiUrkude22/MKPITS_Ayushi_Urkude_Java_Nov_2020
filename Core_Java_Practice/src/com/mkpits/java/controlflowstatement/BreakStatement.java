@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //The break statement You can also use an  break to terminate a for, while, or do-while loop, as shown in the following Break program.
 
 class BreakStatement {

@@ -1,4 +1,4 @@
-package org.mkpits.java.thiskeyword;
+package src.com.mkpits.java.thiskeyword;
 //Write a program to Calling parameterized constructor from default constructor.
 
 class C{

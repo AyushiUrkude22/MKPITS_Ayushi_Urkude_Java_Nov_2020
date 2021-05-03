@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 // With key adapter.
 
 import java.awt.*;

@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 //Java Program to clone the array.
 
 class CloneTheArray {

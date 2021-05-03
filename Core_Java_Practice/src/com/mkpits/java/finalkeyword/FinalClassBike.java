@@ -1,4 +1,4 @@
-package org.mkpits.java.finalkeyword;
+package src.com.mkpits.java.finalkeyword;
 //If you make any class as final, you cannot extend it.
 
 class FinalClassBike{}

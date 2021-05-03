@@ -1,4 +1,4 @@
-package org.mkpits.java.Overriding;
+package src.com.mkpits.java.Overriding;
 //Java Program to illustrate the use of Java Method Overriding.
 
 class VehicleIllustrate{

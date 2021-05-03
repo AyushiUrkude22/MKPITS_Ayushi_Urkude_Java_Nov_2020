@@ -1,4 +1,4 @@
-package org.mkpits.java.filehandling;
+package src.com.mkpits.java.filehandling;
 //Java program to Data Stream Example.
 
 import java.io.FileInputStream;

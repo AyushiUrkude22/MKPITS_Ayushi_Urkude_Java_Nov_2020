@@ -1,4 +1,4 @@
-package org.mkpits.java.ExceptionHandling;
+package src.com.mkpits.java.ExceptionHandling;
 /* The "finally" block is used to execute the important code of the program. It is executed
 whether an exception is handled or not. */
 

@@ -1,4 +1,4 @@
-/*SwitchDemo, declares an int named month whose value represents a
+package src.com.mkpits.java.controlflowstatement;/*SwitchDemo, declares an int named month whose value represents a
 month. The code displays the name of the month, based on the value of month, using the switch
 statement*/
 

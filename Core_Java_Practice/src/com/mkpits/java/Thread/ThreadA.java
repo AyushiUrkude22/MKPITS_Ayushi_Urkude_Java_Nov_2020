@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 //Example of MainThreadStack Problem if you direct call run() method.
 
 class TestCallRun2 extends Thread{

@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //For,uses the general form of the for statement to print the numbers 1 through 10 to standard.
 
 class PrintNumbers1Through10ToStandard{

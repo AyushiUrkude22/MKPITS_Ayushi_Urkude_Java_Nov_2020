@@ -1,4 +1,4 @@
-package org.mkpits.java.trycatchblock;
+package src.com.mkpits.java.trycatchblock;
 //Let's try to understand the problem if we don't use a try-catch block.
 
 

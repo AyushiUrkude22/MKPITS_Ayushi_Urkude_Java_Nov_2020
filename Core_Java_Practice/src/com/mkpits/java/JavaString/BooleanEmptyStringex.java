@@ -1,4 +1,4 @@
-package org.mkpits.java.JavaString;
+package src.com.mkpits.java.JavaString;
 //Boolean isEmpty() checks if string is empty.
 
 import java.util.*;

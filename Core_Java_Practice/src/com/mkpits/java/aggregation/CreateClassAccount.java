@@ -1,4 +1,4 @@
-package org.mkpits.java.aggregation;
+package src.com.mkpits.java.aggregation;
 /* Write a program to create a class Account having field Saving extends Account Current extends Account
 deposit or withdrawl */
 

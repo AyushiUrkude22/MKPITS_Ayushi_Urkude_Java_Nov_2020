@@ -1,4 +1,4 @@
-package org.mkpits.java.Exceptionpropagation;
+package src.com.mkpits.java.Exceptionpropagation;
 //Program of Multiple Catch Block.
 
 public class MultipleCatchBlock {

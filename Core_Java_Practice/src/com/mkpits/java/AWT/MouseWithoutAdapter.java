@@ -1,9 +1,9 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 // mouse without adapter.
 
 import java.awt.*;
 import java.awt.event.*;
-import java.applet.*;
+
 /*
 <applet code="mouseevent3" width=150 height=200>
 </applet> */

@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 // Write a program display the elements of an array using for loop.
 
 class DisplayTheElements {

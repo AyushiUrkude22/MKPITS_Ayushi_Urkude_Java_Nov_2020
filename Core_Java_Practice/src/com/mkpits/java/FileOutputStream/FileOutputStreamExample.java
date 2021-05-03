@@ -1,4 +1,4 @@
-package org.mkpits.java.FileOutputStream;
+package src.com.mkpits.java.FileOutputStream;
 //Java FileOutputStream Example 1: write byte.
 
 import java.io.FileOutputStream;

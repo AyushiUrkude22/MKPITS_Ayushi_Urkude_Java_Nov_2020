@@ -1,4 +1,4 @@
-package org.mkpits.java.hellojava;
+package src.com.mkpits.java.hellojava;
 //Write a program to"welcome to java".
 
 class WelcomeToJava {

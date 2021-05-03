@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //Write a program to accept 2 no. and oprator like +,-,*and then display result using switch statement.
 
 import java.util.*;

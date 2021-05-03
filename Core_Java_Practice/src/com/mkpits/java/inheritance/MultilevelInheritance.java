@@ -1,4 +1,4 @@
-package org.mkpits.java.inheritance;
+package src.com.mkpits.java.inheritance;
 /*Write a program to BabyDog class inherits the Dog class which again inherits the Animal class,
 so there is a multilevel inheritance */
 

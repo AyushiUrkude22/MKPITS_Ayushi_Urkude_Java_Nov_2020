@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //Using the while statement to print the values from 1 through 10 can be accomplished as in the following WhileDemo program.
 
 class While {

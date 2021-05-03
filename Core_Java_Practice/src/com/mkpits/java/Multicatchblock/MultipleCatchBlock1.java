@@ -1,4 +1,4 @@
-package org.mkpits.java.Multicatchblock;
+package src.com.mkpits.java.Multicatchblock;
 /* All catch blocks must be ordered from most specific to most general, i.e. catch for ArithmeticException
 must come before catch for Exception. */
 

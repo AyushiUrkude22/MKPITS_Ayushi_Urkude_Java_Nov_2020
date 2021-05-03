@@ -1,4 +1,4 @@
-package org.mkpits.java.JavaString;
+package src.com.mkpits.java.JavaString;
 //Boolean equals(Object another) checks the equality of string with the given object.
 
 import java.util.*;

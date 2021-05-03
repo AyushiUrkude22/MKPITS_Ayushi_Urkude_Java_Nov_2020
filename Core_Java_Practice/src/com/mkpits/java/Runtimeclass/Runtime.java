@@ -1,4 +1,4 @@
-package org.mkpits.java.Runtimeclass;
+package src.com.mkpits.java.Runtimeclass;
 /*Program of Runtime you can use -s switch to shutdown system, -r switch to restart system and -t switch to specify time
 delay. */
 

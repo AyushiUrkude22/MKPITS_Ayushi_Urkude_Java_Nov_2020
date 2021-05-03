@@ -1,4 +1,4 @@
-package org.mkpits.java.trycatchblock;
+package src.com.mkpits.java.trycatchblock;
 // Let's see an example to resolve the exception in a catch block.
 
 public class TryCatchExample5 {

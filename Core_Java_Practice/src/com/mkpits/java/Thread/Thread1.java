@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 //Write a program to thread twice.
 
 class TestThreadTwice1 extends Thread{

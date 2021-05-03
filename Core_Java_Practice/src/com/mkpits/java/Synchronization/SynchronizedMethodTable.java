@@ -1,4 +1,4 @@
-package org.mkpits.java.Synchronization;
+package src.com.mkpits.java.Synchronization;
 //Example of java synchronized method.
 
 class Table1{

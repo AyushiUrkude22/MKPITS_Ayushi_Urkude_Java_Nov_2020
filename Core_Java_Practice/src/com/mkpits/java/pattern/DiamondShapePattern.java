@@ -1,4 +1,4 @@
-package org.mkpits.java.pattern;
+package src.com.mkpits.java.pattern;
 /*Java Pattern program. Diamond Shape Pattern Program in Java
     *
    ***

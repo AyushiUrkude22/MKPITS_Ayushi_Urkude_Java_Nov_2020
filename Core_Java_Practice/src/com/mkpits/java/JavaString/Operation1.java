@@ -1,4 +1,4 @@
-package org.mkpits.java.JavaString;
+package src.com.mkpits.java.JavaString;
 //String substring(int beginIndex) returns substring for given begin index.
 
 class Operation1{

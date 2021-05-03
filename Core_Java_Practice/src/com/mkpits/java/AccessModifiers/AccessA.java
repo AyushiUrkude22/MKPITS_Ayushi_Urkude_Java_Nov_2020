@@ -1,4 +1,4 @@
-package org.mkpits.java.AccessModifiers;
+package src.com.mkpits.java.AccessModifiers;
 /* Private: The access level of a private modifier is only within the class. It cannot be accessed from
 outside the class. */
 

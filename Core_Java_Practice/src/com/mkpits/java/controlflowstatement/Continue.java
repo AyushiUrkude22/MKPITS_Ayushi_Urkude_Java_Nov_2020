@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 /*The following program, Continue steps through a String, counting the occurences of the
 letter "p". If the current character is not a p, the continue statement skips the rest of the loop and
 proceeds to the next character. If it is a "p", the program increments the letter count*/

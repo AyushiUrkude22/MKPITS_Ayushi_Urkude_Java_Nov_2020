@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 /*A simple example to multiply two matrices of 3 rows and 3 columns.
 Java Program to multiply two matrices */
 

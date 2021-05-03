@@ -1,4 +1,4 @@
-package org.mkpits.java.callbyvalueinjava;
+package src.com.mkpits.java.callbyvalueinjava;
 // In case of call by value original value is not changed. Let's take a simple example.
 
 class CallByValueInJavaOperation{

@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 //Example example of java thread pool using ExecutorService and Executors.
 
 import java.util.concurrent.ExecutorService;

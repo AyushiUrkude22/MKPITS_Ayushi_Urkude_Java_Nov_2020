@@ -1,4 +1,4 @@
-package org.mkpits.java.FileInputStreamClass;
+package src.com.mkpits.java.FileInputStreamClass;
 //Java FileInputStream example 2: read all characters.
 
 import java.io.FileInputStream;

@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 // Java AWT Choice Example with ActionListener.
 
 import java.awt.*;

@@ -1,4 +1,4 @@
-package org.mkpits.java.trycatchblock;
+package src.com.mkpits.java.trycatchblock;
 /* In this example, we handle the generated exception (Arithmetic Exception) with a different type of
 exception class (ArrayIndexOutOfBoundsException). */
 

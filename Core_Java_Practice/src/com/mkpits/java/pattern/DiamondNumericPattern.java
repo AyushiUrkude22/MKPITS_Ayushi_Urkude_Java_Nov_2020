@@ -1,4 +1,4 @@
-package org.mkpits.java.pattern;
+package src.com.mkpits.java.pattern;
 /*Write a program to Diamond Numeric Pattern
 1 2 3 4 5
  2 3 4 5

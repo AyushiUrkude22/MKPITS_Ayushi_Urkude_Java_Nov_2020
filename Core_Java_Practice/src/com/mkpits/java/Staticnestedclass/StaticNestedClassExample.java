@@ -1,4 +1,4 @@
-package org.mkpits.java.Staticnestedclass;
+package src.com.mkpits.java.Staticnestedclass;
 //Java static nested class example with instance method.
 
 class StaticNestedClassExample{

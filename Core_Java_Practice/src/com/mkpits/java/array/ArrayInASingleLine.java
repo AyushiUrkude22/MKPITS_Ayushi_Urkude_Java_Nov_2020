@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 //Java Program to illustrate the use of declaration, instantiation and initialization of Java array in a single line
 
 class ArrayInASingleLine{

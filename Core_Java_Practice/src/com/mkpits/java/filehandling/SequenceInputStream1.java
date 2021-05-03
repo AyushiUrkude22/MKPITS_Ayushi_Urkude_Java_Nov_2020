@@ -1,4 +1,4 @@
-package org.mkpits.java.filehandling;
+package src.com.mkpits.java.filehandling;
 //Java program to Sequence Input Stream.
 
 import java.io.*;

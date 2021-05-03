@@ -1,4 +1,4 @@
-package org.mkpits.java.inheritance;
+package src.com.mkpits.java.inheritance;
 //create a base class account having fields actno and balance and methods deposit and withdrawl and showbalance.
 
 import java.util.Scanner;

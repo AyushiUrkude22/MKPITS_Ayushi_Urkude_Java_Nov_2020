@@ -1,4 +1,4 @@
-package org.mkpits.java.ShutdownHook;
+package src.com.mkpits.java.ShutdownHook;
 //Example of Shutdown Hook.
 
 class MyThread extends Thread{

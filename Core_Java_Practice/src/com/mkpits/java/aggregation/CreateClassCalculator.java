@@ -1,4 +1,4 @@
-package org.mkpits.java.aggregation;
+package src.com.mkpits.java.aggregation;
 //Write a program to create a class calculator having field addition substraction multiplication division.
 
 import java.util.*;

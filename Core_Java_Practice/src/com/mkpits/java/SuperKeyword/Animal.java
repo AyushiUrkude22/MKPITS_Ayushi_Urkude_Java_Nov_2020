@@ -1,4 +1,4 @@
-package org.mkpits.java.SuperKeyword;
+package src.com.mkpits.java.SuperKeyword;
 /* Animal and Dog both classes have a common property color. If we print color proprty,
  it will print the color of current class by default. To access the parent property, we need to use super keyword */
 

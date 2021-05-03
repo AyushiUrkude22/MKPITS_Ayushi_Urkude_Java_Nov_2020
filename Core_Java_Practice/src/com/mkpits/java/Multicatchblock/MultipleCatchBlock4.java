@@ -1,4 +1,4 @@
-package org.mkpits.java.Multicatchblock;
+package src.com.mkpits.java.Multicatchblock;
 //Let's see an example, to handle the exception without maintaining the order of exceptions.
 
 class MultipleCatchBlock4{

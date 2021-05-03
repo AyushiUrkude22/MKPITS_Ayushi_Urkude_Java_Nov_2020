@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 //Example of sleep method in java.
 
 class TestSleepMethod1 extends Thread{

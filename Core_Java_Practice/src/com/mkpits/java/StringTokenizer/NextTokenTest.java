@@ -1,4 +1,4 @@
-package org.mkpits.java.StringTokenizer;
+package src.com.mkpits.java.StringTokenizer;
 //Example of nextToken(String delim) method of StringTokenizer class.
 
 import java.util.*;

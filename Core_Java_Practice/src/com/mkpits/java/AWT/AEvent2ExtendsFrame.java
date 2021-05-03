@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 //example with 2 buttons.
 
 import java.awt.*;

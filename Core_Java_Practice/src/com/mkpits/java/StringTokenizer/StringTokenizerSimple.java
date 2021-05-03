@@ -1,4 +1,4 @@
-package org.mkpits.java.StringTokenizer;
+package src.com.mkpits.java.StringTokenizer;
 /* the simple example of StringTokenizer class that tokenizes a string "my name is ayushi" on the
 basis of whitespace.*/
 

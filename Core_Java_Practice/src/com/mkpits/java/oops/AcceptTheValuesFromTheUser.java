@@ -1,4 +1,4 @@
-package org.mkpits.java.oops;
+package src.com.mkpits.java.oops;
 //Write a program to accept the values from the user.
 
 import java.util.Scanner;

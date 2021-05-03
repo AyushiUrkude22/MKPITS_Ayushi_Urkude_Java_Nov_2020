@@ -1,4 +1,4 @@
-package org.mkpits.java.filehandling;
+package src.com.mkpits.java.filehandling;
 //Java FileOutputStream example 2: write string.
 
 class FileOutputStreamExample {

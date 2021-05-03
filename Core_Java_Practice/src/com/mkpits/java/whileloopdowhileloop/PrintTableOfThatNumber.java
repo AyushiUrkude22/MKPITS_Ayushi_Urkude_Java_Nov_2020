@@ -1,4 +1,4 @@
-package org.mkpits.java.whileloopdowhileloop;
+package src.com.mkpits.java.whileloopdowhileloop;
 //Write a program to accept a number and print table of that number.
 
 import java.util.*;

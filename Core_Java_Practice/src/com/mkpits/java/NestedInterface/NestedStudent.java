@@ -1,4 +1,4 @@
-package org.mkpits.java.NestedInterface;
+package src.com.mkpits.java.NestedInterface;
 // Java Program of Nested Interface.
 
 

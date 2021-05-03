@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 //Java Program to copy a source array into a destination array in Java.
 
 class TestArrayCopyDemo {

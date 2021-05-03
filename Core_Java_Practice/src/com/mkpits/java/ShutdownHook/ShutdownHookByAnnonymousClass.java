@@ -1,4 +1,4 @@
-package org.mkpits.java.ShutdownHook;
+package src.com.mkpits.java.ShutdownHook;
 //Example of Shutdown Hook by annonymous class.
 
 class TestShutdown2{

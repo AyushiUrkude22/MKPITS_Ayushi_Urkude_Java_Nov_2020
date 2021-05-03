@@ -1,4 +1,4 @@
-package org.mkpits.java.polymorphism;
+package src.com.mkpits.java.polymorphism;
 /* In this process, an overridden method is called through the reference variable of a superclass
 The determination of the method to be called is based on the object being referred to by the reference variable */
 

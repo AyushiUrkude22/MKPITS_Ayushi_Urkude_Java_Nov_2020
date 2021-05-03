@@ -1,7 +1,6 @@
-package org.mkpits.java.ExceptionHandlingwithMethodOverriding;
+package src.com.mkpits.java.ExceptionHandlingwithMethodOverriding;
 // Example in case subclass overridden method declares no exception.
 
-import java.io.*;
 class NoExceptionParent{
         void msg()throws Exception{System.out.println("parent");}
     }

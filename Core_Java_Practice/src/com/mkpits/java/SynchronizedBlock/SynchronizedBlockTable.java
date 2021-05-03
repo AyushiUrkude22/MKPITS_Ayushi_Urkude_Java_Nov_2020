@@ -1,4 +1,4 @@
-package org.mkpits.java.SynchronizedBlock;
+package src.com.mkpits.java.SynchronizedBlock;
 //Program of synchronized block.
 
 class SynchronizedBlockTable{

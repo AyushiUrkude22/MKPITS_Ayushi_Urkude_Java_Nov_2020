@@ -1,4 +1,4 @@
-package org.mkpits.java.FileReaderClass;
+package src.com.mkpits.java.FileReaderClass;
 //Java Example of File Reader.
 
 import java.io.FileReader;

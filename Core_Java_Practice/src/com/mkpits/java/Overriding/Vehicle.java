@@ -1,4 +1,4 @@
-package org.mkpits.java.Overriding;
+package src.com.mkpits.java.Overriding;
 /* In this example, we have defined the run method in the subclass as defined in the parent class but it has
 some specific implementation. The name and parameter of the method are the same, and there is IS-A
 relationship between the classes, so there is method overriding */

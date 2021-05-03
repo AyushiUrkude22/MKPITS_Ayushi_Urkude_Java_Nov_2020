@@ -1,4 +1,4 @@
-package org.mkpits.java.JavaString;
+package src.com.mkpits.java.JavaString;
 //Boolean contains(CharSequence s) returns true or false after matching the sequence of char value.
 
 import java.util.*;

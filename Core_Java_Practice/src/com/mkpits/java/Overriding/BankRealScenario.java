@@ -1,4 +1,4 @@
-package org.mkpits.java.Overriding;
+package src.com.mkpits.java.Overriding;
 /* Java Program to demonstrate the real scenario of Java Method Overriding
 where three classes are overriding the method of a parent class */
 

@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 /* We can put the event handling code into
 one of the following places:
 1-Same class

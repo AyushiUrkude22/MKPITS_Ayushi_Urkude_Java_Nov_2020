@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 //Write a program to Example of Daemon Thread.
 
 class TestDaemonThread1 extends Thread{

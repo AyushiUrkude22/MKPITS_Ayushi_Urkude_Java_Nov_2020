@@ -1,4 +1,4 @@
-package org.mkpits.java.instanceoperator;
+package src.com.mkpits.java.instanceoperator;
 //The real use of instanceof keyword by the example given below.
 
 interface Printable{}

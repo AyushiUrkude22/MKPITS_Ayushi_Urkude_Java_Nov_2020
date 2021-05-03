@@ -1,4 +1,4 @@
-package org.mkpits.java.AccessModifiers;
+package src.com.mkpits.java.AccessModifiers;
 /* If you make any class constructor private, you cannot create the instance of that class from outside the
 class. For example */
 

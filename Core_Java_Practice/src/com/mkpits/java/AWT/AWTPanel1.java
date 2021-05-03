@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 /* The Panel is a simplest container class. It provides space in which an application can attach any other
 component. It inherits the Container class */
 

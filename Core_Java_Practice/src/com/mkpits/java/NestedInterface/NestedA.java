@@ -1,4 +1,4 @@
-package org.mkpits.java.NestedInterface;
+package src.com.mkpits.java.NestedInterface;
 //Example of nested interface which is declared within the class.
 
  class NestedA{

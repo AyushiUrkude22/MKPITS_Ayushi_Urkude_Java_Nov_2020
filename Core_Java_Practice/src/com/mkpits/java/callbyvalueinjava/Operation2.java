@@ -1,4 +1,4 @@
-package org.mkpits.java.callbyvalueinjava;
+package src.com.mkpits.java.callbyvalueinjava;
 /* In case of call by reference original value is changed if we made changes in the called method. If we
 pass object in place of any primitive value, original value will be changed. In this example we are passing
 object as a value. Let's take a simple example */

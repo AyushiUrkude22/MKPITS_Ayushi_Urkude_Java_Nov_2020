@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 /* Example of Multidimensional Java Array
 Let's see the simple example to declare, instantiate, initialize and print the 2Dimensional array. */
 

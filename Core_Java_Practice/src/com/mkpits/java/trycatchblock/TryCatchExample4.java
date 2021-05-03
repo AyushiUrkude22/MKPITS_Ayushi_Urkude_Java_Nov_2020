@@ -1,4 +1,4 @@
-package org.mkpits.java.trycatchblock;
+package src.com.mkpits.java.trycatchblock;
 // Let's see an example to print a custom message on exception.
 
 public class TryCatchExample4 {

@@ -1,4 +1,4 @@
-package org.mkpits.java.Interface;
+package src.com.mkpits.java.Interface;
 //example of java interface which provides the implementation of Bank interface.
 
 interface Bank{

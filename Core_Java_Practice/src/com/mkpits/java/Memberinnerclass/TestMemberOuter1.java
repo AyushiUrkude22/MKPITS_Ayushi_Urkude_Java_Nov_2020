@@ -1,4 +1,4 @@
-package org.mkpits.java.Memberinnerclass;
+package src.com.mkpits.java.Memberinnerclass;
 /* Java Member inner class example
 In this example, we are creating msg() method in member inner class that is accessing the private data
 member of outer class. */

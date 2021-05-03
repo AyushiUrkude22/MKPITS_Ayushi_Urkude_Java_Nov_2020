@@ -1,4 +1,4 @@
-package org.mkpits.java.declarevariable;
+package src.com.mkpits.java.declarevariable;
 //Write a program to accept radius of a circle and calculate and print area of circle(area=3.14*r*r)
 
 import java.util.*;

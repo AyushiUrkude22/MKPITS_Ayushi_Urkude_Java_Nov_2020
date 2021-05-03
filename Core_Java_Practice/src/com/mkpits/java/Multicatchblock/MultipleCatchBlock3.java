@@ -1,4 +1,4 @@
-package org.mkpits.java.Multicatchblock;
+package src.com.mkpits.java.Multicatchblock;
 /* In this example, we generate NullPointerException, but didn't provide the corresponding exception type.
 In such case, the catch block containing the parent exception class Exception will invoked.*/
 

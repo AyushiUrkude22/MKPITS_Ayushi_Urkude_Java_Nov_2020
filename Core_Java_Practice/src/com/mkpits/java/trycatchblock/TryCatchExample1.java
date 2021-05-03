@@ -1,4 +1,4 @@
-package org.mkpits.java.trycatchblock;
+package src.com.mkpits.java.trycatchblock;
 /* There can be 100 lines of code after exception. So all the code after exception will not be executed.
 Solution by exception handling
 Let's see the solution of the above problem by a java try-catch block. */

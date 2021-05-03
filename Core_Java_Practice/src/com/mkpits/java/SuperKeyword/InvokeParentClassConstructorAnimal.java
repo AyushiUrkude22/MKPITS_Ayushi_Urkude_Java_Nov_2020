@@ -1,4 +1,4 @@
-package org.mkpits.java.SuperKeyword;
+package src.com.mkpits.java.SuperKeyword;
 // The super keyword can also be used to invoke the parent class constructor.
 
 class InvokeParentClassConstructorAnimal{

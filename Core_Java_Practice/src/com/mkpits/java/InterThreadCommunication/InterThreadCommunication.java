@@ -1,4 +1,4 @@
-package org.mkpits.java.InterThreadCommunication;
+package src.com.mkpits.java.InterThreadCommunication;
 //Example of inter thread communication in java.
 
 class Customer{

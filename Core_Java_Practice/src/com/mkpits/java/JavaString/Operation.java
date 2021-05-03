@@ -1,4 +1,4 @@
-package org.mkpits.java.JavaString;
+package src.com.mkpits.java.JavaString;
 /* In Java, string is basically an object that represents sequence of char values. An array of characters
 works same as Java string. For example */
 

@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //The following program, Enhanced For uses the enhanced for to loop through the array.
 
 class EnhancedFor {

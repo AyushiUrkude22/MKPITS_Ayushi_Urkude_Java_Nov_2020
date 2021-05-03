@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 //Program of performing two tasks by two threads.
 
 class TestMultitasking5{

@@ -1,4 +1,4 @@
-package org.mkpits.java.thiskeyword;
+package src.com.mkpits.java.thiskeyword;
 // Write a program to Understanding the problem without this keyword.
 
 class  Student{

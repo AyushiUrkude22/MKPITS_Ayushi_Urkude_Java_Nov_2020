@@ -1,4 +1,4 @@
-package org.mkpits.java.finallyblock;
+package src.com.mkpits.java.finallyblock;
 // the java finally example where exception occurs and handled.
 
 public class TestFinallyBlock2{

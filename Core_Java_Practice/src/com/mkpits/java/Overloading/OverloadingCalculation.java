@@ -1,4 +1,4 @@
-package org.mkpits.java.Overloading;
+package src.com.mkpits.java.Overloading;
 //Write a program to Method Overloading with TypePromotion.
 
 class OverloadingCalculation

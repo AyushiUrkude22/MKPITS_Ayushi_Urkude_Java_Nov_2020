@@ -1,4 +1,4 @@
-package org.mkpits.java.instanceoperator;
+package src.com.mkpits.java.instanceoperator;
 /* An object of subclass type is also a type of parent class. For example, if Dog extends Animal then object
 of Dog can be referred by either Dog or Animal class. */
 

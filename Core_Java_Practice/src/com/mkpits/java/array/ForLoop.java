@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 //Write a program to enhanced for statement or for each loop do the above program using enhanced for loop.
 
 import java.util.*;

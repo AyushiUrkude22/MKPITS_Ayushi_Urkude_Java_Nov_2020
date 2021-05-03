@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 //The example of print the elements of Java array using the for-each loop.
 
 class ForEachLoopArray{

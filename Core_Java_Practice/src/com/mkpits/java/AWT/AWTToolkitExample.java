@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 // Java AWT Toolkit Example: beep().
 
 import java.awt.*;

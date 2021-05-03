@@ -1,4 +1,4 @@
-package org.mkpits.java.inheritance;
+package src.com.mkpits.java.inheritance;
 /* When a class inherits another class, it is known as a single inheritance.Dog
 class inherits the Animal class, so there is the single inheritance */
 

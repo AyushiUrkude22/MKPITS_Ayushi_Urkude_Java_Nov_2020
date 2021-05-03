@@ -1,4 +1,4 @@
-package org.mkpits.java.polymorphism;
+package src.com.mkpits.java.polymorphism;
 // Java Runtime Polymorphism Example: Shape.
 
 

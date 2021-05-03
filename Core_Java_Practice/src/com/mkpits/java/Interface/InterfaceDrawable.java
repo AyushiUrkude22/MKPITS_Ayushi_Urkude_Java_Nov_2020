@@ -1,4 +1,4 @@
-package org.mkpits.java.Interface;
+package src.com.mkpits.java.Interface;
 // Java program Interface declaration: by first user.
 
 interface Drawable{

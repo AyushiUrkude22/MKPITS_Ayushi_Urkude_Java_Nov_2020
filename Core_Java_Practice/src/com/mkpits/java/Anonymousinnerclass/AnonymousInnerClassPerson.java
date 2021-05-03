@@ -1,4 +1,4 @@
-package org.mkpits.java.Anonymousinnerclass;
+package src.com.mkpits.java.Anonymousinnerclass;
 // Java anonymous inner class example using class.
 
 abstract class AnonymousInnerClassPerson{

@@ -1,4 +1,4 @@
-package org.mkpits.java.whileloopdowhileloop;
+package src.com.mkpits.java.whileloopdowhileloop;
 //Write a program to print odd number between 1 and 10.
 
 import java.util.*;

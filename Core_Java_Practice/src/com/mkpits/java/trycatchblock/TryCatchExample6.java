@@ -1,4 +1,4 @@
-package org.mkpits.java.trycatchblock;
+package src.com.mkpits.java.trycatchblock;
 // In this example, along with try block, we also enclose exception code in a catch block.
 
 public class TryCatchExample6 {

@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 // Example of currentThread() method.
 
 class TestMultiNaming2 extends Thread{

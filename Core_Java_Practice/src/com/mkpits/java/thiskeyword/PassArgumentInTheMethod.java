@@ -1,4 +1,4 @@
-package org.mkpits.java.thiskeyword;
+package src.com.mkpits.java.thiskeyword;
 //Write a program to The this keyword can also be passed as an argument in the method.
 
 class PassArgumentInTheMethod {

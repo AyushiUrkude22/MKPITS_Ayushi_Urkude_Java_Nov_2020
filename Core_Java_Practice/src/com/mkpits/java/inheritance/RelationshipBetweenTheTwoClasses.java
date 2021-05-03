@@ -1,4 +1,4 @@
-package org.mkpits.java.inheritance;
+package src.com.mkpits.java.inheritance;
 /*  Programmer is the subclass and Employee is the superclass. The relationship between the two classes is
  Programmer IS-A Employee. It means that Programmer is a type of Employee */
 

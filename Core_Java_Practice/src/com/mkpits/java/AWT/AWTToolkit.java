@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 /* Toolkit class is the abstract superclass of every implementation in the Abstract Window Toolkit.
 Subclasses of Toolkit are used to bind various components. It inherits Object class */
 

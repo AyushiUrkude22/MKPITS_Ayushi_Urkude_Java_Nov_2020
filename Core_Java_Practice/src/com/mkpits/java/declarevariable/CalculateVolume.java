@@ -1,4 +1,4 @@
-package org.mkpits.java.declarevariable;
+package src.com.mkpits.java.declarevariable;
 //Write a program to accept len,bre,height and calculate volume.
 
 import java.util.*;

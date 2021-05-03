@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 /* By extending Frame class (inheritance)
 By creating the object of Frame class (association) */
 

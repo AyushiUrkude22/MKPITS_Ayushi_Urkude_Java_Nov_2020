@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //Write a program to accept day no and print the related day name using switch statement.
 
 import java.util.*;

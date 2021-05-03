@@ -1,4 +1,4 @@
-package org.mkpits.java.instanceoperator;
+package src.com.mkpits.java.instanceoperator;
 //Downcasting can also be performed without the use of instanceof operator as displayed in the following example.
 
 class Animal1 { }

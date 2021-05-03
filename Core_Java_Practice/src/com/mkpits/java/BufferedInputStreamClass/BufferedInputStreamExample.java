@@ -1,4 +1,4 @@
-package org.mkpits.java.BufferedInputStreamClass;
+package src.com.mkpits.java.BufferedInputStreamClass;
 //Example to read data of file using BufferedInputStream.
 
 import java.io.*;

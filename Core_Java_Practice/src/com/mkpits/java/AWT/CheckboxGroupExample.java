@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 //Write a program Checkbox Group Example.
 
 import java.awt.*;

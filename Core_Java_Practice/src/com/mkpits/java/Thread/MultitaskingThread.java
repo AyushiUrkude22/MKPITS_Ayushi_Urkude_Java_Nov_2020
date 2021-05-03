@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 /* If you have to perform single task by many threads, have only one run() method.For example:
 Program of performing single task by multiple threads. */
 

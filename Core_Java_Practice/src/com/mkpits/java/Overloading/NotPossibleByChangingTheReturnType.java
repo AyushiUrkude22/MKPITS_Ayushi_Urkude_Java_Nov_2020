@@ -1,4 +1,4 @@
-package org.mkpits.java.Overloading;
+package src.com.mkpits.java.Overloading;
 //In java, method overloading is not possible by changing the return type of the method only because of ambiguity.
 
 class Adder3

@@ -1,4 +1,4 @@
-package org.mkpits.java.Runtimeclass;
+package src.com.mkpits.java.Runtimeclass;
 //Java Runtime freeMemory() and totalMemory() method.
 
 public class MemoryTest{

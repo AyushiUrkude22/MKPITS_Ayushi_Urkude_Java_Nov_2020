@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 //Example of priority of a Thread.
 
 class TestMultiPriority1 extends Thread{

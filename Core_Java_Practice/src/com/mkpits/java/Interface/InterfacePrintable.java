@@ -1,4 +1,4 @@
-package org.mkpits.java.Interface;
+package src.com.mkpits.java.Interface;
 //the Printable interface has only one method, and its implementation is provided in the A6 class.
 
 interface printable{

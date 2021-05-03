@@ -1,4 +1,4 @@
-package org.mkpits.java.declarevariable;
+package src.com.mkpits.java.declarevariable;
 //Write a program accept length and breadth of a rectangle and calculate and display area of a rectangle.
 
 import java.util.*;

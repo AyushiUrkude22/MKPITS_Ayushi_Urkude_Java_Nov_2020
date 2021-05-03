@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 /* The object of List class represents a list of text items. By the help of list, user can choose either one item
 or multiple items. It inherits Component class.
 public class List extends Component implements ItemSelectable, Accessible */

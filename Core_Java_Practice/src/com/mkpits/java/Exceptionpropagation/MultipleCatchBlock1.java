@@ -1,4 +1,4 @@
-package org.mkpits.java.Exceptionpropagation;
+package src.com.mkpits.java.Exceptionpropagation;
 /* In the above example exception occurs in m() method where it is not handled,so it is propagated to
 previous n() method where it is not handled, again it is propagated to p() method where exception is handled.*/
 

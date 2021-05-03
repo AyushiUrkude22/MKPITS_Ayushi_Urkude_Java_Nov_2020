@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 //Java Thread Example by implementing Runnable interface.
 
 class Multi3 implements Runnable{

@@ -1,4 +1,4 @@
-package org.mkpits.java.Synchronization;
+package src.com.mkpits.java.Synchronization;
 //Program of synchronized method by using annonymous class.
 
 class Table2{

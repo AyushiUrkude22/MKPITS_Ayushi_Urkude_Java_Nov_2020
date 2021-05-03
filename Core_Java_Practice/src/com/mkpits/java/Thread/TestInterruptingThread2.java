@@ -1,4 +1,4 @@
-package org.mkpits.java.Thread;
+package src.com.mkpits.java.Thread;
 //Example of interrupting a thread that doesn't stop working.
 
 class TestInterruptingThread2 extends Thread{

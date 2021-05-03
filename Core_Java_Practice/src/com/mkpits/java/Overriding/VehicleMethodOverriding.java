@@ -1,4 +1,4 @@
-package org.mkpits.java.Overriding;
+package src.com.mkpits.java.Overriding;
 /* Java Program to demonstrate why we need method overriding
 Here, we are calling the method of parent class with child
 class object.

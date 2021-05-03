@@ -1,4 +1,4 @@
-package org.mkpits.java.finalkeyword;
+package src.com.mkpits.java.finalkeyword;
 // Can we initialize blank final variable Yes, but only in constructor.
 
 class InitializeBlankFinalVariableBike{

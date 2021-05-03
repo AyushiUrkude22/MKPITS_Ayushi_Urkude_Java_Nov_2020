@@ -1,4 +1,4 @@
-package org.mkpits.java.Localinnerclass;
+package src.com.mkpits.java.Localinnerclass;
 //Java local inner class example.
 
 public class localInner1{

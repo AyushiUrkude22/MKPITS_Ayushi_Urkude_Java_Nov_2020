@@ -1,4 +1,4 @@
-package org.mkpits.java.thiskeyword;
+package src.com.mkpits.java.thiskeyword;
 //Write a program to this keyword that you return as a statement from the method.
 
 class D{

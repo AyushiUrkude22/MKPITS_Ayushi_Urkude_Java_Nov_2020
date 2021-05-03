@@ -1,4 +1,4 @@
-package org.mkpits.java.trycatchblock;
+package src.com.mkpits.java.trycatchblock;
 // In this example, we also kept the code in a try block that will not throw an exception.
 
 public class TryCatchExample2 {

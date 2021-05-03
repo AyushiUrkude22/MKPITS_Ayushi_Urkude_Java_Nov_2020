@@ -1,4 +1,4 @@
-package org.mkpits.java.ExceptionHandling;
+package src.com.mkpits.java.ExceptionHandling;
 /* The "catch" block is used to handle the exception. It must be preceded by try block which
 means we can't use catch block alone. It can be followed by finally block later. */
 

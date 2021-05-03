@@ -1,4 +1,4 @@
-package org.mkpits.java.JavaString;
+package src.com.mkpits.java.JavaString;
 //The java.lang.String class provides many useful methods to perform operations on sequence of char values.
 
 class StringClassMethodOperation{

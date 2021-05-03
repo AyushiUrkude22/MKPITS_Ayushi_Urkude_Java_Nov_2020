@@ -1,4 +1,4 @@
-package org.mkpits.java.JavaPackage;
+package src.com.mkpits.java.JavaPackage;
 /* Simple example of java package
 The package keyword is used to create a package in java. */
 

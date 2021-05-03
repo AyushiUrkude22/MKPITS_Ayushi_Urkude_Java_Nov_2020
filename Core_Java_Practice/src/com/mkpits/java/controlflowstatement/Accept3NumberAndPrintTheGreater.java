@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //Write a program to accept 3 no. and print the greater no. using if else if.
 
 import java.util.*;

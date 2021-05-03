@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 //Write a program to create A Calculator action Performed.
 
 import java.awt.*;

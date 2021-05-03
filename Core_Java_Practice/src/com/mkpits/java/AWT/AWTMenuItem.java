@@ -1,4 +1,4 @@
-package org.mkpits.java.AWT;
+package src.com.mkpits.java.AWT;
 //The object of Menu class is a pull down menu component which is displayed on the menu bar. It inherits the MenuItem class.
 
 import java.awt.*;

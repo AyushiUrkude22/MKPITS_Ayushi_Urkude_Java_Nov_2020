@@ -1,9 +1,8 @@
-package org.mkpits.java.ExceptionHandlingwithMethodOverriding;
+package src.com.mkpits.java.ExceptionHandlingwithMethodOverriding;
 /* If the superclass method does not declare an exception, subclass overridden method cannot
 declare the checked exception but can declare unchecked exception. */
 
 
-import java.io.*;
 class UncheckedExceptionParent{
         void msg(){System.out.println("parent");}
     }

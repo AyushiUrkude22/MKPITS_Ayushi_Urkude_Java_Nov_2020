@@ -1,4 +1,4 @@
-package org.mkpits.java.array;
+package src.com.mkpits.java.array;
 //The simple example to get the minimum number of an array using a method.
 
 class PassingAnArray{

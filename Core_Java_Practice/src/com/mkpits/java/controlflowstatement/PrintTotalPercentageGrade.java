@@ -1,4 +1,4 @@
-package org.mkpits.java.controlflowstatement;
+package src.com.mkpits.java.controlflowstatement;
 //Write a program to accept 3 subject marks and print total,percentage and grade using if else if.
 
 import java.util.*;

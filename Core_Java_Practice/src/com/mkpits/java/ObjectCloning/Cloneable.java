@@ -1,4 +1,4 @@
-package org.mkpits.java.ObjectCloning;
+package src.com.mkpits.java.ObjectCloning;
 //the simple example of object cloning.
 
 class Student18 implements Cloneable{

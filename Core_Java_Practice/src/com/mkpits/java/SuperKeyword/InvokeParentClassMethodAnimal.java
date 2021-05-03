@@ -1,4 +1,4 @@
-package org.mkpits.java.SuperKeyword;
+package src.com.mkpits.java.SuperKeyword;
 /* The super keyword can also be used to invoke parent class method. It should be used if subclass
 contains the same method as parent class. In other words, it is used if method is overridden */
 

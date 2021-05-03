@@ -1,4 +1,4 @@
-package org.mkpits.java.Memberinnerclass;
+package src.com.mkpits.java.Memberinnerclass;
 //Java Member inner class example.
 
 class MemberStudent

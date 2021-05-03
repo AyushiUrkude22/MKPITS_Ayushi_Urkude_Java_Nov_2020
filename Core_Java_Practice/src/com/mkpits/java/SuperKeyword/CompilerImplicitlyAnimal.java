@@ -1,4 +1,4 @@
-package org.mkpits.java.SuperKeyword;
+package src.com.mkpits.java.SuperKeyword;
 // Super keyword where super() is provided by the compiler implicitly.
 
 class CompilerImplicitlyAnimal{

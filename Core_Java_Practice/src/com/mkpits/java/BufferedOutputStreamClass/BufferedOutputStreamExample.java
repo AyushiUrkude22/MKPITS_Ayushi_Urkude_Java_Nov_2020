@@ -1,4 +1,4 @@
-package org.mkpits.java.BufferedOutputStreamClass;
+package src.com.mkpits.java.BufferedOutputStreamClass;
 //Example of BufferedOutputStream class.
 
 import java.io.*;

@@ -1,4 +1,4 @@
-package org.mkpits.java.Deadlock;
+package src.com.mkpits.java.Deadlock;
 //Example of Deadlock in java.
 
 public class TestDeadlockExample1 {

@@ -1,4 +1,4 @@
-package org.mkpits.java.instanceoperator;
+package src.com.mkpits.java.instanceoperator;
 //See the simple example of instance operator where it tests the current class.
 
 class InstanceOperatorSimple{

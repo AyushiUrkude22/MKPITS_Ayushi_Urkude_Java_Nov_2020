@@ -1,4 +1,4 @@
-package org.mkpits.java.Overriding;
+package src.com.mkpits.java.Overriding;
 /* It is because the static method is bound with class whereas instance method is bound with an object
   Static belongs to the class area, and an instance belongs to the heap area */
 
