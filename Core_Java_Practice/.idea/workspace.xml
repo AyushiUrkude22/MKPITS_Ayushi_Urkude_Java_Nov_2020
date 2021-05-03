@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="" />
+    <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/AWT/AWTCheckboxGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/AWT/AWTDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayDeclareInstantiateInitializeTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayOfStringsToTheOutputConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/FillArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/MergeTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/MergeTwoArrays1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ReverseAnArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/SearchArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/SortArrayAndInsertElementInside.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/SortArrayAndSearchElementInside.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/TwoDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/AccessModifiers/AccessA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/accessModifiers/AccessA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/AccessModifiers/ClassConstructorPrivate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/accessModifiers/ClassConstructorPrivate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/Anonymousinnerclass/AnonymousInnerClassPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/anonymousinnerclass/AnonymousInnerClassPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/Anonymousinnerclass/Eatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/anonymousinnerclass/Eatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/filehandling/BufferedOutputStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/filehandling/BufferedOutputStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/Registerclass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/Registerclass$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,13 +76,13 @@
       <recent name="org.mkpits.java.Interface" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="FileReaderExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.FileReaderExample" />
+  <component name="RunManager" selected="Application.FillArray">
+    <configuration name="ArrayOfStringsToTheOutputConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.ArrayOfStringsToTheOutputConsole" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReaderExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mkpits.FileReaderExample" />
+    <configuration name="FillArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.FillArray" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mkpits.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReaderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.FileReaderClass.FileReaderExample" />
+    <configuration name="MergeTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.MergeTwoArrays" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.FileReaderClass.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputStreamReaderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.InputStreamReader.InputStreamReaderExample" />
+    <configuration name="MergeTwoArrays1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.MergeTwoArrays1" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.InputStreamReader.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mkpits.java.InterThreadCommunication.Test" />
+    <configuration name="SearchArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.SearchArray" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mkpits.java.InterThreadCommunication.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.InputStreamReaderExample" />
-        <item itemvalue="Application.FileReaderExample (2)" />
-        <item itemvalue="Application.FileReaderExample" />
-        <item itemvalue="Application.FileReaderExample (1)" />
+        <item itemvalue="Application.FillArray" />
+        <item itemvalue="Application.MergeTwoArrays1" />
+        <item itemvalue="Application.MergeTwoArrays" />
+        <item itemvalue="Application.SearchArray" />
+        <item itemvalue="Application.ArrayOfStringsToTheOutputConsole" />
       </list>
     </recent_temporary>
   </component>

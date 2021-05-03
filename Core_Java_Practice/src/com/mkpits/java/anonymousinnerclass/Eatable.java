@@ -1,4 +1,4 @@
-package src.com.mkpits.java.Anonymousinnerclass;
+package src.com.mkpits.java.anonymousinnerclass;
 //Java anonymous inner class example using interface.
 
 interface Eatable{

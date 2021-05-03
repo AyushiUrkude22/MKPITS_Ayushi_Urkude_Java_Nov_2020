@@ -8,7 +8,7 @@ import java.io.FileOutputStream;
 class BufferedOutputStreamExample{
     public static void main(String[] args)throws Exception{
 
-        src.com.mkpits.java.filehandling.FileOutputStream fout=new FileOutputStream("D:\\testout.txt");
+        src.com.mkpits.java.filehandling.FileOutputStream fout= new src.com.mkpits.java.filehandling.FileOutputStream("D:\\testout.txt");
         BufferedOutputStream bout=new BufferedOutputStream(fout);
         String s="Welcome to mkpits.";
         byte[] b =s.getBytes();
