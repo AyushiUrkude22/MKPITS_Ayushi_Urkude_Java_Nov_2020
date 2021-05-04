@@ -1387,3 +1387,43 @@ Java Program to Merge Two Arrays.
 
 #### Program 360)FillArray.Java
 Java Program to  fill (initialize at once) an array.
+
+#### Program 361)ArrayFilling.Java
+Java Program to example of array filling.
+
+#### Program 362)ExtendArrayAfterInitialisation.Java
+Java Program to extend an array after initialization by creating an new array.
+
+#### Program 363)ArraysExpansion.Java
+Java Program to example of arrays expansion.
+
+#### Program 364)CompareTwoArrays.Java
+Java Program to example of Compare Two Arrays.
+
+#### Program 365)ArrayCompare.Java
+Java Program to example of  Array Compare.
+
+#### Program 366)RemoveElementFromArray.Java
+Java Program to example of  remove an element from array.
+
+#### Program 367)ArraysRemove.Java
+Java Program to example of  Arrays Remove.
+
+#### Program 368)RemoveOneArrayFromAnother.Java
+Java Program to example of uses Removeall method to remove one array from another.
+
+#### Program 369)FindCommonElementsFromArrays.Java
+Java Program to example of find common elements from arrays.
+
+#### Program 370)FindCommonElementsArrays.Java
+Java Program to example of find common elements from arrays.
+
+#### Program 371)FindObjectOrStringInArray.Java
+Java Program to example of uses Contains method to search a String in the Array.
+
+#### Program 372)CheckArrays.Java
+Java Program to example shows how to use equals () method of Arrays to check if two arrays are equal or not.
+
+#### Program 373)EequalsTwoArraysAreOrNot.Java
+Java Program to example uses equals method to check whether two arrays are or not.
+

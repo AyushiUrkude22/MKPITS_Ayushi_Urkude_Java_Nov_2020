@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayFilling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArraysExpansion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArraysRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/CheckArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/CompareTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/EequalsTwoArraysAreOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ExtendArrayAfterInitialisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/FindCommonElementsArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/FindCommonElementsFromArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/FindObjectOrStringInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/RemoveElementFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/RemoveOneArrayFromAnother.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/Registerclass$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/Registerclass$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,9 +69,9 @@
       <recent name="org.mkpits.java.Interface" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FillArray">
-    <configuration name="ArrayOfStringsToTheOutputConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.ArrayOfStringsToTheOutputConsole" />
+  <component name="RunManager" selected="Application.EequalsTwoArraysAreOrNot">
+    <configuration name="CheckArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.CheckArrays" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FillArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.FillArray" />
+    <configuration name="EequalsTwoArraysAreOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.EequalsTwoArraysAreOrNot" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.MergeTwoArrays" />
+    <configuration name="FindCommonElementsArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.FindCommonElementsArrays" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +109,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoArrays1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.MergeTwoArrays1" />
+    <configuration name="FindCommonElementsFromArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.FindCommonElementsFromArrays" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindObjectOrStringInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.FindObjectOrStringInArray" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
@@ -125,26 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.SearchArray" />
-      <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FillArray" />
-        <item itemvalue="Application.MergeTwoArrays1" />
-        <item itemvalue="Application.MergeTwoArrays" />
-        <item itemvalue="Application.SearchArray" />
-        <item itemvalue="Application.ArrayOfStringsToTheOutputConsole" />
+        <item itemvalue="Application.EequalsTwoArraysAreOrNot" />
+        <item itemvalue="Application.CheckArrays" />
+        <item itemvalue="Application.FindObjectOrStringInArray" />
+        <item itemvalue="Application.FindCommonElementsArrays" />
+        <item itemvalue="Application.FindCommonElementsFromArrays" />
       </list>
     </recent_temporary>
   </component>
