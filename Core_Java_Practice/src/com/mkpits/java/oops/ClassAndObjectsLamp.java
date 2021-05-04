@@ -1,0 +1,40 @@
+package src.com.mkpits.java.oops;
+//Java Program to example Java Class and Objects.
+
+class ClassAndObjectsLamp {
+
+    // stores the value for light
+    // true if light is on
+    // false if light is off
+    boolean isOn;
+
+    // method to turn on the light
+    void turnOn() {
+        isOn = true;
+        System.out.println("Light on? " + isOn);
+
+    }
+
+    // method to turnoff the light
+    void turnOff() {
+        isOn = false;
+        System.out.println("Light on? " + isOn);
+    }
+}
+
+class MainA {
+    public static void main(String[] args) {
+
+        // create objects led and halogen
+        ClassAndObjectsLamp led = new ClassAndObjectsLamp();
+        ClassAndObjectsLamp halogen = new ClassAndObjectsLamp();
+
+        // turn on the light by
+        // calling method turnOn()
+        led.turnOn();
+
+        // turn off the light by
+        // calling method turnOff()
+        halogen.turnOff();
+    }
+}

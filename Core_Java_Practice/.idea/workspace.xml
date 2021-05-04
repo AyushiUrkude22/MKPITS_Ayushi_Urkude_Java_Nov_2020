@@ -2,21 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayFilling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArraysExpansion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArraysRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/CheckArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/CompareTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/EequalsTwoArraysAreOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ExtendArrayAfterInitialisation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/FindCommonElementsArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/FindCommonElementsFromArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/FindObjectOrStringInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/RemoveElementFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/RemoveOneArrayFromAnother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/ExceptionHandling/ExceptionHandlingUsingFinallyBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/ExceptionHandling/ExceptionHandlingUsingThrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/ExceptionHandling/MultipleCatchBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/ExceptionHandling/TryCatchExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/ExceptionHandling/TryCatchFinallyBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayUsingLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ForEachLoopultidimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/MultidimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ThreeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/ClassAndObjectsLamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/CreateObjectsInsideTheSameClassLamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/JavaMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/MethodCodeReusability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/MethodParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/MethodReturnType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,14 +71,17 @@
       <recent name="org.mkpits.java.AWT" />
       <recent name="org.mkpits.java.Interface" />
     </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.EequalsTwoArraysAreOrNot">
-    <configuration name="CheckArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.CheckArrays" />
+  <component name="RunManager" selected="Application.MethodOverloading">
+    <configuration name="JavaMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.oops.JavaMethod" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EequalsTwoArraysAreOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.EequalsTwoArraysAreOrNot" />
+    <configuration name="MethodCodeReusability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.oops.MethodCodeReusability" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindCommonElementsArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.FindCommonElementsArrays" />
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.oops.MethodOverloading" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindCommonElementsFromArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.FindCommonElementsFromArrays" />
+    <configuration name="MethodParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.oops.MethodParameter" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindObjectOrStringInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.FindObjectOrStringInArray" />
+    <configuration name="MethodReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.oops.MethodReturnType" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EequalsTwoArraysAreOrNot" />
-        <item itemvalue="Application.CheckArrays" />
-        <item itemvalue="Application.FindObjectOrStringInArray" />
-        <item itemvalue="Application.FindCommonElementsArrays" />
-        <item itemvalue="Application.FindCommonElementsFromArrays" />
+        <item itemvalue="Application.MethodOverloading" />
+        <item itemvalue="Application.MethodCodeReusability" />
+        <item itemvalue="Application.MethodParameter" />
+        <item itemvalue="Application.MethodReturnType" />
+        <item itemvalue="Application.JavaMethod" />
       </list>
     </recent_temporary>
   </component>

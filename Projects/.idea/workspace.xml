@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88d88d31-1ffa-43af-8313-dbf656fa3566" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/Registerclass$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/Registerclass$2.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/ArrayCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/ArrayFilling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/ArraysExpansion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/ArraysRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/CheckArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/CompareTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/EequalsTwoArraysAreOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/ExtendArrayAfterInitialisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/FindCommonElementsArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/FindCommonElementsFromArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/FindObjectOrStringInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/RemoveElementFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Practice/src/com/mkpits/java/array/RemoveOneArrayFromAnother.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Practice/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,8 +121,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ElevatorProgram" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ElevatorProgram" />
     </list>
     <recent_temporary>
       <list>
@@ -139,5 +151,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
