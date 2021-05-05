@@ -2,27 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/String/CompareTwoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/String/CreateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/String/JoinTwoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/String/LengthOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/accessModifiers/PrivateAccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/accessModifiers/ProtectedAccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/ConstructorOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/DefaultConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/ParameterizedConstructorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/PrivateNoArgConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/PublicNoArgConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/finalkeyword/FinalMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/inheritance/MethodOverridingInInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/inheritance/SuperKeywordInInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/thiskeyword/PassingThisAsAnArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/thiskeyword/SettersAndGettersMethodKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/thiskeyword/ThisKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/thiskeyword/UsingThisKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/thiskeyword/WithoutUsingThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/Overloading/AccessSpecifierInOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/Overloading/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/SuperKeyword/AccessOverriddenMethodOfSuperclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/SuperKeyword/AccessSuperclassAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/SuperKeyword/SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/SuperKeyword/SuperToCallSuperclassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/SuperKeyword/UseOfSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/inheritance/ProtectedMembersInheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/inheritance/DogK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/inheritance/DogK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/inheritance/MainK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/inheritance/MainK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/inheritance/SuperKeywordInInheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/inheritance/SuperKeywordInInheritance.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +69,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainK">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.finalkeyword.Main" />
+  <component name="RunManager" selected="Application.MainB">
+    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.SuperKeyword.Main5" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.finalkeyword.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.SuperKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.inheritance.Main" />
+    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.SuperKeyword.Main6" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.inheritance.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.SuperKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.thiskeyword.Main" />
+    <configuration name="Main7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.SuperKeyword.Main7" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.thiskeyword.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.SuperKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +109,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.inheritance.MainK" />
+    <configuration name="MainA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.SuperKeyword.MainA" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.inheritance.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.SuperKeyword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.SuperKeyword.MainB" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mkpits.java.SuperKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,26 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingThisInConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.thiskeyword.UsingThisInConstructorOverloading" />
-      <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.thiskeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainK" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.UsingThisInConstructorOverloading" />
+        <item itemvalue="Application.MainB" />
+        <item itemvalue="Application.MainA" />
+        <item itemvalue="Application.Main7" />
+        <item itemvalue="Application.Main6" />
+        <item itemvalue="Application.Main5" />
       </list>
     </recent_temporary>
   </component>
