@@ -2,24 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/ExceptionHandling/ExceptionHandlingUsingFinallyBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/ExceptionHandling/ExceptionHandlingUsingThrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/ExceptionHandling/MultipleCatchBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/ExceptionHandling/TryCatchExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/ExceptionHandling/TryCatchFinallyBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayUsingLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ForEachLoopultidimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/MultidimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ThreeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/ClassAndObjectsLamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/CreateObjectsInsideTheSameClassLamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/JavaMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/MethodCodeReusability.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/MethodParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/oops/MethodReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/String/CompareTwoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/String/CreateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/String/JoinTwoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/String/LengthOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/accessModifiers/PrivateAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/accessModifiers/ProtectedAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/ConstructorOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/DefaultConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/ParameterizedConstructorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/PrivateNoArgConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/constructor/PublicNoArgConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/finalkeyword/FinalMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/inheritance/MethodOverridingInInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/inheritance/SuperKeywordInInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/thiskeyword/PassingThisAsAnArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/thiskeyword/SettersAndGettersMethodKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/thiskeyword/ThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/thiskeyword/UsingThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/thiskeyword/WithoutUsingThisKeyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +78,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodOverloading">
-    <configuration name="JavaMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.oops.JavaMethod" />
+  <component name="RunManager" selected="Application.MainK">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.finalkeyword.Main" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.oops.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.finalkeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodCodeReusability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.oops.MethodCodeReusability" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.inheritance.Main" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.oops.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.oops.MethodOverloading" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.thiskeyword.Main" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.oops.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.thiskeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,25 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.oops.MethodParameter" />
+    <configuration name="MainK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.inheritance.MainK" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.oops.MethodReturnType" />
-      <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.oops.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,13 +144,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UsingThisInConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.thiskeyword.UsingThisInConstructorOverloading" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mkpits.java.thiskeyword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodOverloading" />
-        <item itemvalue="Application.MethodCodeReusability" />
-        <item itemvalue="Application.MethodParameter" />
-        <item itemvalue="Application.MethodReturnType" />
-        <item itemvalue="Application.JavaMethod" />
+        <item itemvalue="Application.MainK" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UsingThisInConstructorOverloading" />
       </list>
     </recent_temporary>
   </component>
