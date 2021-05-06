@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/Interface/DefaultMethodInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/Interface/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/Interface/InterfaceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/Interface/JavaInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/NestedInterface/AccessingMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/NestedInterface/MotherBoard1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/NestedInterface/NestedInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/NestedInterface/StaticInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/NestedInterface/StaticNestedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/abstractclass/AbstractClassAndMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/abstractclass/AbstractMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/anonymousinnerclass/AnonymousClassExtendingClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/anonymousinnerclass/AnonymousClassImplementingInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/encapsulation/DataHidingUsingPrivateSpecifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/encapsulation/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/polymorphism/PolymorphicVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/polymorphism/Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/polymorphism/PolymorphismUsingMethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/polymorphism/PolymorphismUsingMethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/AccessArrayListElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/AddElementsArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ChangeArrayListElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/RemoveArrayListElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ExceptionHandling/TryWithResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ExceptionHandling/TryWithResource.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +66,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TryWithResource">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.anonymousinnerclass.Main" />
+  <component name="RunManager" selected="Application.ForEachLoop">
+    <configuration name="AccessArrayListElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.AccessArrayListElement" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.anonymousinnerclass.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.NestedInterface.Main" />
+    <configuration name="AddElementsArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.AddElementsArrayList" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.NestedInterface.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.anonymousinnerclass.Main1" />
+    <configuration name="ChangeArrayListElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.ChangeArrayListElement" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.anonymousinnerclass.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainSn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.NestedInterface.MainSn" />
+    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.ForEachLoop" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.NestedInterface.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryWithResource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.ExceptionHandling.TryWithResource" />
+    <configuration name="RemoveArrayListElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.RemoveArrayListElement" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.ExceptionHandling.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TryWithResource" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainSn" />
+        <item itemvalue="Application.ForEachLoop" />
+        <item itemvalue="Application.RemoveArrayListElement" />
+        <item itemvalue="Application.ChangeArrayListElement" />
+        <item itemvalue="Application.AccessArrayListElement" />
+        <item itemvalue="Application.AddElementsArrayList" />
       </list>
     </recent_temporary>
   </component>
