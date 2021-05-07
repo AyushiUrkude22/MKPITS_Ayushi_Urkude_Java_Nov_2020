@@ -2,14 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/AccessArrayListElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/AddElementsArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ChangeArrayListElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/RemoveArrayListElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayListToArrayConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayListToStringConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/ArrayToArrayListConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/BreakStatementEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/ComputeTheSumOf5PositiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/ContinueStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/ContinueWithNestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/DefaultCaseInJavaSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/DisplayATextFiveTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/DisplayNumbersFrom1To5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/DisplaySumOfnNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/DoWhileLoopFrom1To5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/IfElseIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/IfWithString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/LabeledBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/LabeledBreakStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/LabeledContinueStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/SumOfPositiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/SumOfPositiveNumbersOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/UserInputSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ExceptionHandling/TryWithResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ExceptionHandling/TryWithResource.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +82,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForEachLoop">
-    <configuration name="AccessArrayListElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.AccessArrayListElement" />
+  <component name="RunManager" selected="Application.PrintArrayElements">
+    <configuration name="ComputeTheSumOf5PositiveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.controlflowstatement.ComputeTheSumOf5PositiveNumber" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.controlflowstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddElementsArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.AddElementsArrayList" />
+    <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.controlflowstatement.ContinueStatement" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.controlflowstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChangeArrayListElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.ChangeArrayListElement" />
+    <configuration name="ContinueWithNestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.controlflowstatement.ContinueWithNestedLoop" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.controlflowstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +122,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.ForEachLoop" />
+    <configuration name="LabeledContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.controlflowstatement.LabeledContinueStatement" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.controlflowstatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.controlflowstatement.PrintArrayElements" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mkpits.java.controlflowstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,26 +161,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveArrayListElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.array.RemoveArrayListElement" />
-      <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForEachLoop" />
-        <item itemvalue="Application.RemoveArrayListElement" />
-        <item itemvalue="Application.ChangeArrayListElement" />
-        <item itemvalue="Application.AccessArrayListElement" />
-        <item itemvalue="Application.AddElementsArrayList" />
+        <item itemvalue="Application.PrintArrayElements" />
+        <item itemvalue="Application.LabeledContinueStatement" />
+        <item itemvalue="Application.ContinueWithNestedLoop" />
+        <item itemvalue="Application.ComputeTheSumOf5PositiveNumber" />
+        <item itemvalue="Application.ContinueStatement" />
       </list>
     </recent_temporary>
   </component>

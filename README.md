@@ -1647,12 +1647,76 @@ Java Program to example of Remove ArrayList Elements.
 #### Program 446)ForEachLoop.Java
 Java Program to example of the Java for-each loop to loop through each element of the arraylist.
 
-#### Program 447)
+#### Program 447)ArrayListToArrayConversion.Java
+Java Program to example of the ArrayList To Array Conversion.
 
-#### Program 448)
+#### Program 448)ArrayToArrayListConversion.Java
+Java Program to example of the Array to ArrayList Conversion.
 
-#### Program 449)
+#### Program 449)ArrayListToStringConversion.Java
+Java Program to example of ArrayList to String Conversion.
 
-#### Program 450)
+#### Program 450)IfStatement.Java
+Java Program to example of if Statement.
 
-#### Program 451)
+#### Program 451)IfWithString.Java
+Java Program to example of if with String.
+
+#### Program 452)IfElseStatement.Java
+Java Program to example of if...else Statement.
+
+#### Program 453)IfElseIfStatement.Java
+Java Program to example of if...else...if Statement.
+
+#### Program 454)SwitchStatement.Java
+Java Program to example of switch statement.
+
+#### Program 455)DefaultCaseInJavaSwitchCase.Java
+Java Program to example of default case in Java switch-case.
+
+#### Program 456)DisplayATextFiveTimes.Java
+Java Program to example of Display a Text Five Times.
+
+#### Program 457)DisplayNumbersFrom1To5.Java
+Java Program to example of Display numbers from 1 to 5.
+
+#### Program 458)DisplaySumOfnNaturalNumbers.Java
+Java Program to example of Display Sum of n Natural Numbers.
+
+#### Program 459)SumOfPositiveNumbersOnly.java
+Java Program to example of Sum of Positive Numbers Only.
+
+#### Program 460)DoWhileLoopFrom1To5.Java
+Java Program to display numbers from 1 to 5.
+
+#### Program 461)SumOfPositiveNumber.Java
+Java Program to example of Sum of Positive Numbers.
+
+#### Program 462)BreakStatementEx.Java
+Java Program to example of break statement.
+
+#### Program 463)UserInputSum.Java
+The program below calculates the sum of numbers entered by the user until user enters a negative number.
+
+#### Program 464)LabeledBreakStatement.Java
+Java Program to example of labeled break Statement.
+
+#### Program 465)LabeledBreak.Java
+Java Program to example of if we change the statement break first; to break second;
+the program will behave differently. In this case, for loop labeled as second will be terminated. 
+
+#### Program 466)ContinueStatement.Java
+Java Program to example of continue statement.
+
+#### Program 467)ComputeTheSumOf5PositiveNumber.Java
+Java Program to example of Compute the sum of 5 positive numbers.
+
+#### Program 468)ContinueWithNestedLoop.Java
+Java Program to example of continue with Nested Loop.
+
+#### Program 469)LabeledContinueStatement.Java
+Java Program to example of labeled continue Statement.
+
+#### Program 470)PrintArrayElements.Java
+Java Program to example of Print Array Elements.
+
