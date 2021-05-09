@@ -1720,3 +1720,101 @@ Java Program to example of labeled continue Statement.
 #### Program 470)PrintArrayElements.Java
 Java Program to example of Print Array Elements.
 
+#### Program 471)SumOfArrayElements.Java
+Java Program to example of Sum of Array Elements.
+
+#### Program 472)FileInputStream.java
+Java Program to example of try to read this file using FileInputStream.
+
+#### Program 473)FileOutputStream.java
+Java Program to example of OutputStream Using FileOutputStream.
+
+#### Program 474)FileInputStream1.java
+Java Program to example of try to read this file using FileInputStream.
+
+#### Program 475)MainIs.Java
+Java Program to example of To get the number of available bytes, we can use the available() method.
+
+#### Program 476)AvailableMethod.Java
+Java Program to example of To get To get the number of available bytes, we can use the available() method.
+
+#### Program 477)SkipMethod.Java
+Java Program to example of to discard and skip the specified number of bytes, we can use the skip() method.
+
+#### Program 478)FileOutputStreamToWriteDataToFile.Java
+Java Program to example of FileOutputStream to write data to a File.
+
+#### Program 479)FlushMethod.Java
+Java Program to example of To clear the output stream, we can use the flush() method.
+This method forces the output stream to write all data to the destination.
+
+#### Program 480)BufferedInputStream.java
+Java Program to example of try to read the file using BufferedInputStream.
+
+#### Program 481)AvailableMethodEx.Java
+Java Program to example To get the number of available bytes in the input stream, we can use the available() method.
+
+#### Program 482)SkipMethodEx.Java
+Java Program to example to discard and skip the specified number of bytes, we can use the skip() method.
+
+#### Program 483)BufferedOutputStreamToWriteDataToFile.Java
+Java Program to example to BufferedOutputStream to write data to a File.
+
+#### Program 484)SwitchExample.Java
+Java Program to example of Switch Example.
+
+#### Program 485)SwitchMonthExample.Java
+Java Program to demonstrate the example of Switch statement
+
+#### Program 486)SwitchVowelExample.Java
+Java Program to check Vowel or Consonant:
+If the character is A, E, I, O, or U, it is vowel otherwise consonant. It is not case-sensitive.
+
+#### Program 487)SwitchStringExample.Java
+//Java Program to demonstrate the use of Java Switch  
+
+#### Program 488)NestedSwitchExample.Java
+Java Program to demonstrate the use of Java Nested Switch.
+
+#### Program 489)JavaSwitchEnumExample.Java
+Java Program to demonstrate the use of Enum in switch statement .
+
+#### Program 490)WrapperInSwitchCaseExample.Java
+Java Program to demonstrate the use of Wrapper class in switch statement.
+
+#### Program 491)OperationA.Java
+Java In this example, we have created the reference of Operation class in the Circle class.
+
+#### Program 492)Employee.Java
+Java Programmer is the subclass and Employee is the superclass. The relationship between the two classes
+is Programmer IS-A Employee.It means that Programmer is a type of Employee.
+
+#### Program 493)DogClassInheritsTheAnimalClassEx.Java
+In the example given below, Dog class inherits the Animal class, so there is the single inheritance.
+
+#### Program 494)RuntimePolymorphismBike.java
+We are creating two classes Bike and Splendor. Splendor class extends Bike class and
+overrides its run() method. We are calling the run method by the reference variable of Parent class.
+Since it refers to the subclass object and subclass method overrides the Parent class method, the
+subclass method is invoked at runtime 
+
+#### Program 495)EventHandlingByImplementingActionListener.java
+Java event handling by implementing ActionListener.
+
+#### Program 496)ButtonExample.Java
+Java AWT Button Example.
+
+#### Program 497)ButtonExampleWithActionListener.Java
+Java AWT Button Example with ActionListener.
+
+#### Program 498)LabelExample.Java
+Java Label Example.
+
+#### Program 499)LabelExampleWithActionListener.Java
+Java AWT Label Example with ActionListener.
+
+#### Program 500)ExampleWithActionListene.Java
+Java AWT TextField Example with ActionListener.
+
+#### Program 501)TextAreaExampleWithActionListener.Java
+Java AWT TextArea Example with ActionListener.
