@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/AWT/ButtonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/AWT/ButtonExampleWithActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/AWT/EventHandlingByImplementingActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/AWT/ExampleWithActionListene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/AWT/LabelExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/AWT/LabelExampleWithActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/BufferedInputStreamClass/AvailableMethodEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/BufferedInputStreamClass/BufferedInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/BufferedInputStreamClass/SkipMethodEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/BufferedOutputStreamClass/BufferedOutputStreamToWriteDataToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/BufferedOutputStreamClass/FlushMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/FileInputStreamClass/AvailableMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/FileInputStreamClass/FileInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/FileInputStreamClass/FileInputStream1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/FileInputStreamClass/MainIs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/FileInputStreamClass/SkipMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/FileOutputStream/FileOutputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/FileOutputStream/FileOutputStreamToWriteDataToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/FileOutputStream/FlushMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/aggregation/OperationA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/controlflowstatement/SumOfArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/inheritance/DogClassInheritsTheAnimalClassEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/polymorphism/RuntimePolymorphismBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/switchstatement/JavaSwitchEnumExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/switchstatement/NestedSwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/switchstatement/SwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/switchstatement/SwitchMonthExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/switchstatement/SwitchStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/switchstatement/SwitchVowelExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/switchstatement/WrapperInSwitchCaseExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/aggregation/operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/aggregation/operation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/polymorphism/Splendor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/polymorphism/Splendor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/polymorphism/SubclassMethodInvoked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/polymorphism/SubclassMethodInvoked.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

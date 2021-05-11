@@ -1,13 +1,4 @@
 # MKPITS_Ayushi_Urkude_Java_Nov_2020
-## C_ Practice
-#### Program 1)
-Write a c program 
-
-#### Program 2)
-Write a c program 
-
-#### Program 3)
-Write a c program 
 
 ## Core_Java_Practice
 #### Program 1)AbstractAccount.java

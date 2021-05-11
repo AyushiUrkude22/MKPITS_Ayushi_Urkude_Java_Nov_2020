@@ -96,7 +96,20 @@
       <recent name="C:\java program\MKPITS_Ayushi_Urkude_Java_Nov_2020\Projects\src\com\mkpits\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ElevatorProgram">
+  <component name="RunManager" selected="Application.ElevatorDesigning1">
+    <configuration name="ElevatorDesigning1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkpits.java.ElevatorDesigning1" />
+      <module name="Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mkpits.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ElevatorProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mkpits.java.ElevatorProgram" />
       <module name="Projects" />
@@ -123,9 +136,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ElevatorProgram" />
+      <item itemvalue="Application.ElevatorDesigning1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ElevatorDesigning1" />
         <item itemvalue="Application.ElevatorProgram" />
       </list>
     </recent_temporary>
