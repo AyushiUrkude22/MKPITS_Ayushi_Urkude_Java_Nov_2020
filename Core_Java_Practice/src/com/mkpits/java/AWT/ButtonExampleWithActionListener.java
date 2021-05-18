@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 //Java AWT Button Example with ActionListener.
 
 import java.awt.*;

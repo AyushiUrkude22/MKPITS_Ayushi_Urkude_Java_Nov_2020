@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 //Simple example of AWT by association.
 
 import java.awt.*;

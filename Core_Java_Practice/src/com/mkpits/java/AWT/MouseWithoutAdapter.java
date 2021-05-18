@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 // mouse without adapter.
 
 import java.awt.*;

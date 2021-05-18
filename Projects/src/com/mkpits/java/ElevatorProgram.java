@@ -141,7 +141,7 @@ class ElevatorProgram extends JLabel {
     private static void Elavatorex() {
         JFrame frame = new JFrame("Elevator");
         JPanel jp = new JPanel();
-        jp.setBounds(10, 20, 220, 400);
+        jp.setBounds(10, 20, 210, 400);
         jp.setBackground(Color.gray);
         jp.setLayout(null);
 

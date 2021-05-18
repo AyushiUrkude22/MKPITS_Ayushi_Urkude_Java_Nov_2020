@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 /* The object of a TextField class is a text component that allows the editing of a single line text. It inherits
 TextComponent class */
 

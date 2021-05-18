@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 // Java AWT Toolkit Example: Change TitleBar Icon.
 
 import java.awt.*;

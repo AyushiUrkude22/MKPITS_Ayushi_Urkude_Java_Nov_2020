@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 /* public void setBounds(int xaxis, int yaxis, int width, int height); have been used in the
 above example that sets the position of the component it may be button, textfield etc */
 

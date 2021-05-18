@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 // PopupMenu can be dynamically popped up at specific position with in a component. It inherits the Menu class.
 
 import java.awt.*;

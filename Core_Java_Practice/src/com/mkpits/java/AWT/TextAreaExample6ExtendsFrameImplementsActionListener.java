@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 //Java AWT TextArea Example with ActionListener.
 
 import java.awt.*;

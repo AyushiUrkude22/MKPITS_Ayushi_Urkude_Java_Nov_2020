@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 /*The object of Scrollbar class is used to add horizontal and vertical scrollbar. Scrollbar is a GUI
 component allows us to see invisible number of rows and columns.
 public class Scrollbar extends Component implements Adjustable, Accessible. */

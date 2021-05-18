@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 //Java event handling by implementing ActionListener.
 
 import java.awt.*;

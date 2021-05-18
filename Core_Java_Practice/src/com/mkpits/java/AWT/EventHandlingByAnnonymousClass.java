@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 //Example of event handling by Annonymous class.
 
 import java.awt.*;

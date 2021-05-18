@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 /*The Checkbox class is used to create a checkbox. It is used to turn an option on (true) or off (false).
 Clicking on a Checkbox changes its state from "on" to "off" or from "off" to "on".
 AWT Checkbox Class Declaration */

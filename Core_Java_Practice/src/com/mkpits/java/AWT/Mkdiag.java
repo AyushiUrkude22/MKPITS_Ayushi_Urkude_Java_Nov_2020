@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 // Awt example Mkdiag.
 
 import java.awt.*;

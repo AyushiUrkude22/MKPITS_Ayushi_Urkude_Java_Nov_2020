@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 /* The object of Choice class is used to show popup menu of choices. Choice selected by user is shown on
 the top of a menu. It inherits Component class */
 

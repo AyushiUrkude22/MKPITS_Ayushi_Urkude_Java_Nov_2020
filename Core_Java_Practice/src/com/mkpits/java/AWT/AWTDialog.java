@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 //Java Program fo AWT Dialog.
 
 import java.awt.*;

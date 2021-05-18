@@ -1,4 +1,4 @@
-package src.com.mkpits.java.AWT;
+package src.com.mkpits.java.awt;
 // Write a program to frame with 2 panels.
 
 import java.awt.*;
