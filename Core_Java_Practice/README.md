@@ -1818,3 +1818,22 @@ Java example of accoutn class using anonymous class.
 
 #### Program 504)GarbageCollected.java
 Example of garbage collection in java.
+
+#### Program 505)StringTokenizer.java
+Java example of string tokenizer.
+
+#### Program 506)StringTokenizer1.java
+Java example of string tokenizer.
+
+#### Program 507)SynchronizedKeyword.java
+In this example we are applying synchronized keyword on the static method to perform static synchronization.
+
+#### Program 508)Table.java
+In this example, we are using annonymous class to create the threads.
+
+#### Program 509)SynchronizedBlock.java
+Program of synchronized block by using annonymous class.
+
+#### Program 510)Calculate.java
+Example of synchronized block.
+
