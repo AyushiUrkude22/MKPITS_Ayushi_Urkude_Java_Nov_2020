@@ -5,7 +5,7 @@ basis of whitespace.*/
 import java.util.StringTokenizer;
 public class StringTokenizerSimple{
     public static void main(String args[]){
-        StringTokenizer st = new StringTokenizer("my name is khan"," ");
+        StringTokenizer st = new StringTokenizer("my name is ayushi"," ");
         while (st.hasMoreTokens()) {
             System.out.println(st.nextToken());
         }

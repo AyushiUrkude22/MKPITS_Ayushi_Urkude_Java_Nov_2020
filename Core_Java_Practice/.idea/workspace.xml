@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="" />
+    <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/staticsynchronization/SynchronizedKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/staticsynchronization/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/stringtokenizer/StringTokenizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/stringtokenizer/StringTokenizer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/synchronizedblock/SynchronizedBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/StringTokenizer/StringTokenizerSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/StringTokenizer/StringTokenizerSimple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/stringtokenizer/StringTokenizerSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/stringtokenizer/StringTokenizerSimple.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +70,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.gcex">
+  <component name="RunManager" selected="Application.sbex">
     <configuration name="ReadStringTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.mkpits.java.ConsoleClass.ReadStringTest" />
       <module name="Core_Java_Practice" />
@@ -74,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sync2ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.synchronization.Sync2ex" />
+    <configuration name="TestSynchronization4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.staticsynchronization.TestSynchronization4" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.synchronization.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.synchronizedblock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sync2ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.synchronization.Sync2ex1" />
+    <configuration name="TestSynchronization5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.staticsynchronization.TestSynchronization5" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.synchronization.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.synchronizedblock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGarbage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.garbageCollection.TestGarbage" />
+    <configuration name="TestSynchronizedBlock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.synchronizedblock.TestSynchronizedBlock2" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.garbageCollection.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.synchronizedblock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSynchronization2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.synchronization.TestSynchronization2" />
+    <configuration name="TestSynchronizedBlock2A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.synchronizedblock.TestSynchronizedBlock2A" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.synchronization.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.synchronizedblock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gcex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.garbageCollection.gcex" />
+    <configuration name="sbex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.synchronizedblock.sbex" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.garbageCollection.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.synchronizedblock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.gcex" />
-        <item itemvalue="Application.TestGarbage" />
-        <item itemvalue="Application.Sync2ex1" />
-        <item itemvalue="Application.Sync2ex" />
-        <item itemvalue="Application.TestSynchronization2" />
+        <item itemvalue="Application.sbex" />
+        <item itemvalue="Application.TestSynchronizedBlock2A" />
+        <item itemvalue="Application.TestSynchronizedBlock2" />
+        <item itemvalue="Application.TestSynchronization5" />
+        <item itemvalue="Application.TestSynchronization4" />
       </list>
     </recent_temporary>
   </component>
