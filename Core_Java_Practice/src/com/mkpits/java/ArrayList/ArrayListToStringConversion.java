@@ -1,4 +1,4 @@
-package src.com.mkpits.java.array;
+package src.com.mkpits.java.ArrayList;
 //Java Program to example of ArrayList to String Conversion.
 
 import java.util.ArrayList;
