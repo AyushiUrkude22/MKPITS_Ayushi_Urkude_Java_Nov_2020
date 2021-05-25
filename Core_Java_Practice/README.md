@@ -1912,5 +1912,30 @@ Java program on traversing arraylist using for loop.
 #### Program 535)TraversingArrayListUsingForeachLoop.Java
 Java program on traversing arraylist using foreach loop.
 
+#### Program 536)TestArrayLinked.Java
+Java example where we are using ArrayList and LinkedList both.
 
-#### Program 528)
+#### Program 537)LinkedHashSet1.Java
+Java example of Linked Hash Set class. Here you can notice that the elements iterate in insertion order.
+
+#### Program 538)LinkedHashSet2.Java
+Java LinkedHashSet example ignoring duplicate Elements.
+
+#### Program 539)Book.java
+Java LinkedHashSet Example: Book.
+
+#### Program 540)LinkedList1.Java
+Java LinkedList Example.
+
+#### Program 541)LinkedListAddElements.Java
+Java LinkedList example to add elements.
+
+#### Program 542)LinkedListRemoveElements.Java
+Java LinkedList example to remove elements.
+
+#### Program 543)LinkedListReverseListElements.Java
+Java LinkedList Example to reverse a list of elements.
+
+#### Program 544)Book1.Java
+Java LinkedList Example: Book.
+

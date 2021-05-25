@@ -1837,3 +1837,79 @@ Program of synchronized block by using annonymous class.
 #### Program 510)Calculate.java
 Example of synchronized block.
 
+#### Program 511)ArrayListExample1.Java
+Java Program to example of java array list.
+
+#### Program 512)TraverseArrayList.Java
+Java example to traverse ArrayList elements using the Iterator interface.
+
+#### Program 513)TraverseArrayListElementsUsingForEachLoop.Java
+Java example to traverse the ArrayList elements using the for-each loop.
+
+#### Program 514)GetAndSetArrayList.Java
+Java Program to example of Get and Set ArrayList.
+
+#### Program 515)SortArrayList.Java
+Java Program to example of sort array list.
+
+#### Program 516)ArrayList2.Java
+Java example to traverse the ArrayList elements through other ways.
+
+#### Program 517)ArrayList3.Java
+Java example to serialize an ArrayList object and then deserialize it.
+
+#### Program 518)ArrayListExampleToAddElement.Java
+Java ArrayList example to add elements.
+
+#### Program 519)ArrayList4.Java
+Java ArrayList example to remove elements.
+
+#### Program 520)ArrayList5.Java
+Java ArrayList example of retainAll() method.
+
+#### Program 521)ArrayList6.Java
+Java ArrayList example of isEmpty() method.
+
+#### Program 522)Book.java
+ArrayList example where we are adding books to list and printing all the books.
+
+#### Program 523)ColllectionOf5StudentsArrayListClass.Java
+Java colllection of 5 students using arraylist class.
+
+#### Program 524)arraylist1.Java
+Java program by accepting name from the user.
+
+#### Program 525)TraversingListThroughLterator.Java
+Java program on Traversing list through Iterator.
+
+#### Program 526)ArrayListUsingForEachLoop.Java
+Java program on Iterating ArrayList using For-each loop.
+
+#### Program 527)awtarraylist7.Java
+Java program of awt array list.
+
+#### Program 528)SetAndGetOfArrayListClass.Java
+Java example of set and get of arraylist class.
+
+#### Program 529)GetAndSetMethodOfArrayListUsingAwt.Java
+Java program on get and set method of arraylist using awt.
+
+#### Program 530)AwtArrayListUsingSwing.Java
+Java program Awt Array List Using Swing.
+
+#### Program 531)SortArrayListElement.Java
+Java program of sort arraylist elements.
+
+#### Program 532)ArrayListSortingInSwing.Java
+Java program on arraylist sorting in swing.
+
+#### Program 533)TraversingThroughListiterator.Java
+Java program on traversing through listiterator.
+
+#### Program 534)TraversingArrayListUsingForLoop.Java
+Java program on traversing arraylist using for loop.
+
+#### Program 535)TraversingArrayListUsingForeachLoop.Java
+Java program on traversing arraylist using foreach loop.
+
+#### Program 536)
