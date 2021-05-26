@@ -1939,3 +1939,38 @@ Java LinkedList Example to reverse a list of elements.
 #### Program 544)Book1.Java
 Java LinkedList Example: Book.
 
+#### Program 545)HashSet1.Java
+Java example of HashSet. Notice, the elements iterate in an unordered collection.
+
+#### Program 546)HashSet2.Java
+Java example, we see that HashSet doesn't allow duplicate elements.
+
+#### Program 547)HashSet3.Java
+Java HashSet example to remove elements.
+
+#### Program 548)HashSet4.Java
+Java HashSet from another Collection.
+
+#### Program 549)BookHS.java
+Java HashSet example where we are adding books to set and printing all the books.
+
+#### Program 550)ListExample1.Java
+Java example of List where we are using the ArrayList class as the implementation.
+
+#### Program 551)ArrayToListExample.Java
+Java example to convert array elements into List.
+
+#### Program 552)ListToArrayExample.Java
+Java example to convert list elements into array.
+
+#### Program 553)ListExample2.Java
+Java Get and Set Element in List.
+
+#### Program 554)SortArrayList.Java
+Java Sort Array List.
+
+#### Program 555)ListIteratorExample1.Java
+Java Example of ListIterator Interface.
+
+#### Program 556)Book2.Java
+Java example of List where we are adding the Books.

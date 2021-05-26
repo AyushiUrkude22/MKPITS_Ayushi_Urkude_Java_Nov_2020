@@ -2,95 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TestArrayLinked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/LinkedHashSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/LinkedHashSet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/LinkedList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/LinkedListAddElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/LinkedListRemoveElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/LinkedListReverseListElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/ArrayToListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/BookHS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/HashSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/HashSet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/HashSet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/HashSet4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/ListExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/ListExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/ListIteratorExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/ListToArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/SortArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayList2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayList2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayList3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayList3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayList4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayList4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayList5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayList5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayList6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayList6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListExample1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListExample7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListExample7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListExampleToAddElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListExampleToAddElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListToArrayConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListToArrayConversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListToStringConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListToStringConversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListUsingForEachLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ArrayListUsingForEachLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/AwtArrayListUsingSwing$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/AwtArrayListUsingSwing$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/AwtArrayListUsingSwing$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/AwtArrayListUsingSwing$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/AwtArrayListUsingSwing$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/AwtArrayListUsingSwing$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/AwtArrayListUsingSwing$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/AwtArrayListUsingSwing$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/AwtArrayListUsingSwing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/AwtArrayListUsingSwing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ColllectionOf5StudentsArrayListClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/ColllectionOf5StudentsArrayListClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetMethodOfArrayListUsingAwt$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetMethodOfArrayListUsingAwt$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetMethodOfArrayListUsingAwt$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetMethodOfArrayListUsingAwt$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetMethodOfArrayListUsingAwt$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetMethodOfArrayListUsingAwt$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetMethodOfArrayListUsingAwt$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetMethodOfArrayListUsingAwt$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetMethodOfArrayListUsingAwt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/GetAndSetMethodOfArrayListUsingAwt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/SetAndGetOfArrayListClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/SetAndGetOfArrayListClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/SortArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/SortArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/SortArrayListElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/SortArrayListElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraverseArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraverseArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraverseArrayListElementsUsingForEachLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraverseArrayListElementsUsingForEachLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingArrayListUsingForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingArrayListUsingForLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingArrayListUsingForeachLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingArrayListUsingForeachLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingListThroughLterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingListThroughLterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/TraversingThroughListiterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/arraylist1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/arraylist1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/awtarraylist7$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/awtarraylist7$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/awtarraylist7$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/awtarraylist7$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/awtarraylist7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/ArrayList/awtarraylist7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/aggregation/circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/src/com/mkpits/java/aggregation/circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayList2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayList3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayList3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayList4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayList4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayList5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayList5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayList6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayList6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayListExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayListExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayListExampleToAddElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayListExampleToAddElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayListSortingInSwing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayListSortingInSwing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayListToArrayConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayListToArrayConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayListToStringConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayListToStringConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ArrayListUsingForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayListUsingForEachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/AwtArrayListUsingSwing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/AwtArrayListUsingSwing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/ColllectionOf5StudentsArrayListClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ColllectionOf5StudentsArrayListClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/GetAndSetArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/GetAndSetArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/GetAndSetMethodOfArrayListUsingAwt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/GetAndSetMethodOfArrayListUsingAwt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/SetAndGetOfArrayListClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/SetAndGetOfArrayListClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/SortArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/SortArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/SortArrayListElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/SortArrayListElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/TraverseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TraverseArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/TraverseArrayListElementsUsingForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TraverseArrayListElementsUsingForEachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/TraversingArrayListUsingForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TraversingArrayListUsingForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/TraversingArrayListUsingForeachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TraversingArrayListUsingForeachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/TraversingListThroughLterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TraversingListThroughLterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/TraversingThroughListiterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TraversingThroughListiterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/arraylist1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/arraylist1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/ArrayList/awtarraylist7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/awtarraylist7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,9 +74,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedListExample">
-    <configuration name="LinkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.linkedlist.LinkedList1" />
+  <component name="RunManager" selected="Application.ListExample5">
+    <configuration name="ListExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.linkedlist.ListExample2" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
@@ -164,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListAddElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.linkedlist.LinkedListAddElements" />
+    <configuration name="ListExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.linkedlist.ListExample5" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
@@ -177,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.linkedlist.LinkedListExample" />
+    <configuration name="ListIteratorExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.linkedlist.ListIteratorExample1" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
@@ -190,21 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListRemoveElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.linkedlist.LinkedListRemoveElements" />
-      <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListReverseListElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.linkedlist.LinkedListReverseListElements" />
+    <configuration name="ListToArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.linkedlist.ListToArrayExample" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
@@ -229,13 +140,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.linkedlist.SortArrayList" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mkpits.java.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedListExample" />
-        <item itemvalue="Application.LinkedListReverseListElements" />
-        <item itemvalue="Application.LinkedListRemoveElements" />
-        <item itemvalue="Application.LinkedListAddElements" />
-        <item itemvalue="Application.LinkedList1" />
+        <item itemvalue="Application.ListExample5" />
+        <item itemvalue="Application.ListIteratorExample1" />
+        <item itemvalue="Application.SortArrayList" />
+        <item itemvalue="Application.ListExample2" />
+        <item itemvalue="Application.ListToArrayExample" />
       </list>
     </recent_temporary>
   </component>
