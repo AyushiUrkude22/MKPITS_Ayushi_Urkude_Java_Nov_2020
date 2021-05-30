@@ -1993,3 +1993,31 @@ Java example, we perform various SortedSetSet operations.
 #### Program 562)TreeSetExample.Java
 Java TreeSet Example: Book
 
+#### Program 563)ArrayDequeExample.Java
+Java ArrayDeque Example.
+
+#### Program 564)DequeExample.Java
+Java ArrayDeque Example: offerFirst() and pollLast().
+
+#### Program 565)ArrayDequeExampleBook.java
+Java ArrayDeque Example: Book.
+
+#### Program 566)HashMapExample1.Java
+Java example of HashMap to store key and value pair.
+
+#### Program 567)HashMapExample2.Java
+You cannot store duplicate keys in HashMap. However, if you try to store duplicate key with another
+value, it will replace the value.
+
+#### Program 568)HashMapExampleElements.Java
+Java HashMap example to add() elements.
+
+#### Program 569)HashMapExampleToRemoveElements.Java
+Java HashMap example to remove() elements.
+
+#### Program 570)HashMapExampleToReplaceElements.Java
+Java HashMap example to replace() elements.
+
+#### Program 571)HashMapExampleBook.Java
+Java HashMap Example: Book.
+

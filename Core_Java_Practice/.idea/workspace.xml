@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TreeSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TreeSet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TreeSet3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TreeSet4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TreeSet5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayDequeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/ArrayDequeExampleBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/DequeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashmap/HashMapExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashmap/HashMapExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashmap/HashMapExampleBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashmap/HashMapExampleElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashmap/HashMapExampleToRemoveElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashmap/HashMapExampleToReplaceElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/arrayList/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +72,65 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TreeSetExample">
-    <configuration name="ArrayListExample7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.arrayList.ArrayListExample7" />
+  <component name="RunManager" selected="Application.MapExample1">
+    <configuration name="HashMapExampleElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashmap.HashMapExampleElements" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.arrayList.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapExampleToRemoveElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashmap.HashMapExampleToRemoveElements" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mkpits.java.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapExampleToReplaceElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashmap.HashMapExampleToReplaceElements" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mkpits.java.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashmap.MapExample" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mkpits.java.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashmap.MapExample1" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mkpits.java.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,65 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSet3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.arrayList.TreeSet3" />
-      <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.arrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeSet4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.arrayList.TreeSet4" />
-      <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.arrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeSet5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.arrayList.TreeSet5" />
-      <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.arrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.arrayList.TreeSetExample" />
-      <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.arrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TreeSetExample" />
-        <item itemvalue="Application.ArrayListExample7" />
-        <item itemvalue="Application.TreeSet4" />
-        <item itemvalue="Application.TreeSet5" />
-        <item itemvalue="Application.TreeSet3" />
+        <item itemvalue="Application.MapExample1" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.HashMapExampleToReplaceElements" />
+        <item itemvalue="Application.HashMapExampleToRemoveElements" />
+        <item itemvalue="Application.HashMapExampleElements" />
       </list>
     </recent_temporary>
   </component>
