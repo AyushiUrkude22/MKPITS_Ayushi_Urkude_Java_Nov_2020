@@ -2026,3 +2026,21 @@ Java PriorityQueue Example.
 
 #### Program 573)PriorityQueueExampleBook.Java
 Java PriorityQueue Example: Book.
+
+#### Program 574)MapExample.Java
+Java Map Example: Non-Generic (Old Style)..
+
+#### Program 575)MapExample1.Java
+Java Map Example: Generic (New Style).
+
+#### Program 576)MapExample2.Java
+Java Map Example: comparingByKey().
+
+#### Program 577)MapExample3.Java
+Java Map Example: comparingByKey() in Descending Order.
+
+#### Program 578)MapExample4.Java
+Java Map Example: comparingByValue().
+
+#### Program 579)MapExample5.Java
+Java Map Example: comparingByValue() in Descending Order.

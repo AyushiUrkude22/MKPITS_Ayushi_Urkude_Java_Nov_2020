@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/mapinterface/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/mapinterface/MapExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/mapinterface/MapExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/mapinterface/MapExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashtableclass/Hashtable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashtableclass/Hashtable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashtableclass/Hashtable3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/README.md" afterDir="false" />
     </list>
@@ -67,13 +66,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapExample5">
-    <configuration name="MapExample1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.mapinterface.MapExample1" />
+  <component name="RunManager" selected="Application.HashtableExample">
+    <configuration name="Hashtable1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashtableclass.Hashtable1" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.mapinterface.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.hashtableclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.mapinterface.MapExample2" />
+    <configuration name="Hashtable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashtableclass.Hashtable2" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.mapinterface.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.hashtableclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.mapinterface.MapExample3" />
+    <configuration name="Hashtable3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashtableclass.Hashtable3" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.mapinterface.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.hashtableclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.mapinterface.MapExample4" />
+    <configuration name="Hashtable4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashtableclass.Hashtable4" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.mapinterface.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.hashtableclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.mapinterface.MapExample5" />
+    <configuration name="HashtableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashtableclass.HashtableExample" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.mapinterface.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.hashtableclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapExample5" />
-        <item itemvalue="Application.MapExample4" />
-        <item itemvalue="Application.MapExample3" />
-        <item itemvalue="Application.MapExample2" />
-        <item itemvalue="Application.MapExample1 (1)" />
+        <item itemvalue="Application.HashtableExample" />
+        <item itemvalue="Application.Hashtable4" />
+        <item itemvalue="Application.Hashtable3" />
+        <item itemvalue="Application.Hashtable2" />
+        <item itemvalue="Application.Hashtable1" />
       </list>
     </recent_temporary>
   </component>
