@@ -2021,3 +2021,8 @@ Java HashMap example to replace() elements.
 #### Program 571)HashMapExampleBook.Java
 Java HashMap Example: Book.
 
+#### Program 572)TestCollection.Java
+Java PriorityQueue Example.
+
+#### Program 573)PriorityQueueExampleBook.Java
+Java PriorityQueue Example: Book.
