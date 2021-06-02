@@ -2044,3 +2044,18 @@ Java Map Example: comparingByValue().
 
 #### Program 579)MapExample5.Java
 Java Map Example: comparingByValue() in Descending Order.
+
+#### Program 580)Hashtable1.Java
+Java Hashtable Example.
+
+#### Program 581)Hashtable2.Java
+Java Hashtable Example: remove().
+
+#### Program 582)Hashtable3.Java
+Java Hashtable Example: getOrDefault().
+
+#### Program 583)Hashtable4.Java
+Java Hashtable Example: putIfAbsent().
+
+#### Program 584)HashtableBook.Java
+Java Hashtable Example: Book.
