@@ -2089,3 +2089,60 @@ Java TreeMap Example: Book.
 
 #### Program 594)ComparableExample.java
 Java Program to demonstrate the use of Java Comparable.
+
+#### Program 595)SortMapByKeyValue.Java
+Java Code to sort Map by key value.
+
+#### Program 596)SortMapByKeyValueUsingArrayList.Java
+Java Code to sort Map by key value Using ArrayList .
+
+#### Program 597)SortMapByKeyValueUsingTreeMap.Java
+Java Code to sort Map by key value Using TreeMap.
+
+#### Program 598)AddElementsToLinkedHashMap1.Java
+Java program to demonstrate adding
+elements to a LinkedHashMap.
+
+#### Program 599)UpdatingLinkedHashMap.Java
+Java program to demonstrate
+changing/updating of LinkedHashMap.
+
+#### Program 600)RemovingMappingsFromLinkedHashMap.Java
+Java program to demonstrate the
+removing of elements from LinkedHashMap
+  
+#### Program 601)IteratingOverLinkedHashMap.Java
+Java program to demonstrate
+iterating over LinkedHashMap.
+
+#### Program 602)SortedSet.Java
+A Java program to demonstrate
+working of SortedSet.
+
+#### Program 603)AddElementsToHashtable.Java
+Java program to demonstrate
+adding elements to Hashtable.
+
+#### Program 604)AddElementsToHashtable.Java
+Java program to demonstrate
+adding elements to Hashtable.
+
+#### Program 605)IllustrateHashtable.Java
+Java program to illustrate
+Java.util.Hashtable.
+
+#### Program 606)AddElementsToHashtable2.Java
+Java program to demonstrate
+adding elements to Hashtable
+  
+#### Program 607)UpdatesOnHashtable.Java
+Java program to demonstrate
+updating Hashtable.
+
+#### Program 608)RemovingMappingsFromHashtable.Java
+Java program to demonstrate
+the removing mappings from Hashtable.
+
+#### Program 609)IteratingHashtabl1.Java
+Java program to illustrate
+traversal of Hashtable.

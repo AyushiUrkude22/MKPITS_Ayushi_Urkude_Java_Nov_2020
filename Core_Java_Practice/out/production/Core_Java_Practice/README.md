@@ -2059,3 +2059,33 @@ Java Hashtable Example: putIfAbsent().
 
 #### Program 584)HashtableBook.Java
 Java Hashtable Example: Book.
+
+#### Program 585)LinkedHashMap1.Java
+Java LinkedHashMap Example.
+
+#### Program 586)LinkedHashMap2.Java
+Java LinkedHashMap Example: Key-Value pair.
+
+#### Program 587)LinkedHashMap3.Java
+Java LinkedHashMap Example:remove().
+
+#### Program 588)LinkedHashMapExampleBook.Java
+Java LinkedHashMap Example: Book.
+
+#### Program 589)TreeMap1.Java
+Java TreeMap Example.
+
+#### Program 590)TreeMapRemove.Java
+Java TreeMap Example: remove().
+
+#### Program 591)TreeMapNavigableMap.Java
+Java TreeMap Example NavigableMap.
+
+#### Program 592)TreeMapSortedMap.Java
+Java TreeMap Example: SortedMap.
+
+#### Program 593)TreeMapBook.Java
+Java TreeMap Example: Book.
+
+#### Program 594)ComparableExample.java
+Java Program to demonstrate the use of Java Comparable.

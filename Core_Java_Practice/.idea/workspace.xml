@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/differencebetweencomparableandcomparator/ComparableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/differencebetweencomparableandcomparator/TestComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/LinkedHashMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/LinkedHashMap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/LinkedHashMap3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/LinkedHashMapExampleBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/treemap/TreeMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/treemap/TreeMapBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/treemap/TreeMapNavigableMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/treemap/TreeMapRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/treemap/TreeMapSortedMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/collection/SortedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashmap/SortMapByKeyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashmap/SortMapByKeyValueUsingArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashtableclass/AddElementsToHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashtableclass/AddElementsToHashtable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashtableclass/AddElementsToHashtable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashtableclass/IllustrateHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashtableclass/IteratingHashtabl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashtableclass/RemovingMappingsFromHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/hashtableclass/UpdatesOnHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/AddElementsToLinkedHashMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/IteratingOverLinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/RemovingMappingsFromLinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/linkedlist/UpdatingLinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/treemap/SortMapByKeyValueUsingTreeMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/README.md" afterDir="false" />
     </list>
@@ -61,6 +65,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="src.com.mkpits.java.differencebetweencomparableandcomparator" />
       <recent name="src.com.mkpits.java.AWT" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -74,13 +79,39 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestComparator">
-    <configuration name="MapExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.treemap.MapExample" />
+  <component name="RunManager" selected="Application.IteratingHashtable1">
+    <configuration name="AddElementsToHashtable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashtableclass.AddElementsToHashtable2" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.treemap.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.hashtableclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IllustrateHashtable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashtableclass.IllustrateHashtable" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mkpits.java.hashtableclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IteratingHashtable1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashtableclass.IteratingHashtable1" />
+      <module name="Core_Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mkpits.java.hashtableclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.differencebetweencomparableandcomparator.TestComparator" />
+    <configuration name="RemovingMappingsFromHashtable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashtableclass.RemovingMappingsFromHashtable" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.differencebetweencomparableandcomparator.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.hashtableclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,38 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSort3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.differencebetweencomparableandcomparator.TestSort3" />
+    <configuration name="UpdatesOnHashtable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.hashtableclass.UpdatesOnHashtable" />
       <module name="Core_Java_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.differencebetweencomparableandcomparator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMapNavigableMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.treemap.TreeMapNavigableMap" />
-      <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.treemap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMapSortedMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.mkpits.java.treemap.TreeMapSortedMap" />
-      <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.mkpits.java.treemap.*" />
+          <option name="PATTERN" value="src.com.mkpits.java.hashtableclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestComparator" />
-        <item itemvalue="Application.TestSort3" />
-        <item itemvalue="Application.MapExample (1)" />
-        <item itemvalue="Application.TreeMapSortedMap" />
-        <item itemvalue="Application.TreeMapNavigableMap" />
+        <item itemvalue="Application.IteratingHashtable1" />
+        <item itemvalue="Application.RemovingMappingsFromHashtable" />
+        <item itemvalue="Application.UpdatesOnHashtable" />
+        <item itemvalue="Application.AddElementsToHashtable2" />
+        <item itemvalue="Application.IllustrateHashtable" />
       </list>
     </recent_temporary>
   </component>
