@@ -2146,3 +2146,27 @@ the removing mappings from Hashtable.
 #### Program 609)IteratingHashtabl1.Java
 Java program to illustrate
 traversal of Hashtable.
+
+#### Program 610)jdbcex1.Java
+program to insert records in our employee table created.
+
+#### Program 611)PostgreSQLJDBC.Java
+Java program will be used to create a table in previously opened database.
+
+#### Program 612)PostgreSQLJDBC1.Java
+Java program shows how we can create records in our COMPANY table created.
+
+#### Program 613)PostgreSQLJDBC2.Java
+Java program shows how we can fetch and display records from our COMPANY table created.
+
+#### Program 614)PostgreSQLJDBC3.Java
+Java code shows how we can use the UPDATE statement to update any record and then
+fetch and display updated records from our COMPANY table. 
+
+#### Program 615)PostgreSQLJDBC4.Java
+Java code shows how we can use the DELETE statement to delete any record and then
+fetch and display remaining records from our COMPANY table.
+
+#### Program 616)ShopForm.Java
+create a swing form to insert ,update and delete and search records into shop table.
+
