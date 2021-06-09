@@ -2170,3 +2170,8 @@ fetch and display remaining records from our COMPANY table.
 #### Program 616)ShopForm.Java
 create a swing form to insert ,update and delete and search records into shop table.
 
+#### Program 617)FrameExample2.Java
+create a registration form.
+
+#### Program 618)Loginform.Java
+create a login form and check the credentials from the register table .

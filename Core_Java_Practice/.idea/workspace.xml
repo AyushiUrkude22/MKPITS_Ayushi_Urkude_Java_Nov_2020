@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051adf3d-4cea-4864-bd27-1dc2d0b4620a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Jbdc/src/com/mkpits/java/jdbc/PostgreSQLJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Jbdc/src/com/mkpits/java/jdbc/PostgreSQLJDBC1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Jbdc/src/com/mkpits/java/jdbc/PostgreSQLJDBC2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Jbdc/src/com/mkpits/java/jdbc/PostgreSQLJDBC3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Jbdc/src/com/mkpits/java/jdbc/PostgreSQLJDBC4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Jbdc/src/com/mkpits/java/jdbc/ShopForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Jbdc/src/com/mkpits/java/jdbc/jdbcex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jbdc/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jbdc/src/com/mkpits/java/jdbc/FrameExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jbdc/src/com/mkpits/java/jdbc/Loginform.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/ShopForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/ShopForm$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/ShopForm$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/ShopForm$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/ShopForm$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/ShopForm$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/ShopForm$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/ShopForm$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/ShopForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Jbdc/out/production/Jbdc/com/mkpits/java/jdbc/ShopForm.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
