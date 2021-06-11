@@ -2089,3 +2089,89 @@ Java TreeMap Example: Book.
 
 #### Program 594)ComparableExample.java
 Java Program to demonstrate the use of Java Comparable.
+
+#### Program 595)SortMapByKeyValue.Java
+Java Code to sort Map by key value.
+
+#### Program 596)SortMapByKeyValueUsingArrayList.Java
+Java Code to sort Map by key value Using ArrayList .
+
+#### Program 597)SortMapByKeyValueUsingTreeMap.Java
+Java Code to sort Map by key value Using TreeMap.
+
+#### Program 598)AddElementsToLinkedHashMap1.Java
+Java program to demonstrate adding
+elements to a LinkedHashMap.
+
+#### Program 599)UpdatingLinkedHashMap.Java
+Java program to demonstrate
+changing/updating of LinkedHashMap.
+
+#### Program 600)RemovingMappingsFromLinkedHashMap.Java
+Java program to demonstrate the
+removing of elements from LinkedHashMap
+  
+#### Program 601)IteratingOverLinkedHashMap.Java
+Java program to demonstrate
+iterating over LinkedHashMap.
+
+#### Program 602)SortedSet.Java
+A Java program to demonstrate
+working of SortedSet.
+
+#### Program 603)AddElementsToHashtable.Java
+Java program to demonstrate
+adding elements to Hashtable.
+
+#### Program 604)AddElementsToHashtable.Java
+Java program to demonstrate
+adding elements to Hashtable.
+
+#### Program 605)IllustrateHashtable.Java
+Java program to illustrate
+Java.util.Hashtable.
+
+#### Program 606)AddElementsToHashtable2.Java
+Java program to demonstrate
+adding elements to Hashtable
+  
+#### Program 607)UpdatesOnHashtable.Java
+Java program to demonstrate
+updating Hashtable.
+
+#### Program 608)RemovingMappingsFromHashtable.Java
+Java program to demonstrate
+the removing mappings from Hashtable.
+
+#### Program 609)IteratingHashtabl1.Java
+Java program to illustrate
+traversal of Hashtable.
+
+#### Program 610)jdbcex1.Java
+program to insert records in our employee table created.
+
+#### Program 611)PostgreSQLJDBC.Java
+Java program will be used to create a table in previously opened database.
+
+#### Program 612)PostgreSQLJDBC1.Java
+Java program shows how we can create records in our COMPANY table created.
+
+#### Program 613)PostgreSQLJDBC2.Java
+Java program shows how we can fetch and display records from our COMPANY table created.
+
+#### Program 614)PostgreSQLJDBC3.Java
+Java code shows how we can use the UPDATE statement to update any record and then
+fetch and display updated records from our COMPANY table. 
+
+#### Program 615)PostgreSQLJDBC4.Java
+Java code shows how we can use the DELETE statement to delete any record and then
+fetch and display remaining records from our COMPANY table.
+
+#### Program 616)ShopForm.Java
+create a swing form to insert ,update and delete and search records into shop table.
+
+#### Program 617)FrameExample2.Java
+create a registration form.
+
+#### Program 618)Loginform.Java
+create a login form and check the credentials from the register table .
