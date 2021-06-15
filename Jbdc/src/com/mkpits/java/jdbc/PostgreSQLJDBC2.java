@@ -2,9 +2,9 @@ package com.mkpits.java.jdbc;
 //Java program shows how we can fetch and display records from our COMPANY table created.
 
 import java.sql.Connection;
-        import java.sql.DriverManager;
-        import java.sql.ResultSet;
-        import java.sql.Statement;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
 
 public class PostgreSQLJDBC2 {
     public static void main( String args[] ) {

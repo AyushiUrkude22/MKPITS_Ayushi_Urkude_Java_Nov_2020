@@ -2,7 +2,6 @@ package com.mkpits.java.jdbc;
 //Java program will be used to create a table in previously opened database.
 
 import java.sql.*;
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
