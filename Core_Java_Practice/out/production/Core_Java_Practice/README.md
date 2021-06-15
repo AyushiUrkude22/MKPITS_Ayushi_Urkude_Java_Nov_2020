@@ -2175,3 +2175,6 @@ create a registration form.
 
 #### Program 618)Loginform.Java
 create a login form and check the credentials from the register table .
+
+#### Program 619)Product.java
+Java program  to collect list of product using awt.

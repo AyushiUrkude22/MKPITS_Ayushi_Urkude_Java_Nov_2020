@@ -19,14 +19,14 @@ class Product{
         this.price=price;
     }
 }
-class ExOfListOfProductUsingAwt extends Frame {
+class ListOfProductUsingAwt extends Frame {
     Label l1, l2, l3, l4;
     TextField t1, t2, t3, t4;
     TextArea ta;
     Button b1, b2,b3,b4;
     ArrayList<String> product = new ArrayList<String>();
 
-    ExOfListOfProductUsingAwt() {
+    ListOfProductUsingAwt() {
         l1 = new Label("Enter product id:");
         l1.setBounds(10, 50, 150, 30);
         add(l1);
@@ -112,6 +112,6 @@ class ExOfListOfProductUsingAwt extends Frame {
     }
 
     public static void main(String[] args) {
-        ExOfListOfProductUsingAwt p = new ExOfListOfProductUsingAwt();
+        ListOfProductUsingAwt p = new ListOfProductUsingAwt();
     }
 }
