@@ -2178,3 +2178,30 @@ create a login form and check the credentials from the register table .
 
 #### Program 619)Product.java
 Java program  to collect list of product using awt.
+
+#### Program 620)Style.html
+In the following example we have three <div> elements with a class attribute with the value of "city". All of
+the three <div> elements will be styled equally according to the .city style definition in the head section:
+
+#### Program 621)Mkpits.html
+An HTML iframe is used to display a web page within a web page.
+
+#### Program 622)Iframe.html
+The target attribute of the link must refer to the name attribute of the iframe:
+
+#### Program 623)Flexboxlayout.html
+Use of flexbox ensures that elements behave predictably when the page layout must accommodate
+different screen sizes and different display devices.
+
+#### Program 624)Nav.html
+CSS Flexbox Layout.
+
+#### Program 625)Doctype.html
+Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge,
+a website, to make it look good on all devices (desktops, tablets, and phones)
+
+#### Program 626)Doctype1.html
+Responsive web design is about creating web pages that look good on all devices.
+
+#### Program 625)Heading.html
+Heading html Example.
