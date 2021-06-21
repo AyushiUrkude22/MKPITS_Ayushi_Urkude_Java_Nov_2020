@@ -2205,3 +2205,31 @@ Responsive web design is about creating web pages that look good on all devices.
 
 #### Program 627)Heading.html
 Heading html Example.
+
+#### Program 628)Title.html
+The HTML <p> element defines a paragraph.
+
+#### Program 629)TagDescription.html
+HTML Text Formatting Elements.
+
+#### Program 630)InsertAnImageIntoTheWebPage.html
+Used to insert an image into the web page.
+
+#### Program 631)BackgroundColor.html
+HTML background color.
+
+#### Program 632)TagDescription1.html
+HTML Quotation and Citation Elements.
+
+#### Program 633)ColorsAreSpecifiedWithPredefineColor.html
+HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
+
+#### Program 634)SetsTheTextColor.html
+The following example sets the text color of the <h1> element to blue, and the text color of the <p> element to red.
+
+#### Program 635)InternalCSS.html
+An internal CSS is defined in the <head> section of an HTML page, within a <style> element.
+
+#### Program 636)StylesCSS.html
+An external style sheet is used to define the style for many HTML pages.
+
