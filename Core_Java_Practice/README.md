@@ -2233,3 +2233,59 @@ An internal CSS is defined in the <head> section of an HTML page, within a <styl
 #### Program 636)StylesCSS.html
 An external style sheet is used to define the style for many HTML pages.
 
+#### Program 637)CSSFlexboxLayout.html
+Use of flexbox ensures that elements behave predictably when the page layout must accommodate
+different screen sizes and different display devices.
+
+#### Program 638)IframeExample.html
+The target attribute of the link must refer to the name attribute of the iframe.
+
+#### Program 639)IframeExample.html
+An HTML iframe is used to display a web page within a web page.
+
+#### Program 640)ResponsiveWebDesign.html
+Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge,
+a website, to make it look good on all devices (desktops, tablets, and phones).
+
+#### Program 641)DoctypeA.html
+Responsive web design is about creating web pages that look good on all devices.
+
+#### Program 642)FormWithInputFieldsForText.html
+A form with input fields for text.
+
+#### Program 643)RadioButton.html
+A form with radio buttons.
+
+#### Program 644)Checkboxe.html
+Checkboxes let a user select ZERO or MORE options of a limited number of choices.
+
+#### Program 645)SubmitButton.html
+A form with a submit button.
+
+#### Program 646)ActionAttribute.html
+On submit, send form data to "action_page.php".
+
+#### Program 647)SubmittedResult.html
+Here, the submitted result will open in a new browser tab.
+
+#### Program 648)PostMethod.html
+This example uses the POST method when submitting the form data.
+
+#### Program 649)HTMLElement.html
+The HTML <form> element can contain one or more of the following form elements.
+
+#### Program 650)Label.html
+The <input> element can be displayed in several ways, depending on the type attribute.
+
+#### Program 651)Cars.html
+Label for cars.
+
+#### Program 652)HtmlFormElement.html
+The HTML <form> element can contain one or more of the following form elements.
+
+#### Program 653)HTMLInputType.html
+Here are the different input types you can use in HTML.
+
+#### Program 654)ValueAttribute.html
+Input fields with initial (default) values.
+
