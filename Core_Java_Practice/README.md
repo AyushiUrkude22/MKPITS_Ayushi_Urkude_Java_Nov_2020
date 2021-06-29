@@ -2292,3 +2292,25 @@ Input fields with initial (default) values.
 #### Program 655)FormAttribute.html
 The input form attribute specifies the form the <input> element belongs to.
 
+#### Program 656)ElementSelector.html
+The element selector selects HTML elements based on the element name.
+
+#### Program 657)Transparency.html
+The opacity property specifies the opacity/transparency of an element. It can take a value from 0.0 - 1.0.
+The lower value, the more transparent.
+
+#### Program 658)CSSBackgroundRepeat.html
+CSS background-repeat.
+
+#### Program 659)CSSBackgroundAttachment.html
+The background-attachment property specifies whether the background image should scroll or be fixed
+
+#### Program 660)CSSBackgroundShorthandProperty.html
+To shorten the code, it is also possible to specify all the background properties in one single property.
+
+#### Program 661)CSSBoxModel.html
+In CSS, the term "box model" is used when talking about design and layout.
+
+#### Program 662)BoxModel.html
+The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins,
+borders, padding, and the actual content. The image below illustrates the box model.
