@@ -2314,3 +2314,90 @@ In CSS, the term "box model" is used when talking about design and layout.
 #### Program 662)BoxModel.html
 The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins,
 borders, padding, and the actual content. The image below illustrates the box model.
+
+#### Program 663)Bootstrap4GridSystem.html
+Bootstrap's grid system is built with flexbox and allows up to 12 columns across the page.
+
+#### Program 664)BootstrapMkmits.html
+Bootstrap Mkmits example.
+
+#### Program 665)StripedTable.html
+By adding the .table-striped class, you will get stripes on rows within the <tbody> as seen in the following
+example
+
+#### Program 666)BorderedTable.html
+By adding the .table-bordered class, you will get borders surrounding every element and rounded
+corners around the entire table as seen in the following example
+
+#### Program 667)HoverTable.html
+By adding the .table-hover class, a light gray background will be added to rows while the cursor hovers
+over them, as seen in the following example
+
+#### Program 668)CondensedTable.html
+By adding the .table-condensed class, row padding is cut in half to condense the table. as seen in the
+following example. This is useful if you want any denser information.
+
+#### Program 669)DangerousOrPotentiallyNegativeAction.html
+Indicates a dangerous or potentially negative action
+These classes can be applied to <tr>, <td> or <th>.
+
+#### Program 670)ResponsiveTables.html
+By wrapping any .table in .table-responsive class, you will make the table scroll horizontally up to small
+devices (under 768px). When viewing on anything larger than 768px wide, you will not see any
+difference in these tables.
+
+#### Program 671)Tables.html
+Bootstrap provides a clean layout for building tables. Some of the table elements supported by Bootstrap.
+
+#### Program 672)LeftAlignedLabelsForm.html
+The form controls in this layout are stacked with left-aligned labels on the top.
+
+#### Program 673)HorizontalFormLayout.html
+Also, be sure to apply the class .col-form-label on the <label> elements, so that they're vertically
+centered with their associated form controls. Let's check out an example:
+
+#### Program 674)InlineFormLayout.html
+Creating Inline Form Layout.
+
+#### Program 675)StaticFormControl.html
+Creating Static Form Control.
+
+#### Program 676)StaticFormControl1.html
+Placement of Checkboxes and Radios
+Checkboxes and radio buttons can be placed either stacked or inline.
+Stacked Checkboxes and Radios.
+
+#### Program 677)Form.html
+Inline Checkboxes and Radios.
+
+#### Program 678)JavaScriptFramework.html
+javascript framework : angular ,reactjs , bootstrap etc.
+
+#### Program 679)HelloInJavaScript.html
+Write a program to print hello in javascript
+
+#### Program 680)AdditionOf2No.html
+Write a program to print addition of 2 no.
+
+#### Program 681)JsFunctionToAdd2No.html
+create a js function to add 2 no.
+
+#### Program 682)Accept2NoFromTheUser.html
+create a js function to accept 2 no. from the user and then display the addition
+
+#### Program 683)AddUsingGetElementByIdFunction.html
+create a html form to accept 2 no. and then add using getElementbyid function.
+
+#### Program 684)DocumentFormElement.html
+create a html form to accept 2 no. and then add it using by document.form.element.
+
+#### Program 685)Accept3Subject.html
+create a form to accept 3 subject marks and then display total ,percentage and grade.
+
+#### Program 686)FunctionReturningAValue.html
+create an example of function returning a value.
+
+#### Program 687)LoginFunction.html
+create a login function and if user enter username as admin and password as admin then
+display "login successfull " other wise display "invalid username or password"
+and display message "enter name " if user leaves the username text box blank.
