@@ -2400,4 +2400,4 @@ create an example of function returning a value.
 #### Program 687)LoginFunction.html
 create a login function and if user enter username as admin and password as admin then
 display "login successfull " other wise display "invalid username or password"
-and display message "enter name " if user leaves the username text box blank.
+and display message "enter name " if user leaves the username text box blank
